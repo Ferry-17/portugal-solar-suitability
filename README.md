@@ -181,13 +181,11 @@ This created a second map showing suitability areas that were not only favorable
 
 ## Final Outputs
 
-The final deliverables for the project were:
+### Base Solar Suitability Map
+![Base Solar Suitability Map](maps/Solar_suitability_PTL.png)
 
-1. **Base Solar Suitability Map**  
-   A national map of relative solar suitability based on irradiance, population, and slope.
-
-2. **Grid-Constrained Solar Suitability Map**  
-   A filtered version of the suitability model showing cells that also satisfied the selected infrastructure-access thresholds.
+### Grid-Constrained Solar Suitability Map
+![Grid-Constrained Solar Suitability Map](maps/Focused_Suitability_PTL.png)
 
 Together, these outputs show the difference between general solar suitability and a more infrastructure-aware view of utility-scale development potential.
 
@@ -222,14 +220,14 @@ Future improvements could include:
 portugal-solar-suitability/
 ├── README.md
 ├── maps/
-│   ├── solar_suitability_portugal.png
-│   └── solar_suitability_grid_constraints_portugal.png
+│   ├── Solar_suitability_PTL.png
+│   └── Focused_Suitability_PTL.png
 ├── scripts/
-│   └── ghi_mean_aggregation.py
+│   └── ghi_mean.py
 ├── queries/
-│   └── portugal_grid_query.overpassql
+│   └── osm_power_infrastructure.overpassql
 ├── docs/
-│   └── methodology.md
+│   └── methods.md
 ├── data/
 │   ├── raw/
 │   └── processed/
