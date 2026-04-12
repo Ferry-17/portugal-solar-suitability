@@ -222,9 +222,9 @@ portugal-solar-suitability/
 ├── maps/
 │   ├── Solar_suitability_PTL.png
 │   └── Focused_Suitability_PTL.png
-├── scripts/
+├── Scripts/
 │   └── ghi_mean.py
-├── queries/
+├── Queries/
 │   └── osm_power_infrastructure.overpassql
 ├── docs/
 │   └── methods.md
