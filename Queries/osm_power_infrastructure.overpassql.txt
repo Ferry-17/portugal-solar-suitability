@@ -1,0 +1,10 @@
+[out:json][timeout:60];
+area["name"="Portugal"]->.searchArea;
+(
+  way["power"="line"](area.searchArea);
+  way["power"="minor_line"](area.searchArea);
+  node["power"="substation"](area.searchArea);
+);
+out body;
+>;
+out skel qt;
