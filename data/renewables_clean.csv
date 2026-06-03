@@ -1,0 +1,1756 @@
+state_or_region,sector,year,renewable_generation,units,source_key
+Alabama,industrial,2001,3972.0,thousand megawatthours,ELEC.GEN.AOR-AL-97.A
+Alabama,industrial,2002,3537.0,thousand megawatthours,ELEC.GEN.AOR-AL-97.A
+Alabama,industrial,2003,3491.0,thousand megawatthours,ELEC.GEN.AOR-AL-97.A
+Alabama,industrial,2004,3596.0,thousand megawatthours,ELEC.GEN.AOR-AL-97.A
+Alabama,industrial,2005,3445.0,thousand megawatthours,ELEC.GEN.AOR-AL-97.A
+Alabama,industrial,2006,3678.0,thousand megawatthours,ELEC.GEN.AOR-AL-97.A
+Alabama,industrial,2007,3591.0,thousand megawatthours,ELEC.GEN.AOR-AL-97.A
+Alabama,industrial,2008,3190.0,thousand megawatthours,ELEC.GEN.AOR-AL-97.A
+Alabama,industrial,2009,2802.0,thousand megawatthours,ELEC.GEN.AOR-AL-97.A
+Alabama,industrial,2010,2116.0,thousand megawatthours,ELEC.GEN.AOR-AL-97.A
+Alabama,industrial,2011,2585.0,thousand megawatthours,ELEC.GEN.AOR-AL-97.A
+Alabama,industrial,2012,2586.0,thousand megawatthours,ELEC.GEN.AOR-AL-97.A
+Alabama,industrial,2013,2677.0,thousand megawatthours,ELEC.GEN.AOR-AL-97.A
+Alabama,industrial,2014,2534.0,thousand megawatthours,ELEC.GEN.AOR-AL-97.A
+Alabama,industrial,2015,3034.0,thousand megawatthours,ELEC.GEN.AOR-AL-97.A
+Alabama,industrial,2016,3071.0,thousand megawatthours,ELEC.GEN.AOR-AL-97.A
+Alabama,industrial,2017,3193.0,thousand megawatthours,ELEC.GEN.AOR-AL-97.A
+Alabama,industrial,2018,3266.0,thousand megawatthours,ELEC.GEN.AOR-AL-97.A
+Alabama,industrial,2019,3317.0,thousand megawatthours,ELEC.GEN.AOR-AL-97.A
+Alabama,industrial,2020,3269.0,thousand megawatthours,ELEC.GEN.AOR-AL-97.A
+Alabama,industrial,2021,3267.0,thousand megawatthours,ELEC.GEN.AOR-AL-97.A
+Alabama,industrial,2022,3147.0,thousand megawatthours,ELEC.GEN.AOR-AL-97.A
+Alabama,industrial,2023,3129.0,thousand megawatthours,ELEC.GEN.AOR-AL-97.A
+Alabama,industrial,2024,3230.0,thousand megawatthours,ELEC.GEN.AOR-AL-97.A
+Alabama,industrial,2025,3222.0,thousand megawatthours,ELEC.GEN.AOR-AL-97.A
+Alaska,commercial,2003,1.0,thousand megawatthours,ELEC.GEN.AOR-AK-96.A
+Alaska,commercial,2004,0.0,thousand megawatthours,ELEC.GEN.AOR-AK-96.A
+Alaska,commercial,2005,0.0,thousand megawatthours,ELEC.GEN.AOR-AK-96.A
+Alaska,commercial,2006,1.0,thousand megawatthours,ELEC.GEN.AOR-AK-96.A
+Alaska,commercial,2007,0.0,thousand megawatthours,ELEC.GEN.AOR-AK-96.A
+Alaska,commercial,2008,0.0,thousand megawatthours,ELEC.GEN.AOR-AK-96.A
+Alaska,commercial,2012,0.0,thousand megawatthours,ELEC.GEN.AOR-AK-96.A
+Alaska,commercial,2013,46.0,thousand megawatthours,ELEC.GEN.AOR-AK-96.A
+Alaska,commercial,2014,56.0,thousand megawatthours,ELEC.GEN.AOR-AK-96.A
+Alaska,commercial,2015,50.0,thousand megawatthours,ELEC.GEN.AOR-AK-96.A
+Alaska,commercial,2016,43.0,thousand megawatthours,ELEC.GEN.AOR-AK-96.A
+Alaska,commercial,2017,42.0,thousand megawatthours,ELEC.GEN.AOR-AK-96.A
+Alaska,commercial,2018,43.0,thousand megawatthours,ELEC.GEN.AOR-AK-96.A
+Alaska,commercial,2019,37.0,thousand megawatthours,ELEC.GEN.AOR-AK-96.A
+Alaska,commercial,2020,39.0,thousand megawatthours,ELEC.GEN.AOR-AK-96.A
+Alaska,commercial,2021,38.0,thousand megawatthours,ELEC.GEN.AOR-AK-96.A
+Alaska,commercial,2022,41.0,thousand megawatthours,ELEC.GEN.AOR-AK-96.A
+Alaska,commercial,2023,39.0,thousand megawatthours,ELEC.GEN.AOR-AK-96.A
+Alaska,commercial,2024,43.0,thousand megawatthours,ELEC.GEN.AOR-AK-96.A
+Alaska,commercial,2025,40.0,thousand megawatthours,ELEC.GEN.AOR-AK-96.A
+Alaska,industrial,2002,11.0,thousand megawatthours,ELEC.GEN.AOR-AK-97.A
+Alaska,industrial,2003,5.0,thousand megawatthours,ELEC.GEN.AOR-AK-97.A
+Alaska,industrial,2004,9.0,thousand megawatthours,ELEC.GEN.AOR-AK-97.A
+Alaska,industrial,2005,5.0,thousand megawatthours,ELEC.GEN.AOR-AK-97.A
+Alaska,industrial,2006,6.0,thousand megawatthours,ELEC.GEN.AOR-AK-97.A
+Alaska,industrial,2007,10.0,thousand megawatthours,ELEC.GEN.AOR-AK-97.A
+Alaska,industrial,2008,5.0,thousand megawatthours,ELEC.GEN.AOR-AK-97.A
+Alaska,industrial,2009,7.0,thousand megawatthours,ELEC.GEN.AOR-AK-97.A
+Alaska,industrial,2010,6.0,thousand megawatthours,ELEC.GEN.AOR-AK-97.A
+Alaska,industrial,2011,3.0,thousand megawatthours,ELEC.GEN.AOR-AK-97.A
+Alaska,industrial,2012,3.0,thousand megawatthours,ELEC.GEN.AOR-AK-97.A
+Alaska,industrial,2013,6.0,thousand megawatthours,ELEC.GEN.AOR-AK-97.A
+Alaska,industrial,2014,6.0,thousand megawatthours,ELEC.GEN.AOR-AK-97.A
+Alaska,industrial,2015,5.0,thousand megawatthours,ELEC.GEN.AOR-AK-97.A
+Alaska,industrial,2016,1.0,thousand megawatthours,ELEC.GEN.AOR-AK-97.A
+Alaska,industrial,2017,1.0,thousand megawatthours,ELEC.GEN.AOR-AK-97.A
+Alaska,industrial,2018,3.0,thousand megawatthours,ELEC.GEN.AOR-AK-97.A
+Alaska,industrial,2019,1.0,thousand megawatthours,ELEC.GEN.AOR-AK-97.A
+Alaska,industrial,2020,0.0,thousand megawatthours,ELEC.GEN.AOR-AK-97.A
+Alaska,industrial,2021,0.0,thousand megawatthours,ELEC.GEN.AOR-AK-97.A
+Alaska,industrial,2022,0.0,thousand megawatthours,ELEC.GEN.AOR-AK-97.A
+Alaska,industrial,2023,0.0,thousand megawatthours,ELEC.GEN.AOR-AK-97.A
+Alaska,industrial,2024,0.0,thousand megawatthours,ELEC.GEN.AOR-AK-97.A
+Arizona,commercial,2001,5.0,thousand megawatthours,ELEC.GEN.AOR-AZ-96.A
+Arizona,commercial,2002,4.0,thousand megawatthours,ELEC.GEN.AOR-AZ-96.A
+Arizona,commercial,2003,4.0,thousand megawatthours,ELEC.GEN.AOR-AZ-96.A
+Arizona,commercial,2004,0.0,thousand megawatthours,ELEC.GEN.AOR-AZ-96.A
+Arizona,commercial,2005,4.0,thousand megawatthours,ELEC.GEN.AOR-AZ-96.A
+Arizona,commercial,2006,4.0,thousand megawatthours,ELEC.GEN.AOR-AZ-96.A
+Arizona,commercial,2007,4.0,thousand megawatthours,ELEC.GEN.AOR-AZ-96.A
+Arizona,commercial,2008,4.0,thousand megawatthours,ELEC.GEN.AOR-AZ-96.A
+Arizona,commercial,2009,4.0,thousand megawatthours,ELEC.GEN.AOR-AZ-96.A
+Arizona,commercial,2010,4.0,thousand megawatthours,ELEC.GEN.AOR-AZ-96.A
+Arizona,commercial,2011,7.0,thousand megawatthours,ELEC.GEN.AOR-AZ-96.A
+Arizona,commercial,2012,8.0,thousand megawatthours,ELEC.GEN.AOR-AZ-96.A
+Arizona,commercial,2013,20.0,thousand megawatthours,ELEC.GEN.AOR-AZ-96.A
+Arizona,commercial,2014,24.0,thousand megawatthours,ELEC.GEN.AOR-AZ-96.A
+Arizona,commercial,2015,22.0,thousand megawatthours,ELEC.GEN.AOR-AZ-96.A
+Arizona,commercial,2016,24.0,thousand megawatthours,ELEC.GEN.AOR-AZ-96.A
+Arizona,commercial,2017,23.0,thousand megawatthours,ELEC.GEN.AOR-AZ-96.A
+Arizona,commercial,2018,13.0,thousand megawatthours,ELEC.GEN.AOR-AZ-96.A
+Arizona,commercial,2019,16.0,thousand megawatthours,ELEC.GEN.AOR-AZ-96.A
+Arizona,commercial,2020,12.0,thousand megawatthours,ELEC.GEN.AOR-AZ-96.A
+Arizona,commercial,2021,19.0,thousand megawatthours,ELEC.GEN.AOR-AZ-96.A
+Arizona,commercial,2022,23.0,thousand megawatthours,ELEC.GEN.AOR-AZ-96.A
+Arizona,commercial,2023,20.0,thousand megawatthours,ELEC.GEN.AOR-AZ-96.A
+Arizona,commercial,2024,16.0,thousand megawatthours,ELEC.GEN.AOR-AZ-96.A
+Arizona,commercial,2025,20.0,thousand megawatthours,ELEC.GEN.AOR-AZ-96.A
+Arizona,industrial,2022,19.0,thousand megawatthours,ELEC.GEN.AOR-AZ-97.A
+Arizona,industrial,2023,34.0,thousand megawatthours,ELEC.GEN.AOR-AZ-97.A
+Arizona,industrial,2024,34.0,thousand megawatthours,ELEC.GEN.AOR-AZ-97.A
+Arizona,industrial,2025,32.0,thousand megawatthours,ELEC.GEN.AOR-AZ-97.A
+Arkansas,commercial,2001,5.0,thousand megawatthours,ELEC.GEN.AOR-AR-96.A
+Arkansas,commercial,2002,5.0,thousand megawatthours,ELEC.GEN.AOR-AR-96.A
+Arkansas,commercial,2003,5.0,thousand megawatthours,ELEC.GEN.AOR-AR-96.A
+Arkansas,commercial,2004,4.0,thousand megawatthours,ELEC.GEN.AOR-AR-96.A
+Arkansas,commercial,2005,4.0,thousand megawatthours,ELEC.GEN.AOR-AR-96.A
+Arkansas,commercial,2006,3.0,thousand megawatthours,ELEC.GEN.AOR-AR-96.A
+Arkansas,commercial,2007,2.0,thousand megawatthours,ELEC.GEN.AOR-AR-96.A
+Arkansas,commercial,2008,3.0,thousand megawatthours,ELEC.GEN.AOR-AR-96.A
+Arkansas,commercial,2009,2.0,thousand megawatthours,ELEC.GEN.AOR-AR-96.A
+Arkansas,commercial,2010,5.0,thousand megawatthours,ELEC.GEN.AOR-AR-96.A
+Arkansas,commercial,2011,5.0,thousand megawatthours,ELEC.GEN.AOR-AR-96.A
+Arkansas,commercial,2012,6.0,thousand megawatthours,ELEC.GEN.AOR-AR-96.A
+Arkansas,commercial,2013,5.0,thousand megawatthours,ELEC.GEN.AOR-AR-96.A
+Arkansas,commercial,2014,5.0,thousand megawatthours,ELEC.GEN.AOR-AR-96.A
+Arkansas,commercial,2015,4.0,thousand megawatthours,ELEC.GEN.AOR-AR-96.A
+Arkansas,commercial,2016,5.0,thousand megawatthours,ELEC.GEN.AOR-AR-96.A
+Arkansas,commercial,2017,6.0,thousand megawatthours,ELEC.GEN.AOR-AR-96.A
+Arkansas,commercial,2018,6.0,thousand megawatthours,ELEC.GEN.AOR-AR-96.A
+Arkansas,commercial,2019,14.0,thousand megawatthours,ELEC.GEN.AOR-AR-96.A
+Arkansas,commercial,2020,23.0,thousand megawatthours,ELEC.GEN.AOR-AR-96.A
+Arkansas,commercial,2021,23.0,thousand megawatthours,ELEC.GEN.AOR-AR-96.A
+Arkansas,commercial,2022,20.0,thousand megawatthours,ELEC.GEN.AOR-AR-96.A
+Arkansas,commercial,2023,19.0,thousand megawatthours,ELEC.GEN.AOR-AR-96.A
+Arkansas,commercial,2024,17.0,thousand megawatthours,ELEC.GEN.AOR-AR-96.A
+Arkansas,commercial,2025,7.0,thousand megawatthours,ELEC.GEN.AOR-AR-96.A
+Arkansas,industrial,2001,1507.0,thousand megawatthours,ELEC.GEN.AOR-AR-97.A
+Arkansas,industrial,2002,1581.0,thousand megawatthours,ELEC.GEN.AOR-AR-97.A
+Arkansas,industrial,2003,1749.0,thousand megawatthours,ELEC.GEN.AOR-AR-97.A
+Arkansas,industrial,2004,1778.0,thousand megawatthours,ELEC.GEN.AOR-AR-97.A
+Arkansas,industrial,2005,1709.0,thousand megawatthours,ELEC.GEN.AOR-AR-97.A
+Arkansas,industrial,2006,1692.0,thousand megawatthours,ELEC.GEN.AOR-AR-97.A
+Arkansas,industrial,2007,1583.0,thousand megawatthours,ELEC.GEN.AOR-AR-97.A
+Arkansas,industrial,2008,1468.0,thousand megawatthours,ELEC.GEN.AOR-AR-97.A
+Arkansas,industrial,2009,1531.0,thousand megawatthours,ELEC.GEN.AOR-AR-97.A
+Arkansas,industrial,2010,1567.0,thousand megawatthours,ELEC.GEN.AOR-AR-97.A
+Arkansas,industrial,2011,1587.0,thousand megawatthours,ELEC.GEN.AOR-AR-97.A
+Arkansas,industrial,2012,1590.0,thousand megawatthours,ELEC.GEN.AOR-AR-97.A
+Arkansas,industrial,2013,1496.0,thousand megawatthours,ELEC.GEN.AOR-AR-97.A
+Arkansas,industrial,2014,1428.0,thousand megawatthours,ELEC.GEN.AOR-AR-97.A
+Arkansas,industrial,2015,1352.0,thousand megawatthours,ELEC.GEN.AOR-AR-97.A
+Arkansas,industrial,2016,1257.0,thousand megawatthours,ELEC.GEN.AOR-AR-97.A
+Arkansas,industrial,2017,1332.0,thousand megawatthours,ELEC.GEN.AOR-AR-97.A
+Arkansas,industrial,2018,1291.0,thousand megawatthours,ELEC.GEN.AOR-AR-97.A
+Arkansas,industrial,2019,1242.0,thousand megawatthours,ELEC.GEN.AOR-AR-97.A
+Arkansas,industrial,2020,854.0,thousand megawatthours,ELEC.GEN.AOR-AR-97.A
+Arkansas,industrial,2021,800.0,thousand megawatthours,ELEC.GEN.AOR-AR-97.A
+Arkansas,industrial,2022,799.0,thousand megawatthours,ELEC.GEN.AOR-AR-97.A
+Arkansas,industrial,2023,690.0,thousand megawatthours,ELEC.GEN.AOR-AR-97.A
+Arkansas,industrial,2024,769.0,thousand megawatthours,ELEC.GEN.AOR-AR-97.A
+Arkansas,industrial,2025,826.0,thousand megawatthours,ELEC.GEN.AOR-AR-97.A
+California,commercial,2001,225.0,thousand megawatthours,ELEC.GEN.AOR-CA-96.A
+California,commercial,2002,272.0,thousand megawatthours,ELEC.GEN.AOR-CA-96.A
+California,commercial,2003,420.0,thousand megawatthours,ELEC.GEN.AOR-CA-96.A
+California,commercial,2004,416.0,thousand megawatthours,ELEC.GEN.AOR-CA-96.A
+California,commercial,2005,485.0,thousand megawatthours,ELEC.GEN.AOR-CA-96.A
+California,commercial,2006,457.0,thousand megawatthours,ELEC.GEN.AOR-CA-96.A
+California,commercial,2007,420.0,thousand megawatthours,ELEC.GEN.AOR-CA-96.A
+California,commercial,2008,409.0,thousand megawatthours,ELEC.GEN.AOR-CA-96.A
+California,commercial,2009,478.0,thousand megawatthours,ELEC.GEN.AOR-CA-96.A
+California,commercial,2010,410.0,thousand megawatthours,ELEC.GEN.AOR-CA-96.A
+California,commercial,2011,1031.0,thousand megawatthours,ELEC.GEN.AOR-CA-96.A
+California,commercial,2012,1024.0,thousand megawatthours,ELEC.GEN.AOR-CA-96.A
+California,commercial,2013,1100.0,thousand megawatthours,ELEC.GEN.AOR-CA-96.A
+California,commercial,2014,1064.0,thousand megawatthours,ELEC.GEN.AOR-CA-96.A
+California,commercial,2015,1032.0,thousand megawatthours,ELEC.GEN.AOR-CA-96.A
+California,commercial,2016,981.0,thousand megawatthours,ELEC.GEN.AOR-CA-96.A
+California,commercial,2017,927.0,thousand megawatthours,ELEC.GEN.AOR-CA-96.A
+California,commercial,2018,933.0,thousand megawatthours,ELEC.GEN.AOR-CA-96.A
+California,commercial,2019,892.0,thousand megawatthours,ELEC.GEN.AOR-CA-96.A
+California,commercial,2020,891.0,thousand megawatthours,ELEC.GEN.AOR-CA-96.A
+California,commercial,2021,899.0,thousand megawatthours,ELEC.GEN.AOR-CA-96.A
+California,commercial,2022,945.0,thousand megawatthours,ELEC.GEN.AOR-CA-96.A
+California,commercial,2023,953.0,thousand megawatthours,ELEC.GEN.AOR-CA-96.A
+California,commercial,2024,891.0,thousand megawatthours,ELEC.GEN.AOR-CA-96.A
+California,commercial,2025,858.0,thousand megawatthours,ELEC.GEN.AOR-CA-96.A
+California,industrial,2001,1247.0,thousand megawatthours,ELEC.GEN.AOR-CA-97.A
+California,industrial,2002,1160.0,thousand megawatthours,ELEC.GEN.AOR-CA-97.A
+California,industrial,2003,1136.0,thousand megawatthours,ELEC.GEN.AOR-CA-97.A
+California,industrial,2004,964.0,thousand megawatthours,ELEC.GEN.AOR-CA-97.A
+California,industrial,2005,885.0,thousand megawatthours,ELEC.GEN.AOR-CA-97.A
+California,industrial,2006,857.0,thousand megawatthours,ELEC.GEN.AOR-CA-97.A
+California,industrial,2007,871.0,thousand megawatthours,ELEC.GEN.AOR-CA-97.A
+California,industrial,2008,663.0,thousand megawatthours,ELEC.GEN.AOR-CA-97.A
+California,industrial,2009,681.0,thousand megawatthours,ELEC.GEN.AOR-CA-97.A
+California,industrial,2010,661.0,thousand megawatthours,ELEC.GEN.AOR-CA-97.A
+California,industrial,2011,675.0,thousand megawatthours,ELEC.GEN.AOR-CA-97.A
+California,industrial,2012,783.0,thousand megawatthours,ELEC.GEN.AOR-CA-97.A
+California,industrial,2013,750.0,thousand megawatthours,ELEC.GEN.AOR-CA-97.A
+California,industrial,2014,653.0,thousand megawatthours,ELEC.GEN.AOR-CA-97.A
+California,industrial,2015,517.0,thousand megawatthours,ELEC.GEN.AOR-CA-97.A
+California,industrial,2016,602.0,thousand megawatthours,ELEC.GEN.AOR-CA-97.A
+California,industrial,2017,650.0,thousand megawatthours,ELEC.GEN.AOR-CA-97.A
+California,industrial,2018,665.0,thousand megawatthours,ELEC.GEN.AOR-CA-97.A
+California,industrial,2019,756.0,thousand megawatthours,ELEC.GEN.AOR-CA-97.A
+California,industrial,2020,804.0,thousand megawatthours,ELEC.GEN.AOR-CA-97.A
+California,industrial,2021,785.0,thousand megawatthours,ELEC.GEN.AOR-CA-97.A
+California,industrial,2022,949.0,thousand megawatthours,ELEC.GEN.AOR-CA-97.A
+California,industrial,2023,966.0,thousand megawatthours,ELEC.GEN.AOR-CA-97.A
+California,industrial,2024,1095.0,thousand megawatthours,ELEC.GEN.AOR-CA-97.A
+California,industrial,2025,1196.0,thousand megawatthours,ELEC.GEN.AOR-CA-97.A
+Colorado,commercial,2001,32.0,thousand megawatthours,ELEC.GEN.AOR-CO-96.A
+Colorado,commercial,2010,0.0,thousand megawatthours,ELEC.GEN.AOR-CO-96.A
+Colorado,commercial,2011,18.0,thousand megawatthours,ELEC.GEN.AOR-CO-96.A
+Colorado,commercial,2012,21.0,thousand megawatthours,ELEC.GEN.AOR-CO-96.A
+Colorado,commercial,2013,19.0,thousand megawatthours,ELEC.GEN.AOR-CO-96.A
+Colorado,commercial,2014,13.0,thousand megawatthours,ELEC.GEN.AOR-CO-96.A
+Colorado,commercial,2015,17.0,thousand megawatthours,ELEC.GEN.AOR-CO-96.A
+Colorado,commercial,2016,17.0,thousand megawatthours,ELEC.GEN.AOR-CO-96.A
+Colorado,commercial,2017,14.0,thousand megawatthours,ELEC.GEN.AOR-CO-96.A
+Colorado,commercial,2018,13.0,thousand megawatthours,ELEC.GEN.AOR-CO-96.A
+Colorado,commercial,2019,17.0,thousand megawatthours,ELEC.GEN.AOR-CO-96.A
+Colorado,commercial,2020,17.0,thousand megawatthours,ELEC.GEN.AOR-CO-96.A
+Colorado,commercial,2021,10.0,thousand megawatthours,ELEC.GEN.AOR-CO-96.A
+Colorado,commercial,2022,8.0,thousand megawatthours,ELEC.GEN.AOR-CO-96.A
+Colorado,commercial,2023,8.0,thousand megawatthours,ELEC.GEN.AOR-CO-96.A
+Colorado,commercial,2024,6.0,thousand megawatthours,ELEC.GEN.AOR-CO-96.A
+Colorado,commercial,2025,8.0,thousand megawatthours,ELEC.GEN.AOR-CO-96.A
+Colorado,industrial,2010,0.0,thousand megawatthours,ELEC.GEN.AOR-CO-97.A
+Colorado,industrial,2011,3.0,thousand megawatthours,ELEC.GEN.AOR-CO-97.A
+Colorado,industrial,2012,3.0,thousand megawatthours,ELEC.GEN.AOR-CO-97.A
+Colorado,industrial,2013,3.0,thousand megawatthours,ELEC.GEN.AOR-CO-97.A
+Colorado,industrial,2014,3.0,thousand megawatthours,ELEC.GEN.AOR-CO-97.A
+Colorado,industrial,2015,3.0,thousand megawatthours,ELEC.GEN.AOR-CO-97.A
+Colorado,industrial,2016,3.0,thousand megawatthours,ELEC.GEN.AOR-CO-97.A
+Colorado,industrial,2017,3.0,thousand megawatthours,ELEC.GEN.AOR-CO-97.A
+Colorado,industrial,2018,3.0,thousand megawatthours,ELEC.GEN.AOR-CO-97.A
+Colorado,industrial,2019,3.0,thousand megawatthours,ELEC.GEN.AOR-CO-97.A
+Colorado,industrial,2020,3.0,thousand megawatthours,ELEC.GEN.AOR-CO-97.A
+Colorado,industrial,2021,3.0,thousand megawatthours,ELEC.GEN.AOR-CO-97.A
+Colorado,industrial,2022,2.0,thousand megawatthours,ELEC.GEN.AOR-CO-97.A
+Colorado,industrial,2023,8.0,thousand megawatthours,ELEC.GEN.AOR-CO-97.A
+Colorado,industrial,2024,30.0,thousand megawatthours,ELEC.GEN.AOR-CO-97.A
+Colorado,industrial,2025,29.0,thousand megawatthours,ELEC.GEN.AOR-CO-97.A
+Connecticut,commercial,2013,26.0,thousand megawatthours,ELEC.GEN.AOR-CT-96.A
+Connecticut,commercial,2014,21.0,thousand megawatthours,ELEC.GEN.AOR-CT-96.A
+Connecticut,commercial,2015,4.0,thousand megawatthours,ELEC.GEN.AOR-CT-96.A
+Connecticut,commercial,2017,1.0,thousand megawatthours,ELEC.GEN.AOR-CT-96.A
+Connecticut,commercial,2018,1.0,thousand megawatthours,ELEC.GEN.AOR-CT-96.A
+Connecticut,commercial,2019,5.0,thousand megawatthours,ELEC.GEN.AOR-CT-96.A
+Connecticut,commercial,2020,4.0,thousand megawatthours,ELEC.GEN.AOR-CT-96.A
+Connecticut,commercial,2021,3.0,thousand megawatthours,ELEC.GEN.AOR-CT-96.A
+Connecticut,commercial,2022,6.0,thousand megawatthours,ELEC.GEN.AOR-CT-96.A
+Connecticut,commercial,2023,5.0,thousand megawatthours,ELEC.GEN.AOR-CT-96.A
+Connecticut,commercial,2024,6.0,thousand megawatthours,ELEC.GEN.AOR-CT-96.A
+Connecticut,commercial,2025,25.0,thousand megawatthours,ELEC.GEN.AOR-CT-96.A
+Connecticut,industrial,2017,0.0,thousand megawatthours,ELEC.GEN.AOR-CT-97.A
+Connecticut,industrial,2018,0.0,thousand megawatthours,ELEC.GEN.AOR-CT-97.A
+Connecticut,industrial,2019,0.0,thousand megawatthours,ELEC.GEN.AOR-CT-97.A
+Connecticut,industrial,2020,0.0,thousand megawatthours,ELEC.GEN.AOR-CT-97.A
+Connecticut,industrial,2021,0.0,thousand megawatthours,ELEC.GEN.AOR-CT-97.A
+Connecticut,industrial,2022,0.0,thousand megawatthours,ELEC.GEN.AOR-CT-97.A
+Connecticut,industrial,2023,5.0,thousand megawatthours,ELEC.GEN.AOR-CT-97.A
+Connecticut,industrial,2024,0.0,thousand megawatthours,ELEC.GEN.AOR-CT-97.A
+Delaware,commercial,2011,5.0,thousand megawatthours,ELEC.GEN.AOR-DE-96.A
+Delaware,commercial,2012,4.0,thousand megawatthours,ELEC.GEN.AOR-DE-96.A
+Delaware,commercial,2013,4.0,thousand megawatthours,ELEC.GEN.AOR-DE-96.A
+Delaware,commercial,2014,7.0,thousand megawatthours,ELEC.GEN.AOR-DE-96.A
+Delaware,commercial,2015,6.0,thousand megawatthours,ELEC.GEN.AOR-DE-96.A
+Delaware,commercial,2016,7.0,thousand megawatthours,ELEC.GEN.AOR-DE-96.A
+Delaware,commercial,2017,6.0,thousand megawatthours,ELEC.GEN.AOR-DE-96.A
+Delaware,commercial,2018,6.0,thousand megawatthours,ELEC.GEN.AOR-DE-96.A
+Delaware,commercial,2019,6.0,thousand megawatthours,ELEC.GEN.AOR-DE-96.A
+Delaware,commercial,2020,6.0,thousand megawatthours,ELEC.GEN.AOR-DE-96.A
+Delaware,commercial,2021,6.0,thousand megawatthours,ELEC.GEN.AOR-DE-96.A
+Delaware,commercial,2022,7.0,thousand megawatthours,ELEC.GEN.AOR-DE-96.A
+Delaware,commercial,2023,7.0,thousand megawatthours,ELEC.GEN.AOR-DE-96.A
+Delaware,commercial,2024,5.0,thousand megawatthours,ELEC.GEN.AOR-DE-96.A
+Delaware,commercial,2025,8.0,thousand megawatthours,ELEC.GEN.AOR-DE-96.A
+Delaware,industrial,2014,17.0,thousand megawatthours,ELEC.GEN.AOR-DE-97.A
+Delaware,industrial,2015,16.0,thousand megawatthours,ELEC.GEN.AOR-DE-97.A
+Delaware,industrial,2016,16.0,thousand megawatthours,ELEC.GEN.AOR-DE-97.A
+Delaware,industrial,2017,13.0,thousand megawatthours,ELEC.GEN.AOR-DE-97.A
+Delaware,industrial,2018,12.0,thousand megawatthours,ELEC.GEN.AOR-DE-97.A
+Delaware,industrial,2019,10.0,thousand megawatthours,ELEC.GEN.AOR-DE-97.A
+Delaware,industrial,2020,12.0,thousand megawatthours,ELEC.GEN.AOR-DE-97.A
+Delaware,industrial,2021,11.0,thousand megawatthours,ELEC.GEN.AOR-DE-97.A
+Delaware,industrial,2022,21.0,thousand megawatthours,ELEC.GEN.AOR-DE-97.A
+Delaware,industrial,2023,13.0,thousand megawatthours,ELEC.GEN.AOR-DE-97.A
+Delaware,industrial,2024,21.0,thousand megawatthours,ELEC.GEN.AOR-DE-97.A
+Delaware,industrial,2025,22.0,thousand megawatthours,ELEC.GEN.AOR-DE-97.A
+District Of Columbia,commercial,2017,47.0,thousand megawatthours,ELEC.GEN.AOR-DC-96.A
+District Of Columbia,commercial,2018,57.0,thousand megawatthours,ELEC.GEN.AOR-DC-96.A
+District Of Columbia,commercial,2019,55.0,thousand megawatthours,ELEC.GEN.AOR-DC-96.A
+District Of Columbia,commercial,2020,55.0,thousand megawatthours,ELEC.GEN.AOR-DC-96.A
+District Of Columbia,commercial,2021,56.0,thousand megawatthours,ELEC.GEN.AOR-DC-96.A
+District Of Columbia,commercial,2022,58.0,thousand megawatthours,ELEC.GEN.AOR-DC-96.A
+District Of Columbia,commercial,2023,58.0,thousand megawatthours,ELEC.GEN.AOR-DC-96.A
+District Of Columbia,commercial,2024,56.0,thousand megawatthours,ELEC.GEN.AOR-DC-96.A
+District Of Columbia,commercial,2025,50.0,thousand megawatthours,ELEC.GEN.AOR-DC-96.A
+Florida,commercial,2001,39.0,thousand megawatthours,ELEC.GEN.AOR-FL-96.A
+Florida,commercial,2002,40.0,thousand megawatthours,ELEC.GEN.AOR-FL-96.A
+Florida,commercial,2003,13.0,thousand megawatthours,ELEC.GEN.AOR-FL-96.A
+Florida,commercial,2004,40.0,thousand megawatthours,ELEC.GEN.AOR-FL-96.A
+Florida,commercial,2005,39.0,thousand megawatthours,ELEC.GEN.AOR-FL-96.A
+Florida,commercial,2006,35.0,thousand megawatthours,ELEC.GEN.AOR-FL-96.A
+Florida,commercial,2007,39.0,thousand megawatthours,ELEC.GEN.AOR-FL-96.A
+Florida,commercial,2008,44.0,thousand megawatthours,ELEC.GEN.AOR-FL-96.A
+Florida,commercial,2009,40.0,thousand megawatthours,ELEC.GEN.AOR-FL-96.A
+Florida,commercial,2010,40.0,thousand megawatthours,ELEC.GEN.AOR-FL-96.A
+Florida,commercial,2011,39.0,thousand megawatthours,ELEC.GEN.AOR-FL-96.A
+Florida,commercial,2012,37.0,thousand megawatthours,ELEC.GEN.AOR-FL-96.A
+Florida,commercial,2013,34.0,thousand megawatthours,ELEC.GEN.AOR-FL-96.A
+Florida,commercial,2014,34.0,thousand megawatthours,ELEC.GEN.AOR-FL-96.A
+Florida,commercial,2015,46.0,thousand megawatthours,ELEC.GEN.AOR-FL-96.A
+Florida,commercial,2016,51.0,thousand megawatthours,ELEC.GEN.AOR-FL-96.A
+Florida,commercial,2017,47.0,thousand megawatthours,ELEC.GEN.AOR-FL-96.A
+Florida,commercial,2018,51.0,thousand megawatthours,ELEC.GEN.AOR-FL-96.A
+Florida,commercial,2019,50.0,thousand megawatthours,ELEC.GEN.AOR-FL-96.A
+Florida,commercial,2020,25.0,thousand megawatthours,ELEC.GEN.AOR-FL-96.A
+Florida,commercial,2021,178.0,thousand megawatthours,ELEC.GEN.AOR-FL-96.A
+Florida,commercial,2022,459.0,thousand megawatthours,ELEC.GEN.AOR-FL-96.A
+Florida,commercial,2023,457.0,thousand megawatthours,ELEC.GEN.AOR-FL-96.A
+Florida,commercial,2024,403.0,thousand megawatthours,ELEC.GEN.AOR-FL-96.A
+Florida,commercial,2025,414.0,thousand megawatthours,ELEC.GEN.AOR-FL-96.A
+Florida,industrial,2001,1746.0,thousand megawatthours,ELEC.GEN.AOR-FL-97.A
+Florida,industrial,2002,1416.0,thousand megawatthours,ELEC.GEN.AOR-FL-97.A
+Florida,industrial,2003,1877.0,thousand megawatthours,ELEC.GEN.AOR-FL-97.A
+Florida,industrial,2004,1935.0,thousand megawatthours,ELEC.GEN.AOR-FL-97.A
+Florida,industrial,2005,1793.0,thousand megawatthours,ELEC.GEN.AOR-FL-97.A
+Florida,industrial,2006,1757.0,thousand megawatthours,ELEC.GEN.AOR-FL-97.A
+Florida,industrial,2007,1780.0,thousand megawatthours,ELEC.GEN.AOR-FL-97.A
+Florida,industrial,2008,1931.0,thousand megawatthours,ELEC.GEN.AOR-FL-97.A
+Florida,industrial,2009,1932.0,thousand megawatthours,ELEC.GEN.AOR-FL-97.A
+Florida,industrial,2010,1951.0,thousand megawatthours,ELEC.GEN.AOR-FL-97.A
+Florida,industrial,2011,2073.0,thousand megawatthours,ELEC.GEN.AOR-FL-97.A
+Florida,industrial,2012,2001.0,thousand megawatthours,ELEC.GEN.AOR-FL-97.A
+Florida,industrial,2013,2141.0,thousand megawatthours,ELEC.GEN.AOR-FL-97.A
+Florida,industrial,2014,1967.0,thousand megawatthours,ELEC.GEN.AOR-FL-97.A
+Florida,industrial,2015,2110.0,thousand megawatthours,ELEC.GEN.AOR-FL-97.A
+Florida,industrial,2016,2025.0,thousand megawatthours,ELEC.GEN.AOR-FL-97.A
+Florida,industrial,2017,1969.0,thousand megawatthours,ELEC.GEN.AOR-FL-97.A
+Florida,industrial,2018,1942.0,thousand megawatthours,ELEC.GEN.AOR-FL-97.A
+Florida,industrial,2019,1870.0,thousand megawatthours,ELEC.GEN.AOR-FL-97.A
+Florida,industrial,2020,1783.0,thousand megawatthours,ELEC.GEN.AOR-FL-97.A
+Florida,industrial,2021,1820.0,thousand megawatthours,ELEC.GEN.AOR-FL-97.A
+Florida,industrial,2022,1684.0,thousand megawatthours,ELEC.GEN.AOR-FL-97.A
+Florida,industrial,2023,1254.0,thousand megawatthours,ELEC.GEN.AOR-FL-97.A
+Florida,industrial,2024,1274.0,thousand megawatthours,ELEC.GEN.AOR-FL-97.A
+Florida,industrial,2025,1282.0,thousand megawatthours,ELEC.GEN.AOR-FL-97.A
+Georgia,commercial,2009,21.0,thousand megawatthours,ELEC.GEN.AOR-GA-96.A
+Georgia,commercial,2010,20.0,thousand megawatthours,ELEC.GEN.AOR-GA-96.A
+Georgia,commercial,2011,23.0,thousand megawatthours,ELEC.GEN.AOR-GA-96.A
+Georgia,commercial,2012,29.0,thousand megawatthours,ELEC.GEN.AOR-GA-96.A
+Georgia,commercial,2013,26.0,thousand megawatthours,ELEC.GEN.AOR-GA-96.A
+Georgia,commercial,2014,27.0,thousand megawatthours,ELEC.GEN.AOR-GA-96.A
+Georgia,commercial,2015,11.0,thousand megawatthours,ELEC.GEN.AOR-GA-96.A
+Georgia,commercial,2016,6.0,thousand megawatthours,ELEC.GEN.AOR-GA-96.A
+Georgia,commercial,2017,3.0,thousand megawatthours,ELEC.GEN.AOR-GA-96.A
+Georgia,commercial,2018,2.0,thousand megawatthours,ELEC.GEN.AOR-GA-96.A
+Georgia,commercial,2019,3.0,thousand megawatthours,ELEC.GEN.AOR-GA-96.A
+Georgia,commercial,2020,3.0,thousand megawatthours,ELEC.GEN.AOR-GA-96.A
+Georgia,commercial,2021,2.0,thousand megawatthours,ELEC.GEN.AOR-GA-96.A
+Georgia,commercial,2022,2.0,thousand megawatthours,ELEC.GEN.AOR-GA-96.A
+Georgia,commercial,2023,2.0,thousand megawatthours,ELEC.GEN.AOR-GA-96.A
+Georgia,commercial,2024,2.0,thousand megawatthours,ELEC.GEN.AOR-GA-96.A
+Georgia,commercial,2025,5.0,thousand megawatthours,ELEC.GEN.AOR-GA-96.A
+Georgia,industrial,2001,2983.0,thousand megawatthours,ELEC.GEN.AOR-GA-97.A
+Georgia,industrial,2002,6363.0,thousand megawatthours,ELEC.GEN.AOR-GA-97.A
+Georgia,industrial,2003,3156.0,thousand megawatthours,ELEC.GEN.AOR-GA-97.A
+Georgia,industrial,2004,3174.0,thousand megawatthours,ELEC.GEN.AOR-GA-97.A
+Georgia,industrial,2005,3256.0,thousand megawatthours,ELEC.GEN.AOR-GA-97.A
+Georgia,industrial,2006,3404.0,thousand megawatthours,ELEC.GEN.AOR-GA-97.A
+Georgia,industrial,2007,3403.0,thousand megawatthours,ELEC.GEN.AOR-GA-97.A
+Georgia,industrial,2008,2751.0,thousand megawatthours,ELEC.GEN.AOR-GA-97.A
+Georgia,industrial,2009,2774.0,thousand megawatthours,ELEC.GEN.AOR-GA-97.A
+Georgia,industrial,2010,3009.0,thousand megawatthours,ELEC.GEN.AOR-GA-97.A
+Georgia,industrial,2011,3001.0,thousand megawatthours,ELEC.GEN.AOR-GA-97.A
+Georgia,industrial,2012,3030.0,thousand megawatthours,ELEC.GEN.AOR-GA-97.A
+Georgia,industrial,2013,3301.0,thousand megawatthours,ELEC.GEN.AOR-GA-97.A
+Georgia,industrial,2014,3515.0,thousand megawatthours,ELEC.GEN.AOR-GA-97.A
+Georgia,industrial,2015,4047.0,thousand megawatthours,ELEC.GEN.AOR-GA-97.A
+Georgia,industrial,2016,3852.0,thousand megawatthours,ELEC.GEN.AOR-GA-97.A
+Georgia,industrial,2017,3987.0,thousand megawatthours,ELEC.GEN.AOR-GA-97.A
+Georgia,industrial,2018,4116.0,thousand megawatthours,ELEC.GEN.AOR-GA-97.A
+Georgia,industrial,2019,4169.0,thousand megawatthours,ELEC.GEN.AOR-GA-97.A
+Georgia,industrial,2020,4081.0,thousand megawatthours,ELEC.GEN.AOR-GA-97.A
+Georgia,industrial,2021,3940.0,thousand megawatthours,ELEC.GEN.AOR-GA-97.A
+Georgia,industrial,2022,3885.0,thousand megawatthours,ELEC.GEN.AOR-GA-97.A
+Georgia,industrial,2023,3153.0,thousand megawatthours,ELEC.GEN.AOR-GA-97.A
+Georgia,industrial,2024,3581.0,thousand megawatthours,ELEC.GEN.AOR-GA-97.A
+Georgia,industrial,2025,3121.0,thousand megawatthours,ELEC.GEN.AOR-GA-97.A
+Hawaii,commercial,2004,178.0,thousand megawatthours,ELEC.GEN.AOR-HI-96.A
+Hawaii,commercial,2005,163.0,thousand megawatthours,ELEC.GEN.AOR-HI-96.A
+Hawaii,commercial,2006,189.0,thousand megawatthours,ELEC.GEN.AOR-HI-96.A
+Hawaii,commercial,2007,169.0,thousand megawatthours,ELEC.GEN.AOR-HI-96.A
+Hawaii,commercial,2008,184.0,thousand megawatthours,ELEC.GEN.AOR-HI-96.A
+Hawaii,commercial,2009,180.0,thousand megawatthours,ELEC.GEN.AOR-HI-96.A
+Hawaii,commercial,2010,174.0,thousand megawatthours,ELEC.GEN.AOR-HI-96.A
+Hawaii,commercial,2011,161.0,thousand megawatthours,ELEC.GEN.AOR-HI-96.A
+Hawaii,commercial,2012,153.0,thousand megawatthours,ELEC.GEN.AOR-HI-96.A
+Hawaii,commercial,2013,183.0,thousand megawatthours,ELEC.GEN.AOR-HI-96.A
+Hawaii,commercial,2014,194.0,thousand megawatthours,ELEC.GEN.AOR-HI-96.A
+Hawaii,commercial,2015,189.0,thousand megawatthours,ELEC.GEN.AOR-HI-96.A
+Hawaii,commercial,2016,205.0,thousand megawatthours,ELEC.GEN.AOR-HI-96.A
+Hawaii,commercial,2017,189.0,thousand megawatthours,ELEC.GEN.AOR-HI-96.A
+Hawaii,commercial,2018,201.0,thousand megawatthours,ELEC.GEN.AOR-HI-96.A
+Hawaii,commercial,2019,183.0,thousand megawatthours,ELEC.GEN.AOR-HI-96.A
+Hawaii,commercial,2020,163.0,thousand megawatthours,ELEC.GEN.AOR-HI-96.A
+Hawaii,commercial,2021,163.0,thousand megawatthours,ELEC.GEN.AOR-HI-96.A
+Hawaii,commercial,2022,169.0,thousand megawatthours,ELEC.GEN.AOR-HI-96.A
+Hawaii,commercial,2023,151.0,thousand megawatthours,ELEC.GEN.AOR-HI-96.A
+Hawaii,commercial,2024,156.0,thousand megawatthours,ELEC.GEN.AOR-HI-96.A
+Hawaii,commercial,2025,146.0,thousand megawatthours,ELEC.GEN.AOR-HI-96.A
+Hawaii,industrial,2001,124.0,thousand megawatthours,ELEC.GEN.AOR-HI-97.A
+Hawaii,industrial,2002,127.0,thousand megawatthours,ELEC.GEN.AOR-HI-97.A
+Hawaii,industrial,2003,9.0,thousand megawatthours,ELEC.GEN.AOR-HI-97.A
+Hawaii,industrial,2004,10.0,thousand megawatthours,ELEC.GEN.AOR-HI-97.A
+Hawaii,industrial,2005,13.0,thousand megawatthours,ELEC.GEN.AOR-HI-97.A
+Hawaii,industrial,2006,7.0,thousand megawatthours,ELEC.GEN.AOR-HI-97.A
+Hawaii,industrial,2007,7.0,thousand megawatthours,ELEC.GEN.AOR-HI-97.A
+Hawaii,industrial,2008,6.0,thousand megawatthours,ELEC.GEN.AOR-HI-97.A
+Hawaii,industrial,2009,10.0,thousand megawatthours,ELEC.GEN.AOR-HI-97.A
+Hawaii,industrial,2010,107.0,thousand megawatthours,ELEC.GEN.AOR-HI-97.A
+Hawaii,industrial,2011,112.0,thousand megawatthours,ELEC.GEN.AOR-HI-97.A
+Hawaii,industrial,2012,106.0,thousand megawatthours,ELEC.GEN.AOR-HI-97.A
+Hawaii,industrial,2013,118.0,thousand megawatthours,ELEC.GEN.AOR-HI-97.A
+Hawaii,industrial,2014,103.0,thousand megawatthours,ELEC.GEN.AOR-HI-97.A
+Hawaii,industrial,2015,79.0,thousand megawatthours,ELEC.GEN.AOR-HI-97.A
+Hawaii,industrial,2016,66.0,thousand megawatthours,ELEC.GEN.AOR-HI-97.A
+Idaho,commercial,2014,5.0,thousand megawatthours,ELEC.GEN.AOR-ID-96.A
+Idaho,commercial,2015,9.0,thousand megawatthours,ELEC.GEN.AOR-ID-96.A
+Idaho,commercial,2016,11.0,thousand megawatthours,ELEC.GEN.AOR-ID-96.A
+Idaho,commercial,2017,12.0,thousand megawatthours,ELEC.GEN.AOR-ID-96.A
+Idaho,commercial,2018,11.0,thousand megawatthours,ELEC.GEN.AOR-ID-96.A
+Idaho,commercial,2019,25.0,thousand megawatthours,ELEC.GEN.AOR-ID-96.A
+Idaho,commercial,2020,29.0,thousand megawatthours,ELEC.GEN.AOR-ID-96.A
+Idaho,commercial,2021,31.0,thousand megawatthours,ELEC.GEN.AOR-ID-96.A
+Idaho,commercial,2022,30.0,thousand megawatthours,ELEC.GEN.AOR-ID-96.A
+Idaho,commercial,2023,31.0,thousand megawatthours,ELEC.GEN.AOR-ID-96.A
+Idaho,commercial,2024,37.0,thousand megawatthours,ELEC.GEN.AOR-ID-96.A
+Idaho,commercial,2025,36.0,thousand megawatthours,ELEC.GEN.AOR-ID-96.A
+Idaho,industrial,2001,495.0,thousand megawatthours,ELEC.GEN.AOR-ID-97.A
+Idaho,industrial,2002,435.0,thousand megawatthours,ELEC.GEN.AOR-ID-97.A
+Idaho,industrial,2003,454.0,thousand megawatthours,ELEC.GEN.AOR-ID-97.A
+Idaho,industrial,2004,476.0,thousand megawatthours,ELEC.GEN.AOR-ID-97.A
+Idaho,industrial,2005,472.0,thousand megawatthours,ELEC.GEN.AOR-ID-97.A
+Idaho,industrial,2006,444.0,thousand megawatthours,ELEC.GEN.AOR-ID-97.A
+Idaho,industrial,2007,405.0,thousand megawatthours,ELEC.GEN.AOR-ID-97.A
+Idaho,industrial,2008,386.0,thousand megawatthours,ELEC.GEN.AOR-ID-97.A
+Idaho,industrial,2009,402.0,thousand megawatthours,ELEC.GEN.AOR-ID-97.A
+Idaho,industrial,2010,408.0,thousand megawatthours,ELEC.GEN.AOR-ID-97.A
+Idaho,industrial,2011,420.0,thousand megawatthours,ELEC.GEN.AOR-ID-97.A
+Idaho,industrial,2012,397.0,thousand megawatthours,ELEC.GEN.AOR-ID-97.A
+Idaho,industrial,2013,398.0,thousand megawatthours,ELEC.GEN.AOR-ID-97.A
+Idaho,industrial,2014,371.0,thousand megawatthours,ELEC.GEN.AOR-ID-97.A
+Idaho,industrial,2015,377.0,thousand megawatthours,ELEC.GEN.AOR-ID-97.A
+Idaho,industrial,2016,365.0,thousand megawatthours,ELEC.GEN.AOR-ID-97.A
+Idaho,industrial,2017,306.0,thousand megawatthours,ELEC.GEN.AOR-ID-97.A
+Idaho,industrial,2018,346.0,thousand megawatthours,ELEC.GEN.AOR-ID-97.A
+Idaho,industrial,2019,358.0,thousand megawatthours,ELEC.GEN.AOR-ID-97.A
+Idaho,industrial,2020,360.0,thousand megawatthours,ELEC.GEN.AOR-ID-97.A
+Idaho,industrial,2021,345.0,thousand megawatthours,ELEC.GEN.AOR-ID-97.A
+Idaho,industrial,2022,345.0,thousand megawatthours,ELEC.GEN.AOR-ID-97.A
+Idaho,industrial,2023,335.0,thousand megawatthours,ELEC.GEN.AOR-ID-97.A
+Idaho,industrial,2024,295.0,thousand megawatthours,ELEC.GEN.AOR-ID-97.A
+Idaho,industrial,2025,397.0,thousand megawatthours,ELEC.GEN.AOR-ID-97.A
+Illinois,commercial,2001,8.0,thousand megawatthours,ELEC.GEN.AOR-IL-96.A
+Illinois,commercial,2002,5.0,thousand megawatthours,ELEC.GEN.AOR-IL-96.A
+Illinois,commercial,2003,0.0,thousand megawatthours,ELEC.GEN.AOR-IL-96.A
+Illinois,commercial,2004,0.0,thousand megawatthours,ELEC.GEN.AOR-IL-96.A
+Illinois,commercial,2005,1.0,thousand megawatthours,ELEC.GEN.AOR-IL-96.A
+Illinois,commercial,2006,0.0,thousand megawatthours,ELEC.GEN.AOR-IL-96.A
+Illinois,commercial,2007,1.0,thousand megawatthours,ELEC.GEN.AOR-IL-96.A
+Illinois,commercial,2008,0.0,thousand megawatthours,ELEC.GEN.AOR-IL-96.A
+Illinois,commercial,2009,1.0,thousand megawatthours,ELEC.GEN.AOR-IL-96.A
+Illinois,commercial,2010,0.0,thousand megawatthours,ELEC.GEN.AOR-IL-96.A
+Illinois,commercial,2011,0.0,thousand megawatthours,ELEC.GEN.AOR-IL-96.A
+Illinois,commercial,2012,0.0,thousand megawatthours,ELEC.GEN.AOR-IL-96.A
+Illinois,commercial,2013,0.0,thousand megawatthours,ELEC.GEN.AOR-IL-96.A
+Illinois,commercial,2014,4.0,thousand megawatthours,ELEC.GEN.AOR-IL-96.A
+Illinois,commercial,2015,5.0,thousand megawatthours,ELEC.GEN.AOR-IL-96.A
+Illinois,commercial,2016,5.0,thousand megawatthours,ELEC.GEN.AOR-IL-96.A
+Illinois,commercial,2017,5.0,thousand megawatthours,ELEC.GEN.AOR-IL-96.A
+Illinois,commercial,2018,8.0,thousand megawatthours,ELEC.GEN.AOR-IL-96.A
+Illinois,commercial,2019,8.0,thousand megawatthours,ELEC.GEN.AOR-IL-96.A
+Illinois,commercial,2020,6.0,thousand megawatthours,ELEC.GEN.AOR-IL-96.A
+Illinois,commercial,2021,5.0,thousand megawatthours,ELEC.GEN.AOR-IL-96.A
+Illinois,commercial,2022,5.0,thousand megawatthours,ELEC.GEN.AOR-IL-96.A
+Illinois,commercial,2023,3.0,thousand megawatthours,ELEC.GEN.AOR-IL-96.A
+Illinois,commercial,2024,6.0,thousand megawatthours,ELEC.GEN.AOR-IL-96.A
+Illinois,commercial,2025,9.0,thousand megawatthours,ELEC.GEN.AOR-IL-96.A
+Illinois,industrial,2001,69.0,thousand megawatthours,ELEC.GEN.AOR-IL-97.A
+Illinois,industrial,2002,66.0,thousand megawatthours,ELEC.GEN.AOR-IL-97.A
+Illinois,industrial,2003,74.0,thousand megawatthours,ELEC.GEN.AOR-IL-97.A
+Illinois,industrial,2004,77.0,thousand megawatthours,ELEC.GEN.AOR-IL-97.A
+Illinois,industrial,2005,77.0,thousand megawatthours,ELEC.GEN.AOR-IL-97.A
+Illinois,industrial,2008,1.0,thousand megawatthours,ELEC.GEN.AOR-IL-97.A
+Illinois,industrial,2009,0.0,thousand megawatthours,ELEC.GEN.AOR-IL-97.A
+Illinois,industrial,2010,0.0,thousand megawatthours,ELEC.GEN.AOR-IL-97.A
+Illinois,industrial,2011,1.0,thousand megawatthours,ELEC.GEN.AOR-IL-97.A
+Illinois,industrial,2012,0.0,thousand megawatthours,ELEC.GEN.AOR-IL-97.A
+Illinois,industrial,2013,0.0,thousand megawatthours,ELEC.GEN.AOR-IL-97.A
+Illinois,industrial,2014,0.0,thousand megawatthours,ELEC.GEN.AOR-IL-97.A
+Illinois,industrial,2015,0.0,thousand megawatthours,ELEC.GEN.AOR-IL-97.A
+Illinois,industrial,2016,0.0,thousand megawatthours,ELEC.GEN.AOR-IL-97.A
+Illinois,industrial,2017,0.0,thousand megawatthours,ELEC.GEN.AOR-IL-97.A
+Illinois,industrial,2018,0.0,thousand megawatthours,ELEC.GEN.AOR-IL-97.A
+Illinois,industrial,2019,0.0,thousand megawatthours,ELEC.GEN.AOR-IL-97.A
+Illinois,industrial,2020,0.0,thousand megawatthours,ELEC.GEN.AOR-IL-97.A
+Illinois,industrial,2021,0.0,thousand megawatthours,ELEC.GEN.AOR-IL-97.A
+Illinois,industrial,2022,0.0,thousand megawatthours,ELEC.GEN.AOR-IL-97.A
+Illinois,industrial,2024,2.0,thousand megawatthours,ELEC.GEN.AOR-IL-97.A
+Illinois,industrial,2025,8.0,thousand megawatthours,ELEC.GEN.AOR-IL-97.A
+Indiana,commercial,2001,21.0,thousand megawatthours,ELEC.GEN.AOR-IN-96.A
+Indiana,commercial,2002,20.0,thousand megawatthours,ELEC.GEN.AOR-IN-96.A
+Indiana,commercial,2003,18.0,thousand megawatthours,ELEC.GEN.AOR-IN-96.A
+Indiana,commercial,2004,22.0,thousand megawatthours,ELEC.GEN.AOR-IN-96.A
+Indiana,commercial,2005,22.0,thousand megawatthours,ELEC.GEN.AOR-IN-96.A
+Indiana,commercial,2006,22.0,thousand megawatthours,ELEC.GEN.AOR-IN-96.A
+Indiana,commercial,2007,19.0,thousand megawatthours,ELEC.GEN.AOR-IN-96.A
+Indiana,commercial,2008,23.0,thousand megawatthours,ELEC.GEN.AOR-IN-96.A
+Indiana,commercial,2009,21.0,thousand megawatthours,ELEC.GEN.AOR-IN-96.A
+Indiana,commercial,2010,24.0,thousand megawatthours,ELEC.GEN.AOR-IN-96.A
+Indiana,commercial,2011,21.0,thousand megawatthours,ELEC.GEN.AOR-IN-96.A
+Indiana,commercial,2012,22.0,thousand megawatthours,ELEC.GEN.AOR-IN-96.A
+Indiana,commercial,2013,21.0,thousand megawatthours,ELEC.GEN.AOR-IN-96.A
+Indiana,commercial,2014,21.0,thousand megawatthours,ELEC.GEN.AOR-IN-96.A
+Indiana,commercial,2015,22.0,thousand megawatthours,ELEC.GEN.AOR-IN-96.A
+Indiana,commercial,2016,21.0,thousand megawatthours,ELEC.GEN.AOR-IN-96.A
+Indiana,commercial,2017,21.0,thousand megawatthours,ELEC.GEN.AOR-IN-96.A
+Indiana,commercial,2018,22.0,thousand megawatthours,ELEC.GEN.AOR-IN-96.A
+Indiana,commercial,2019,21.0,thousand megawatthours,ELEC.GEN.AOR-IN-96.A
+Indiana,commercial,2020,22.0,thousand megawatthours,ELEC.GEN.AOR-IN-96.A
+Indiana,commercial,2021,21.0,thousand megawatthours,ELEC.GEN.AOR-IN-96.A
+Indiana,commercial,2022,11.0,thousand megawatthours,ELEC.GEN.AOR-IN-96.A
+Indiana,commercial,2023,2.0,thousand megawatthours,ELEC.GEN.AOR-IN-96.A
+Indiana,commercial,2024,2.0,thousand megawatthours,ELEC.GEN.AOR-IN-96.A
+Indiana,commercial,2025,2.0,thousand megawatthours,ELEC.GEN.AOR-IN-96.A
+Indiana,industrial,2001,4.0,thousand megawatthours,ELEC.GEN.AOR-IN-97.A
+Indiana,industrial,2002,7.0,thousand megawatthours,ELEC.GEN.AOR-IN-97.A
+Indiana,industrial,2003,16.0,thousand megawatthours,ELEC.GEN.AOR-IN-97.A
+Indiana,industrial,2004,29.0,thousand megawatthours,ELEC.GEN.AOR-IN-97.A
+Indiana,industrial,2005,26.0,thousand megawatthours,ELEC.GEN.AOR-IN-97.A
+Indiana,industrial,2006,24.0,thousand megawatthours,ELEC.GEN.AOR-IN-97.A
+Indiana,industrial,2007,22.0,thousand megawatthours,ELEC.GEN.AOR-IN-97.A
+Indiana,industrial,2008,21.0,thousand megawatthours,ELEC.GEN.AOR-IN-97.A
+Indiana,industrial,2009,22.0,thousand megawatthours,ELEC.GEN.AOR-IN-97.A
+Indiana,industrial,2010,15.0,thousand megawatthours,ELEC.GEN.AOR-IN-97.A
+Indiana,industrial,2011,20.0,thousand megawatthours,ELEC.GEN.AOR-IN-97.A
+Indiana,industrial,2012,29.0,thousand megawatthours,ELEC.GEN.AOR-IN-97.A
+Indiana,industrial,2013,41.0,thousand megawatthours,ELEC.GEN.AOR-IN-97.A
+Indiana,industrial,2014,67.0,thousand megawatthours,ELEC.GEN.AOR-IN-97.A
+Indiana,industrial,2015,71.0,thousand megawatthours,ELEC.GEN.AOR-IN-97.A
+Indiana,industrial,2016,75.0,thousand megawatthours,ELEC.GEN.AOR-IN-97.A
+Indiana,industrial,2017,80.0,thousand megawatthours,ELEC.GEN.AOR-IN-97.A
+Indiana,industrial,2018,69.0,thousand megawatthours,ELEC.GEN.AOR-IN-97.A
+Indiana,industrial,2019,64.0,thousand megawatthours,ELEC.GEN.AOR-IN-97.A
+Indiana,industrial,2020,64.0,thousand megawatthours,ELEC.GEN.AOR-IN-97.A
+Indiana,industrial,2021,60.0,thousand megawatthours,ELEC.GEN.AOR-IN-97.A
+Indiana,industrial,2022,47.0,thousand megawatthours,ELEC.GEN.AOR-IN-97.A
+Indiana,industrial,2023,43.0,thousand megawatthours,ELEC.GEN.AOR-IN-97.A
+Indiana,industrial,2024,47.0,thousand megawatthours,ELEC.GEN.AOR-IN-97.A
+Indiana,industrial,2025,48.0,thousand megawatthours,ELEC.GEN.AOR-IN-97.A
+Iowa,commercial,2001,15.0,thousand megawatthours,ELEC.GEN.AOR-IA-96.A
+Iowa,commercial,2002,11.0,thousand megawatthours,ELEC.GEN.AOR-IA-96.A
+Iowa,commercial,2003,25.0,thousand megawatthours,ELEC.GEN.AOR-IA-96.A
+Iowa,commercial,2004,31.0,thousand megawatthours,ELEC.GEN.AOR-IA-96.A
+Iowa,commercial,2005,35.0,thousand megawatthours,ELEC.GEN.AOR-IA-96.A
+Iowa,commercial,2006,37.0,thousand megawatthours,ELEC.GEN.AOR-IA-96.A
+Iowa,commercial,2007,28.0,thousand megawatthours,ELEC.GEN.AOR-IA-96.A
+Iowa,commercial,2008,26.0,thousand megawatthours,ELEC.GEN.AOR-IA-96.A
+Iowa,commercial,2009,25.0,thousand megawatthours,ELEC.GEN.AOR-IA-96.A
+Iowa,commercial,2010,27.0,thousand megawatthours,ELEC.GEN.AOR-IA-96.A
+Iowa,commercial,2011,34.0,thousand megawatthours,ELEC.GEN.AOR-IA-96.A
+Iowa,commercial,2012,28.0,thousand megawatthours,ELEC.GEN.AOR-IA-96.A
+Iowa,commercial,2013,31.0,thousand megawatthours,ELEC.GEN.AOR-IA-96.A
+Iowa,commercial,2014,33.0,thousand megawatthours,ELEC.GEN.AOR-IA-96.A
+Iowa,commercial,2015,40.0,thousand megawatthours,ELEC.GEN.AOR-IA-96.A
+Iowa,commercial,2016,51.0,thousand megawatthours,ELEC.GEN.AOR-IA-96.A
+Iowa,commercial,2017,33.0,thousand megawatthours,ELEC.GEN.AOR-IA-96.A
+Iowa,commercial,2018,47.0,thousand megawatthours,ELEC.GEN.AOR-IA-96.A
+Iowa,commercial,2019,41.0,thousand megawatthours,ELEC.GEN.AOR-IA-96.A
+Iowa,commercial,2020,28.0,thousand megawatthours,ELEC.GEN.AOR-IA-96.A
+Iowa,commercial,2021,12.0,thousand megawatthours,ELEC.GEN.AOR-IA-96.A
+Iowa,commercial,2022,23.0,thousand megawatthours,ELEC.GEN.AOR-IA-96.A
+Iowa,commercial,2023,8.0,thousand megawatthours,ELEC.GEN.AOR-IA-96.A
+Iowa,commercial,2024,9.0,thousand megawatthours,ELEC.GEN.AOR-IA-96.A
+Iowa,commercial,2025,6.0,thousand megawatthours,ELEC.GEN.AOR-IA-96.A
+Iowa,industrial,2002,0.0,thousand megawatthours,ELEC.GEN.AOR-IA-97.A
+Iowa,industrial,2008,8.0,thousand megawatthours,ELEC.GEN.AOR-IA-97.A
+Iowa,industrial,2009,22.0,thousand megawatthours,ELEC.GEN.AOR-IA-97.A
+Iowa,industrial,2010,39.0,thousand megawatthours,ELEC.GEN.AOR-IA-97.A
+Iowa,industrial,2011,15.0,thousand megawatthours,ELEC.GEN.AOR-IA-97.A
+Iowa,industrial,2012,12.0,thousand megawatthours,ELEC.GEN.AOR-IA-97.A
+Iowa,industrial,2013,21.0,thousand megawatthours,ELEC.GEN.AOR-IA-97.A
+Iowa,industrial,2014,94.0,thousand megawatthours,ELEC.GEN.AOR-IA-97.A
+Iowa,industrial,2015,67.0,thousand megawatthours,ELEC.GEN.AOR-IA-97.A
+Iowa,industrial,2016,55.0,thousand megawatthours,ELEC.GEN.AOR-IA-97.A
+Iowa,industrial,2017,41.0,thousand megawatthours,ELEC.GEN.AOR-IA-97.A
+Iowa,industrial,2018,35.0,thousand megawatthours,ELEC.GEN.AOR-IA-97.A
+Iowa,industrial,2019,59.0,thousand megawatthours,ELEC.GEN.AOR-IA-97.A
+Iowa,industrial,2020,52.0,thousand megawatthours,ELEC.GEN.AOR-IA-97.A
+Iowa,industrial,2021,63.0,thousand megawatthours,ELEC.GEN.AOR-IA-97.A
+Iowa,industrial,2022,71.0,thousand megawatthours,ELEC.GEN.AOR-IA-97.A
+Iowa,industrial,2023,71.0,thousand megawatthours,ELEC.GEN.AOR-IA-97.A
+Iowa,industrial,2024,80.0,thousand megawatthours,ELEC.GEN.AOR-IA-97.A
+Iowa,industrial,2025,64.0,thousand megawatthours,ELEC.GEN.AOR-IA-97.A
+Kansas,commercial,2017,15.0,thousand megawatthours,ELEC.GEN.AOR-KS-96.A
+Kansas,commercial,2018,16.0,thousand megawatthours,ELEC.GEN.AOR-KS-96.A
+Kansas,commercial,2019,17.0,thousand megawatthours,ELEC.GEN.AOR-KS-96.A
+Kansas,commercial,2020,16.0,thousand megawatthours,ELEC.GEN.AOR-KS-96.A
+Kansas,commercial,2021,16.0,thousand megawatthours,ELEC.GEN.AOR-KS-96.A
+Kansas,commercial,2022,16.0,thousand megawatthours,ELEC.GEN.AOR-KS-96.A
+Kansas,commercial,2023,13.0,thousand megawatthours,ELEC.GEN.AOR-KS-96.A
+Kansas,commercial,2024,13.0,thousand megawatthours,ELEC.GEN.AOR-KS-96.A
+Kansas,commercial,2025,12.0,thousand megawatthours,ELEC.GEN.AOR-KS-96.A
+Kansas,industrial,2013,0.0,thousand megawatthours,ELEC.GEN.AOR-KS-97.A
+Kansas,industrial,2014,-4.0,thousand megawatthours,ELEC.GEN.AOR-KS-97.A
+Kansas,industrial,2015,0.0,thousand megawatthours,ELEC.GEN.AOR-KS-97.A
+Kansas,industrial,2016,0.0,thousand megawatthours,ELEC.GEN.AOR-KS-97.A
+Kansas,industrial,2017,-3.0,thousand megawatthours,ELEC.GEN.AOR-KS-97.A
+Kansas,industrial,2018,-3.0,thousand megawatthours,ELEC.GEN.AOR-KS-97.A
+Kansas,industrial,2021,3.0,thousand megawatthours,ELEC.GEN.AOR-KS-97.A
+Kansas,industrial,2022,13.0,thousand megawatthours,ELEC.GEN.AOR-KS-97.A
+Kansas,industrial,2023,11.0,thousand megawatthours,ELEC.GEN.AOR-KS-97.A
+Kansas,industrial,2024,12.0,thousand megawatthours,ELEC.GEN.AOR-KS-97.A
+Kansas,industrial,2025,11.0,thousand megawatthours,ELEC.GEN.AOR-KS-97.A
+Kentucky,commercial,2022,3.0,thousand megawatthours,ELEC.GEN.AOR-KY-96.A
+Kentucky,commercial,2023,1.0,thousand megawatthours,ELEC.GEN.AOR-KY-96.A
+Kentucky,commercial,2024,2.0,thousand megawatthours,ELEC.GEN.AOR-KY-96.A
+Kentucky,industrial,2001,10.0,thousand megawatthours,ELEC.GEN.AOR-KY-97.A
+Kentucky,industrial,2002,365.0,thousand megawatthours,ELEC.GEN.AOR-KY-97.A
+Kentucky,industrial,2003,299.0,thousand megawatthours,ELEC.GEN.AOR-KY-97.A
+Kentucky,industrial,2004,354.0,thousand megawatthours,ELEC.GEN.AOR-KY-97.A
+Kentucky,industrial,2005,359.0,thousand megawatthours,ELEC.GEN.AOR-KY-97.A
+Kentucky,industrial,2006,371.0,thousand megawatthours,ELEC.GEN.AOR-KY-97.A
+Kentucky,industrial,2007,372.0,thousand megawatthours,ELEC.GEN.AOR-KY-97.A
+Kentucky,industrial,2008,355.0,thousand megawatthours,ELEC.GEN.AOR-KY-97.A
+Kentucky,industrial,2009,267.0,thousand megawatthours,ELEC.GEN.AOR-KY-97.A
+Kentucky,industrial,2010,351.0,thousand megawatthours,ELEC.GEN.AOR-KY-97.A
+Kentucky,industrial,2011,342.0,thousand megawatthours,ELEC.GEN.AOR-KY-97.A
+Kentucky,industrial,2012,238.0,thousand megawatthours,ELEC.GEN.AOR-KY-97.A
+Kentucky,industrial,2013,228.0,thousand megawatthours,ELEC.GEN.AOR-KY-97.A
+Kentucky,industrial,2014,354.0,thousand megawatthours,ELEC.GEN.AOR-KY-97.A
+Kentucky,industrial,2015,349.0,thousand megawatthours,ELEC.GEN.AOR-KY-97.A
+Kentucky,industrial,2016,360.0,thousand megawatthours,ELEC.GEN.AOR-KY-97.A
+Kentucky,industrial,2017,380.0,thousand megawatthours,ELEC.GEN.AOR-KY-97.A
+Kentucky,industrial,2018,329.0,thousand megawatthours,ELEC.GEN.AOR-KY-97.A
+Kentucky,industrial,2019,276.0,thousand megawatthours,ELEC.GEN.AOR-KY-97.A
+Kentucky,industrial,2020,233.0,thousand megawatthours,ELEC.GEN.AOR-KY-97.A
+Kentucky,industrial,2021,300.0,thousand megawatthours,ELEC.GEN.AOR-KY-97.A
+Kentucky,industrial,2022,343.0,thousand megawatthours,ELEC.GEN.AOR-KY-97.A
+Kentucky,industrial,2023,329.0,thousand megawatthours,ELEC.GEN.AOR-KY-97.A
+Kentucky,industrial,2024,296.0,thousand megawatthours,ELEC.GEN.AOR-KY-97.A
+Kentucky,industrial,2025,311.0,thousand megawatthours,ELEC.GEN.AOR-KY-97.A
+Louisiana,industrial,2001,2644.0,thousand megawatthours,ELEC.GEN.AOR-LA-97.A
+Louisiana,industrial,2002,2751.0,thousand megawatthours,ELEC.GEN.AOR-LA-97.A
+Louisiana,industrial,2003,3018.0,thousand megawatthours,ELEC.GEN.AOR-LA-97.A
+Louisiana,industrial,2004,2893.0,thousand megawatthours,ELEC.GEN.AOR-LA-97.A
+Louisiana,industrial,2005,2811.0,thousand megawatthours,ELEC.GEN.AOR-LA-97.A
+Louisiana,industrial,2006,2886.0,thousand megawatthours,ELEC.GEN.AOR-LA-97.A
+Louisiana,industrial,2007,2905.0,thousand megawatthours,ELEC.GEN.AOR-LA-97.A
+Louisiana,industrial,2008,2640.0,thousand megawatthours,ELEC.GEN.AOR-LA-97.A
+Louisiana,industrial,2009,2298.0,thousand megawatthours,ELEC.GEN.AOR-LA-97.A
+Louisiana,industrial,2010,2394.0,thousand megawatthours,ELEC.GEN.AOR-LA-97.A
+Louisiana,industrial,2011,2372.0,thousand megawatthours,ELEC.GEN.AOR-LA-97.A
+Louisiana,industrial,2012,2370.0,thousand megawatthours,ELEC.GEN.AOR-LA-97.A
+Louisiana,industrial,2013,2714.0,thousand megawatthours,ELEC.GEN.AOR-LA-97.A
+Louisiana,industrial,2014,2694.0,thousand megawatthours,ELEC.GEN.AOR-LA-97.A
+Louisiana,industrial,2015,2616.0,thousand megawatthours,ELEC.GEN.AOR-LA-97.A
+Louisiana,industrial,2016,2796.0,thousand megawatthours,ELEC.GEN.AOR-LA-97.A
+Louisiana,industrial,2017,2651.0,thousand megawatthours,ELEC.GEN.AOR-LA-97.A
+Louisiana,industrial,2018,2528.0,thousand megawatthours,ELEC.GEN.AOR-LA-97.A
+Louisiana,industrial,2019,2165.0,thousand megawatthours,ELEC.GEN.AOR-LA-97.A
+Louisiana,industrial,2020,2059.0,thousand megawatthours,ELEC.GEN.AOR-LA-97.A
+Louisiana,industrial,2021,2056.0,thousand megawatthours,ELEC.GEN.AOR-LA-97.A
+Louisiana,industrial,2022,1997.0,thousand megawatthours,ELEC.GEN.AOR-LA-97.A
+Louisiana,industrial,2023,1904.0,thousand megawatthours,ELEC.GEN.AOR-LA-97.A
+Louisiana,industrial,2024,1900.0,thousand megawatthours,ELEC.GEN.AOR-LA-97.A
+Louisiana,industrial,2025,1924.0,thousand megawatthours,ELEC.GEN.AOR-LA-97.A
+Maine,commercial,2001,103.0,thousand megawatthours,ELEC.GEN.AOR-ME-96.A
+Maine,commercial,2002,99.0,thousand megawatthours,ELEC.GEN.AOR-ME-96.A
+Maine,commercial,2003,98.0,thousand megawatthours,ELEC.GEN.AOR-ME-96.A
+Maine,commercial,2004,95.0,thousand megawatthours,ELEC.GEN.AOR-ME-96.A
+Maine,commercial,2005,98.0,thousand megawatthours,ELEC.GEN.AOR-ME-96.A
+Maine,commercial,2006,95.0,thousand megawatthours,ELEC.GEN.AOR-ME-96.A
+Maine,commercial,2007,96.0,thousand megawatthours,ELEC.GEN.AOR-ME-96.A
+Maine,commercial,2008,98.0,thousand megawatthours,ELEC.GEN.AOR-ME-96.A
+Maine,commercial,2009,102.0,thousand megawatthours,ELEC.GEN.AOR-ME-96.A
+Maine,commercial,2010,99.0,thousand megawatthours,ELEC.GEN.AOR-ME-96.A
+Maine,commercial,2011,89.0,thousand megawatthours,ELEC.GEN.AOR-ME-96.A
+Maine,commercial,2012,92.0,thousand megawatthours,ELEC.GEN.AOR-ME-96.A
+Maine,commercial,2013,91.0,thousand megawatthours,ELEC.GEN.AOR-ME-96.A
+Maine,commercial,2014,93.0,thousand megawatthours,ELEC.GEN.AOR-ME-96.A
+Maine,commercial,2015,91.0,thousand megawatthours,ELEC.GEN.AOR-ME-96.A
+Maine,commercial,2016,90.0,thousand megawatthours,ELEC.GEN.AOR-ME-96.A
+Maine,commercial,2017,94.0,thousand megawatthours,ELEC.GEN.AOR-ME-96.A
+Maine,commercial,2018,68.0,thousand megawatthours,ELEC.GEN.AOR-ME-96.A
+Maine,commercial,2019,45.0,thousand megawatthours,ELEC.GEN.AOR-ME-96.A
+Maine,commercial,2020,35.0,thousand megawatthours,ELEC.GEN.AOR-ME-96.A
+Maine,commercial,2021,29.0,thousand megawatthours,ELEC.GEN.AOR-ME-96.A
+Maine,commercial,2022,32.0,thousand megawatthours,ELEC.GEN.AOR-ME-96.A
+Maine,commercial,2023,7.0,thousand megawatthours,ELEC.GEN.AOR-ME-96.A
+Maine,commercial,2024,4.0,thousand megawatthours,ELEC.GEN.AOR-ME-96.A
+Maine,commercial,2025,4.0,thousand megawatthours,ELEC.GEN.AOR-ME-96.A
+Maine,industrial,2001,1889.0,thousand megawatthours,ELEC.GEN.AOR-ME-97.A
+Maine,industrial,2002,2278.0,thousand megawatthours,ELEC.GEN.AOR-ME-97.A
+Maine,industrial,2003,1842.0,thousand megawatthours,ELEC.GEN.AOR-ME-97.A
+Maine,industrial,2004,1901.0,thousand megawatthours,ELEC.GEN.AOR-ME-97.A
+Maine,industrial,2005,1950.0,thousand megawatthours,ELEC.GEN.AOR-ME-97.A
+Maine,industrial,2006,1881.0,thousand megawatthours,ELEC.GEN.AOR-ME-97.A
+Maine,industrial,2007,1975.0,thousand megawatthours,ELEC.GEN.AOR-ME-97.A
+Maine,industrial,2008,1933.0,thousand megawatthours,ELEC.GEN.AOR-ME-97.A
+Maine,industrial,2009,1668.0,thousand megawatthours,ELEC.GEN.AOR-ME-97.A
+Maine,industrial,2010,1576.0,thousand megawatthours,ELEC.GEN.AOR-ME-97.A
+Maine,industrial,2011,1985.0,thousand megawatthours,ELEC.GEN.AOR-ME-97.A
+Maine,industrial,2012,2105.0,thousand megawatthours,ELEC.GEN.AOR-ME-97.A
+Maine,industrial,2013,2160.0,thousand megawatthours,ELEC.GEN.AOR-ME-97.A
+Maine,industrial,2014,1675.0,thousand megawatthours,ELEC.GEN.AOR-ME-97.A
+Maine,industrial,2015,1246.0,thousand megawatthours,ELEC.GEN.AOR-ME-97.A
+Maine,industrial,2016,1075.0,thousand megawatthours,ELEC.GEN.AOR-ME-97.A
+Maine,industrial,2017,1029.0,thousand megawatthours,ELEC.GEN.AOR-ME-97.A
+Maine,industrial,2018,1105.0,thousand megawatthours,ELEC.GEN.AOR-ME-97.A
+Maine,industrial,2019,1169.0,thousand megawatthours,ELEC.GEN.AOR-ME-97.A
+Maine,industrial,2020,921.0,thousand megawatthours,ELEC.GEN.AOR-ME-97.A
+Maine,industrial,2021,782.0,thousand megawatthours,ELEC.GEN.AOR-ME-97.A
+Maine,industrial,2022,780.0,thousand megawatthours,ELEC.GEN.AOR-ME-97.A
+Maine,industrial,2023,618.0,thousand megawatthours,ELEC.GEN.AOR-ME-97.A
+Maine,industrial,2024,669.0,thousand megawatthours,ELEC.GEN.AOR-ME-97.A
+Maine,industrial,2025,674.0,thousand megawatthours,ELEC.GEN.AOR-ME-97.A
+Maryland,commercial,2001,30.0,thousand megawatthours,ELEC.GEN.AOR-MD-96.A
+Maryland,commercial,2002,9.0,thousand megawatthours,ELEC.GEN.AOR-MD-96.A
+Maryland,commercial,2003,31.0,thousand megawatthours,ELEC.GEN.AOR-MD-96.A
+Maryland,commercial,2004,49.0,thousand megawatthours,ELEC.GEN.AOR-MD-96.A
+Maryland,commercial,2005,53.0,thousand megawatthours,ELEC.GEN.AOR-MD-96.A
+Maryland,commercial,2006,32.0,thousand megawatthours,ELEC.GEN.AOR-MD-96.A
+Maryland,commercial,2007,28.0,thousand megawatthours,ELEC.GEN.AOR-MD-96.A
+Maryland,commercial,2008,40.0,thousand megawatthours,ELEC.GEN.AOR-MD-96.A
+Maryland,commercial,2009,32.0,thousand megawatthours,ELEC.GEN.AOR-MD-96.A
+Maryland,commercial,2010,40.0,thousand megawatthours,ELEC.GEN.AOR-MD-96.A
+Maryland,commercial,2011,55.0,thousand megawatthours,ELEC.GEN.AOR-MD-96.A
+Maryland,commercial,2012,36.0,thousand megawatthours,ELEC.GEN.AOR-MD-96.A
+Maryland,commercial,2013,33.0,thousand megawatthours,ELEC.GEN.AOR-MD-96.A
+Maryland,commercial,2014,25.0,thousand megawatthours,ELEC.GEN.AOR-MD-96.A
+Maryland,commercial,2015,21.0,thousand megawatthours,ELEC.GEN.AOR-MD-96.A
+Maryland,commercial,2016,23.0,thousand megawatthours,ELEC.GEN.AOR-MD-96.A
+Maryland,commercial,2017,15.0,thousand megawatthours,ELEC.GEN.AOR-MD-96.A
+Maryland,commercial,2018,27.0,thousand megawatthours,ELEC.GEN.AOR-MD-96.A
+Maryland,commercial,2019,33.0,thousand megawatthours,ELEC.GEN.AOR-MD-96.A
+Maryland,commercial,2020,32.0,thousand megawatthours,ELEC.GEN.AOR-MD-96.A
+Maryland,commercial,2021,25.0,thousand megawatthours,ELEC.GEN.AOR-MD-96.A
+Maryland,commercial,2022,26.0,thousand megawatthours,ELEC.GEN.AOR-MD-96.A
+Maryland,commercial,2023,24.0,thousand megawatthours,ELEC.GEN.AOR-MD-96.A
+Maryland,commercial,2024,13.0,thousand megawatthours,ELEC.GEN.AOR-MD-96.A
+Maryland,commercial,2025,18.0,thousand megawatthours,ELEC.GEN.AOR-MD-96.A
+Maryland,industrial,2002,174.0,thousand megawatthours,ELEC.GEN.AOR-MD-97.A
+Maryland,industrial,2003,214.0,thousand megawatthours,ELEC.GEN.AOR-MD-97.A
+Maryland,industrial,2004,183.0,thousand megawatthours,ELEC.GEN.AOR-MD-97.A
+Maryland,industrial,2005,194.0,thousand megawatthours,ELEC.GEN.AOR-MD-97.A
+Maryland,industrial,2006,201.0,thousand megawatthours,ELEC.GEN.AOR-MD-97.A
+Maryland,industrial,2007,192.0,thousand megawatthours,ELEC.GEN.AOR-MD-97.A
+Maryland,industrial,2008,181.0,thousand megawatthours,ELEC.GEN.AOR-MD-97.A
+Maryland,industrial,2009,160.0,thousand megawatthours,ELEC.GEN.AOR-MD-97.A
+Maryland,industrial,2010,149.0,thousand megawatthours,ELEC.GEN.AOR-MD-97.A
+Maryland,industrial,2011,150.0,thousand megawatthours,ELEC.GEN.AOR-MD-97.A
+Maryland,industrial,2012,141.0,thousand megawatthours,ELEC.GEN.AOR-MD-97.A
+Maryland,industrial,2013,126.0,thousand megawatthours,ELEC.GEN.AOR-MD-97.A
+Maryland,industrial,2014,138.0,thousand megawatthours,ELEC.GEN.AOR-MD-97.A
+Maryland,industrial,2015,100.0,thousand megawatthours,ELEC.GEN.AOR-MD-97.A
+Maryland,industrial,2016,112.0,thousand megawatthours,ELEC.GEN.AOR-MD-97.A
+Maryland,industrial,2017,116.0,thousand megawatthours,ELEC.GEN.AOR-MD-97.A
+Maryland,industrial,2018,93.0,thousand megawatthours,ELEC.GEN.AOR-MD-97.A
+Maryland,industrial,2019,49.0,thousand megawatthours,ELEC.GEN.AOR-MD-97.A
+Massachusetts,commercial,2001,24.0,thousand megawatthours,ELEC.GEN.AOR-MA-96.A
+Massachusetts,commercial,2002,26.0,thousand megawatthours,ELEC.GEN.AOR-MA-96.A
+Massachusetts,commercial,2003,25.0,thousand megawatthours,ELEC.GEN.AOR-MA-96.A
+Massachusetts,commercial,2004,16.0,thousand megawatthours,ELEC.GEN.AOR-MA-96.A
+Massachusetts,commercial,2005,25.0,thousand megawatthours,ELEC.GEN.AOR-MA-96.A
+Massachusetts,commercial,2006,27.0,thousand megawatthours,ELEC.GEN.AOR-MA-96.A
+Massachusetts,commercial,2007,27.0,thousand megawatthours,ELEC.GEN.AOR-MA-96.A
+Massachusetts,commercial,2008,2.0,thousand megawatthours,ELEC.GEN.AOR-MA-96.A
+Massachusetts,commercial,2009,4.0,thousand megawatthours,ELEC.GEN.AOR-MA-96.A
+Massachusetts,commercial,2010,3.0,thousand megawatthours,ELEC.GEN.AOR-MA-96.A
+Massachusetts,commercial,2011,13.0,thousand megawatthours,ELEC.GEN.AOR-MA-96.A
+Massachusetts,commercial,2012,11.0,thousand megawatthours,ELEC.GEN.AOR-MA-96.A
+Massachusetts,commercial,2013,16.0,thousand megawatthours,ELEC.GEN.AOR-MA-96.A
+Massachusetts,commercial,2014,31.0,thousand megawatthours,ELEC.GEN.AOR-MA-96.A
+Massachusetts,commercial,2015,29.0,thousand megawatthours,ELEC.GEN.AOR-MA-96.A
+Massachusetts,commercial,2016,53.0,thousand megawatthours,ELEC.GEN.AOR-MA-96.A
+Massachusetts,commercial,2017,55.0,thousand megawatthours,ELEC.GEN.AOR-MA-96.A
+Massachusetts,commercial,2018,55.0,thousand megawatthours,ELEC.GEN.AOR-MA-96.A
+Massachusetts,commercial,2019,55.0,thousand megawatthours,ELEC.GEN.AOR-MA-96.A
+Massachusetts,commercial,2020,55.0,thousand megawatthours,ELEC.GEN.AOR-MA-96.A
+Massachusetts,commercial,2021,55.0,thousand megawatthours,ELEC.GEN.AOR-MA-96.A
+Massachusetts,commercial,2022,482.0,thousand megawatthours,ELEC.GEN.AOR-MA-96.A
+Massachusetts,commercial,2023,472.0,thousand megawatthours,ELEC.GEN.AOR-MA-96.A
+Massachusetts,commercial,2024,459.0,thousand megawatthours,ELEC.GEN.AOR-MA-96.A
+Massachusetts,commercial,2025,423.0,thousand megawatthours,ELEC.GEN.AOR-MA-96.A
+Massachusetts,industrial,2014,3.0,thousand megawatthours,ELEC.GEN.AOR-MA-97.A
+Massachusetts,industrial,2015,3.0,thousand megawatthours,ELEC.GEN.AOR-MA-97.A
+Massachusetts,industrial,2016,1.0,thousand megawatthours,ELEC.GEN.AOR-MA-97.A
+Massachusetts,industrial,2017,3.0,thousand megawatthours,ELEC.GEN.AOR-MA-97.A
+Massachusetts,industrial,2018,5.0,thousand megawatthours,ELEC.GEN.AOR-MA-97.A
+Massachusetts,industrial,2019,6.0,thousand megawatthours,ELEC.GEN.AOR-MA-97.A
+Massachusetts,industrial,2020,5.0,thousand megawatthours,ELEC.GEN.AOR-MA-97.A
+Massachusetts,industrial,2021,5.0,thousand megawatthours,ELEC.GEN.AOR-MA-97.A
+Massachusetts,industrial,2022,5.0,thousand megawatthours,ELEC.GEN.AOR-MA-97.A
+Massachusetts,industrial,2023,4.0,thousand megawatthours,ELEC.GEN.AOR-MA-97.A
+Massachusetts,industrial,2024,4.0,thousand megawatthours,ELEC.GEN.AOR-MA-97.A
+Massachusetts,industrial,2025,5.0,thousand megawatthours,ELEC.GEN.AOR-MA-97.A
+Michigan,commercial,2001,5.0,thousand megawatthours,ELEC.GEN.AOR-MI-96.A
+Michigan,commercial,2002,127.0,thousand megawatthours,ELEC.GEN.AOR-MI-96.A
+Michigan,commercial,2003,137.0,thousand megawatthours,ELEC.GEN.AOR-MI-96.A
+Michigan,commercial,2004,153.0,thousand megawatthours,ELEC.GEN.AOR-MI-96.A
+Michigan,commercial,2005,151.0,thousand megawatthours,ELEC.GEN.AOR-MI-96.A
+Michigan,commercial,2006,155.0,thousand megawatthours,ELEC.GEN.AOR-MI-96.A
+Michigan,commercial,2007,167.0,thousand megawatthours,ELEC.GEN.AOR-MI-96.A
+Michigan,commercial,2008,129.0,thousand megawatthours,ELEC.GEN.AOR-MI-96.A
+Michigan,commercial,2009,154.0,thousand megawatthours,ELEC.GEN.AOR-MI-96.A
+Michigan,commercial,2010,160.0,thousand megawatthours,ELEC.GEN.AOR-MI-96.A
+Michigan,commercial,2011,158.0,thousand megawatthours,ELEC.GEN.AOR-MI-96.A
+Michigan,commercial,2012,196.0,thousand megawatthours,ELEC.GEN.AOR-MI-96.A
+Michigan,commercial,2013,146.0,thousand megawatthours,ELEC.GEN.AOR-MI-96.A
+Michigan,commercial,2014,195.0,thousand megawatthours,ELEC.GEN.AOR-MI-96.A
+Michigan,commercial,2015,201.0,thousand megawatthours,ELEC.GEN.AOR-MI-96.A
+Michigan,commercial,2016,146.0,thousand megawatthours,ELEC.GEN.AOR-MI-96.A
+Michigan,commercial,2017,135.0,thousand megawatthours,ELEC.GEN.AOR-MI-96.A
+Michigan,commercial,2018,129.0,thousand megawatthours,ELEC.GEN.AOR-MI-96.A
+Michigan,commercial,2019,56.0,thousand megawatthours,ELEC.GEN.AOR-MI-96.A
+Michigan,commercial,2020,46.0,thousand megawatthours,ELEC.GEN.AOR-MI-96.A
+Michigan,commercial,2021,46.0,thousand megawatthours,ELEC.GEN.AOR-MI-96.A
+Michigan,commercial,2022,43.0,thousand megawatthours,ELEC.GEN.AOR-MI-96.A
+Michigan,commercial,2023,42.0,thousand megawatthours,ELEC.GEN.AOR-MI-96.A
+Michigan,commercial,2024,44.0,thousand megawatthours,ELEC.GEN.AOR-MI-96.A
+Michigan,commercial,2025,45.0,thousand megawatthours,ELEC.GEN.AOR-MI-96.A
+Michigan,industrial,2001,618.0,thousand megawatthours,ELEC.GEN.AOR-MI-97.A
+Michigan,industrial,2002,482.0,thousand megawatthours,ELEC.GEN.AOR-MI-97.A
+Michigan,industrial,2003,753.0,thousand megawatthours,ELEC.GEN.AOR-MI-97.A
+Michigan,industrial,2004,761.0,thousand megawatthours,ELEC.GEN.AOR-MI-97.A
+Michigan,industrial,2005,712.0,thousand megawatthours,ELEC.GEN.AOR-MI-97.A
+Michigan,industrial,2006,640.0,thousand megawatthours,ELEC.GEN.AOR-MI-97.A
+Michigan,industrial,2007,676.0,thousand megawatthours,ELEC.GEN.AOR-MI-97.A
+Michigan,industrial,2008,703.0,thousand megawatthours,ELEC.GEN.AOR-MI-97.A
+Michigan,industrial,2009,619.0,thousand megawatthours,ELEC.GEN.AOR-MI-97.A
+Michigan,industrial,2010,687.0,thousand megawatthours,ELEC.GEN.AOR-MI-97.A
+Michigan,industrial,2011,683.0,thousand megawatthours,ELEC.GEN.AOR-MI-97.A
+Michigan,industrial,2012,806.0,thousand megawatthours,ELEC.GEN.AOR-MI-97.A
+Michigan,industrial,2013,822.0,thousand megawatthours,ELEC.GEN.AOR-MI-97.A
+Michigan,industrial,2014,760.0,thousand megawatthours,ELEC.GEN.AOR-MI-97.A
+Michigan,industrial,2015,675.0,thousand megawatthours,ELEC.GEN.AOR-MI-97.A
+Michigan,industrial,2016,703.0,thousand megawatthours,ELEC.GEN.AOR-MI-97.A
+Michigan,industrial,2017,649.0,thousand megawatthours,ELEC.GEN.AOR-MI-97.A
+Michigan,industrial,2018,685.0,thousand megawatthours,ELEC.GEN.AOR-MI-97.A
+Michigan,industrial,2019,604.0,thousand megawatthours,ELEC.GEN.AOR-MI-97.A
+Michigan,industrial,2020,547.0,thousand megawatthours,ELEC.GEN.AOR-MI-97.A
+Michigan,industrial,2021,620.0,thousand megawatthours,ELEC.GEN.AOR-MI-97.A
+Michigan,industrial,2022,618.0,thousand megawatthours,ELEC.GEN.AOR-MI-97.A
+Michigan,industrial,2023,519.0,thousand megawatthours,ELEC.GEN.AOR-MI-97.A
+Michigan,industrial,2024,589.0,thousand megawatthours,ELEC.GEN.AOR-MI-97.A
+Michigan,industrial,2025,595.0,thousand megawatthours,ELEC.GEN.AOR-MI-97.A
+Minnesota,commercial,2001,10.0,thousand megawatthours,ELEC.GEN.AOR-MN-96.A
+Minnesota,commercial,2002,10.0,thousand megawatthours,ELEC.GEN.AOR-MN-96.A
+Minnesota,commercial,2003,10.0,thousand megawatthours,ELEC.GEN.AOR-MN-96.A
+Minnesota,commercial,2004,10.0,thousand megawatthours,ELEC.GEN.AOR-MN-96.A
+Minnesota,commercial,2005,11.0,thousand megawatthours,ELEC.GEN.AOR-MN-96.A
+Minnesota,commercial,2006,11.0,thousand megawatthours,ELEC.GEN.AOR-MN-96.A
+Minnesota,commercial,2007,10.0,thousand megawatthours,ELEC.GEN.AOR-MN-96.A
+Minnesota,commercial,2008,9.0,thousand megawatthours,ELEC.GEN.AOR-MN-96.A
+Minnesota,commercial,2009,8.0,thousand megawatthours,ELEC.GEN.AOR-MN-96.A
+Minnesota,commercial,2010,16.0,thousand megawatthours,ELEC.GEN.AOR-MN-96.A
+Minnesota,commercial,2011,30.0,thousand megawatthours,ELEC.GEN.AOR-MN-96.A
+Minnesota,commercial,2012,38.0,thousand megawatthours,ELEC.GEN.AOR-MN-96.A
+Minnesota,commercial,2013,45.0,thousand megawatthours,ELEC.GEN.AOR-MN-96.A
+Minnesota,commercial,2014,61.0,thousand megawatthours,ELEC.GEN.AOR-MN-96.A
+Minnesota,commercial,2015,50.0,thousand megawatthours,ELEC.GEN.AOR-MN-96.A
+Minnesota,commercial,2016,56.0,thousand megawatthours,ELEC.GEN.AOR-MN-96.A
+Minnesota,commercial,2017,51.0,thousand megawatthours,ELEC.GEN.AOR-MN-96.A
+Minnesota,commercial,2018,54.0,thousand megawatthours,ELEC.GEN.AOR-MN-96.A
+Minnesota,commercial,2019,61.0,thousand megawatthours,ELEC.GEN.AOR-MN-96.A
+Minnesota,commercial,2020,70.0,thousand megawatthours,ELEC.GEN.AOR-MN-96.A
+Minnesota,commercial,2021,144.0,thousand megawatthours,ELEC.GEN.AOR-MN-96.A
+Minnesota,commercial,2022,164.0,thousand megawatthours,ELEC.GEN.AOR-MN-96.A
+Minnesota,commercial,2023,102.0,thousand megawatthours,ELEC.GEN.AOR-MN-96.A
+Minnesota,commercial,2024,109.0,thousand megawatthours,ELEC.GEN.AOR-MN-96.A
+Minnesota,commercial,2025,151.0,thousand megawatthours,ELEC.GEN.AOR-MN-96.A
+Minnesota,industrial,2001,582.0,thousand megawatthours,ELEC.GEN.AOR-MN-97.A
+Minnesota,industrial,2002,380.0,thousand megawatthours,ELEC.GEN.AOR-MN-97.A
+Minnesota,industrial,2003,560.0,thousand megawatthours,ELEC.GEN.AOR-MN-97.A
+Minnesota,industrial,2004,549.0,thousand megawatthours,ELEC.GEN.AOR-MN-97.A
+Minnesota,industrial,2005,558.0,thousand megawatthours,ELEC.GEN.AOR-MN-97.A
+Minnesota,industrial,2006,496.0,thousand megawatthours,ELEC.GEN.AOR-MN-97.A
+Minnesota,industrial,2007,486.0,thousand megawatthours,ELEC.GEN.AOR-MN-97.A
+Minnesota,industrial,2008,474.0,thousand megawatthours,ELEC.GEN.AOR-MN-97.A
+Minnesota,industrial,2009,485.0,thousand megawatthours,ELEC.GEN.AOR-MN-97.A
+Minnesota,industrial,2010,523.0,thousand megawatthours,ELEC.GEN.AOR-MN-97.A
+Minnesota,industrial,2011,522.0,thousand megawatthours,ELEC.GEN.AOR-MN-97.A
+Minnesota,industrial,2012,499.0,thousand megawatthours,ELEC.GEN.AOR-MN-97.A
+Minnesota,industrial,2013,513.0,thousand megawatthours,ELEC.GEN.AOR-MN-97.A
+Minnesota,industrial,2014,537.0,thousand megawatthours,ELEC.GEN.AOR-MN-97.A
+Minnesota,industrial,2015,579.0,thousand megawatthours,ELEC.GEN.AOR-MN-97.A
+Minnesota,industrial,2016,631.0,thousand megawatthours,ELEC.GEN.AOR-MN-97.A
+Minnesota,industrial,2017,655.0,thousand megawatthours,ELEC.GEN.AOR-MN-97.A
+Minnesota,industrial,2018,680.0,thousand megawatthours,ELEC.GEN.AOR-MN-97.A
+Minnesota,industrial,2019,664.0,thousand megawatthours,ELEC.GEN.AOR-MN-97.A
+Minnesota,industrial,2020,644.0,thousand megawatthours,ELEC.GEN.AOR-MN-97.A
+Minnesota,industrial,2021,690.0,thousand megawatthours,ELEC.GEN.AOR-MN-97.A
+Minnesota,industrial,2022,616.0,thousand megawatthours,ELEC.GEN.AOR-MN-97.A
+Minnesota,industrial,2023,638.0,thousand megawatthours,ELEC.GEN.AOR-MN-97.A
+Minnesota,industrial,2024,764.0,thousand megawatthours,ELEC.GEN.AOR-MN-97.A
+Minnesota,industrial,2025,718.0,thousand megawatthours,ELEC.GEN.AOR-MN-97.A
+Mississippi,industrial,2001,1432.0,thousand megawatthours,ELEC.GEN.AOR-MS-97.A
+Mississippi,industrial,2002,937.0,thousand megawatthours,ELEC.GEN.AOR-MS-97.A
+Mississippi,industrial,2003,1022.0,thousand megawatthours,ELEC.GEN.AOR-MS-97.A
+Mississippi,industrial,2004,1514.0,thousand megawatthours,ELEC.GEN.AOR-MS-97.A
+Mississippi,industrial,2005,1522.0,thousand megawatthours,ELEC.GEN.AOR-MS-97.A
+Mississippi,industrial,2006,1541.0,thousand megawatthours,ELEC.GEN.AOR-MS-97.A
+Mississippi,industrial,2007,1493.0,thousand megawatthours,ELEC.GEN.AOR-MS-97.A
+Mississippi,industrial,2008,1391.0,thousand megawatthours,ELEC.GEN.AOR-MS-97.A
+Mississippi,industrial,2009,1424.0,thousand megawatthours,ELEC.GEN.AOR-MS-97.A
+Mississippi,industrial,2010,1503.0,thousand megawatthours,ELEC.GEN.AOR-MS-97.A
+Mississippi,industrial,2011,1506.0,thousand megawatthours,ELEC.GEN.AOR-MS-97.A
+Mississippi,industrial,2012,1506.0,thousand megawatthours,ELEC.GEN.AOR-MS-97.A
+Mississippi,industrial,2013,1436.0,thousand megawatthours,ELEC.GEN.AOR-MS-97.A
+Mississippi,industrial,2014,1494.0,thousand megawatthours,ELEC.GEN.AOR-MS-97.A
+Mississippi,industrial,2015,1494.0,thousand megawatthours,ELEC.GEN.AOR-MS-97.A
+Mississippi,industrial,2016,1514.0,thousand megawatthours,ELEC.GEN.AOR-MS-97.A
+Mississippi,industrial,2017,1465.0,thousand megawatthours,ELEC.GEN.AOR-MS-97.A
+Mississippi,industrial,2018,1427.0,thousand megawatthours,ELEC.GEN.AOR-MS-97.A
+Mississippi,industrial,2019,1382.0,thousand megawatthours,ELEC.GEN.AOR-MS-97.A
+Mississippi,industrial,2020,1406.0,thousand megawatthours,ELEC.GEN.AOR-MS-97.A
+Mississippi,industrial,2021,1356.0,thousand megawatthours,ELEC.GEN.AOR-MS-97.A
+Mississippi,industrial,2022,1288.0,thousand megawatthours,ELEC.GEN.AOR-MS-97.A
+Mississippi,industrial,2023,1332.0,thousand megawatthours,ELEC.GEN.AOR-MS-97.A
+Mississippi,industrial,2024,1274.0,thousand megawatthours,ELEC.GEN.AOR-MS-97.A
+Mississippi,industrial,2025,1319.0,thousand megawatthours,ELEC.GEN.AOR-MS-97.A
+Missouri,commercial,2001,0.0,thousand megawatthours,ELEC.GEN.AOR-MO-96.A
+Missouri,commercial,2002,0.0,thousand megawatthours,ELEC.GEN.AOR-MO-96.A
+Missouri,commercial,2003,0.0,thousand megawatthours,ELEC.GEN.AOR-MO-96.A
+Missouri,commercial,2013,8.0,thousand megawatthours,ELEC.GEN.AOR-MO-96.A
+Missouri,commercial,2014,32.0,thousand megawatthours,ELEC.GEN.AOR-MO-96.A
+Missouri,commercial,2015,30.0,thousand megawatthours,ELEC.GEN.AOR-MO-96.A
+Missouri,commercial,2016,49.0,thousand megawatthours,ELEC.GEN.AOR-MO-96.A
+Missouri,commercial,2017,58.0,thousand megawatthours,ELEC.GEN.AOR-MO-96.A
+Missouri,commercial,2018,53.0,thousand megawatthours,ELEC.GEN.AOR-MO-96.A
+Missouri,commercial,2019,45.0,thousand megawatthours,ELEC.GEN.AOR-MO-96.A
+Missouri,commercial,2020,43.0,thousand megawatthours,ELEC.GEN.AOR-MO-96.A
+Missouri,commercial,2021,41.0,thousand megawatthours,ELEC.GEN.AOR-MO-96.A
+Missouri,commercial,2022,43.0,thousand megawatthours,ELEC.GEN.AOR-MO-96.A
+Missouri,commercial,2023,40.0,thousand megawatthours,ELEC.GEN.AOR-MO-96.A
+Missouri,commercial,2024,48.0,thousand megawatthours,ELEC.GEN.AOR-MO-96.A
+Missouri,commercial,2025,43.0,thousand megawatthours,ELEC.GEN.AOR-MO-96.A
+Missouri,industrial,2001,9.0,thousand megawatthours,ELEC.GEN.AOR-MO-97.A
+Missouri,industrial,2002,9.0,thousand megawatthours,ELEC.GEN.AOR-MO-97.A
+Missouri,industrial,2003,8.0,thousand megawatthours,ELEC.GEN.AOR-MO-97.A
+Missouri,industrial,2004,9.0,thousand megawatthours,ELEC.GEN.AOR-MO-97.A
+Missouri,industrial,2005,9.0,thousand megawatthours,ELEC.GEN.AOR-MO-97.A
+Missouri,industrial,2006,9.0,thousand megawatthours,ELEC.GEN.AOR-MO-97.A
+Missouri,industrial,2007,7.0,thousand megawatthours,ELEC.GEN.AOR-MO-97.A
+Missouri,industrial,2008,9.0,thousand megawatthours,ELEC.GEN.AOR-MO-97.A
+Missouri,industrial,2009,7.0,thousand megawatthours,ELEC.GEN.AOR-MO-97.A
+Missouri,industrial,2010,4.0,thousand megawatthours,ELEC.GEN.AOR-MO-97.A
+Missouri,industrial,2011,4.0,thousand megawatthours,ELEC.GEN.AOR-MO-97.A
+Missouri,industrial,2012,5.0,thousand megawatthours,ELEC.GEN.AOR-MO-97.A
+Missouri,industrial,2013,3.0,thousand megawatthours,ELEC.GEN.AOR-MO-97.A
+Missouri,industrial,2014,3.0,thousand megawatthours,ELEC.GEN.AOR-MO-97.A
+Missouri,industrial,2015,3.0,thousand megawatthours,ELEC.GEN.AOR-MO-97.A
+Missouri,industrial,2016,3.0,thousand megawatthours,ELEC.GEN.AOR-MO-97.A
+Missouri,industrial,2017,3.0,thousand megawatthours,ELEC.GEN.AOR-MO-97.A
+Missouri,industrial,2018,3.0,thousand megawatthours,ELEC.GEN.AOR-MO-97.A
+Missouri,industrial,2019,2.0,thousand megawatthours,ELEC.GEN.AOR-MO-97.A
+Missouri,industrial,2020,3.0,thousand megawatthours,ELEC.GEN.AOR-MO-97.A
+Missouri,industrial,2021,3.0,thousand megawatthours,ELEC.GEN.AOR-MO-97.A
+Missouri,industrial,2022,3.0,thousand megawatthours,ELEC.GEN.AOR-MO-97.A
+Missouri,industrial,2023,3.0,thousand megawatthours,ELEC.GEN.AOR-MO-97.A
+Missouri,industrial,2024,3.0,thousand megawatthours,ELEC.GEN.AOR-MO-97.A
+Missouri,industrial,2025,3.0,thousand megawatthours,ELEC.GEN.AOR-MO-97.A
+Montana,industrial,2001,65.0,thousand megawatthours,ELEC.GEN.AOR-MT-97.A
+Montana,industrial,2002,63.0,thousand megawatthours,ELEC.GEN.AOR-MT-97.A
+Montana,industrial,2003,71.0,thousand megawatthours,ELEC.GEN.AOR-MT-97.A
+Montana,industrial,2004,62.0,thousand megawatthours,ELEC.GEN.AOR-MT-97.A
+Montana,industrial,2005,72.0,thousand megawatthours,ELEC.GEN.AOR-MT-97.A
+Montana,industrial,2006,94.0,thousand megawatthours,ELEC.GEN.AOR-MT-97.A
+Montana,industrial,2007,111.0,thousand megawatthours,ELEC.GEN.AOR-MT-97.A
+Montana,industrial,2008,111.0,thousand megawatthours,ELEC.GEN.AOR-MT-97.A
+Montana,industrial,2009,95.0,thousand megawatthours,ELEC.GEN.AOR-MT-97.A
+Montana,industrial,2010,97.0,thousand megawatthours,ELEC.GEN.AOR-MT-97.A
+Montana,industrial,2013,5.0,thousand megawatthours,ELEC.GEN.AOR-MT-97.A
+Montana,industrial,2014,13.0,thousand megawatthours,ELEC.GEN.AOR-MT-97.A
+Montana,industrial,2015,21.0,thousand megawatthours,ELEC.GEN.AOR-MT-97.A
+Montana,industrial,2016,20.0,thousand megawatthours,ELEC.GEN.AOR-MT-97.A
+Montana,industrial,2017,21.0,thousand megawatthours,ELEC.GEN.AOR-MT-97.A
+Montana,industrial,2018,21.0,thousand megawatthours,ELEC.GEN.AOR-MT-97.A
+Montana,industrial,2019,20.0,thousand megawatthours,ELEC.GEN.AOR-MT-97.A
+Montana,industrial,2020,21.0,thousand megawatthours,ELEC.GEN.AOR-MT-97.A
+Montana,industrial,2021,21.0,thousand megawatthours,ELEC.GEN.AOR-MT-97.A
+Montana,industrial,2022,19.0,thousand megawatthours,ELEC.GEN.AOR-MT-97.A
+Montana,industrial,2023,20.0,thousand megawatthours,ELEC.GEN.AOR-MT-97.A
+Montana,industrial,2024,21.0,thousand megawatthours,ELEC.GEN.AOR-MT-97.A
+Montana,industrial,2025,26.0,thousand megawatthours,ELEC.GEN.AOR-MT-97.A
+Nebraska,commercial,2001,8.0,thousand megawatthours,ELEC.GEN.AOR-NE-96.A
+Nebraska,commercial,2002,7.0,thousand megawatthours,ELEC.GEN.AOR-NE-96.A
+Nebraska,commercial,2003,10.0,thousand megawatthours,ELEC.GEN.AOR-NE-96.A
+Nebraska,commercial,2004,13.0,thousand megawatthours,ELEC.GEN.AOR-NE-96.A
+Nebraska,commercial,2005,11.0,thousand megawatthours,ELEC.GEN.AOR-NE-96.A
+Nebraska,commercial,2006,11.0,thousand megawatthours,ELEC.GEN.AOR-NE-96.A
+Nebraska,commercial,2007,12.0,thousand megawatthours,ELEC.GEN.AOR-NE-96.A
+Nebraska,commercial,2008,13.0,thousand megawatthours,ELEC.GEN.AOR-NE-96.A
+Nebraska,commercial,2009,14.0,thousand megawatthours,ELEC.GEN.AOR-NE-96.A
+Nebraska,commercial,2010,12.0,thousand megawatthours,ELEC.GEN.AOR-NE-96.A
+Nebraska,commercial,2011,14.0,thousand megawatthours,ELEC.GEN.AOR-NE-96.A
+Nebraska,commercial,2012,17.0,thousand megawatthours,ELEC.GEN.AOR-NE-96.A
+Nebraska,commercial,2013,18.0,thousand megawatthours,ELEC.GEN.AOR-NE-96.A
+Nebraska,commercial,2014,17.0,thousand megawatthours,ELEC.GEN.AOR-NE-96.A
+Nebraska,commercial,2015,16.0,thousand megawatthours,ELEC.GEN.AOR-NE-96.A
+Nebraska,commercial,2016,18.0,thousand megawatthours,ELEC.GEN.AOR-NE-96.A
+Nebraska,commercial,2017,17.0,thousand megawatthours,ELEC.GEN.AOR-NE-96.A
+Nebraska,commercial,2018,15.0,thousand megawatthours,ELEC.GEN.AOR-NE-96.A
+Nebraska,commercial,2019,13.0,thousand megawatthours,ELEC.GEN.AOR-NE-96.A
+Nebraska,commercial,2020,12.0,thousand megawatthours,ELEC.GEN.AOR-NE-96.A
+Nebraska,commercial,2021,15.0,thousand megawatthours,ELEC.GEN.AOR-NE-96.A
+Nebraska,commercial,2022,18.0,thousand megawatthours,ELEC.GEN.AOR-NE-96.A
+Nebraska,commercial,2023,18.0,thousand megawatthours,ELEC.GEN.AOR-NE-96.A
+Nebraska,commercial,2024,13.0,thousand megawatthours,ELEC.GEN.AOR-NE-96.A
+Nebraska,commercial,2025,11.0,thousand megawatthours,ELEC.GEN.AOR-NE-96.A
+Nebraska,industrial,2013,0.0,thousand megawatthours,ELEC.GEN.AOR-NE-97.A
+Nebraska,industrial,2014,0.0,thousand megawatthours,ELEC.GEN.AOR-NE-97.A
+Nebraska,industrial,2015,0.0,thousand megawatthours,ELEC.GEN.AOR-NE-97.A
+Nebraska,industrial,2016,0.0,thousand megawatthours,ELEC.GEN.AOR-NE-97.A
+Nebraska,industrial,2017,0.0,thousand megawatthours,ELEC.GEN.AOR-NE-97.A
+Nebraska,industrial,2018,0.0,thousand megawatthours,ELEC.GEN.AOR-NE-97.A
+Nebraska,industrial,2019,0.0,thousand megawatthours,ELEC.GEN.AOR-NE-97.A
+Nebraska,industrial,2020,0.0,thousand megawatthours,ELEC.GEN.AOR-NE-97.A
+Nebraska,industrial,2021,0.0,thousand megawatthours,ELEC.GEN.AOR-NE-97.A
+Nebraska,industrial,2022,0.0,thousand megawatthours,ELEC.GEN.AOR-NE-97.A
+Nebraska,industrial,2023,0.0,thousand megawatthours,ELEC.GEN.AOR-NE-97.A
+Nebraska,industrial,2024,0.0,thousand megawatthours,ELEC.GEN.AOR-NE-97.A
+Nebraska,industrial,2025,0.0,thousand megawatthours,ELEC.GEN.AOR-NE-97.A
+Nevada,commercial,2011,32.0,thousand megawatthours,ELEC.GEN.AOR-NV-96.A
+Nevada,commercial,2012,32.0,thousand megawatthours,ELEC.GEN.AOR-NV-96.A
+Nevada,commercial,2013,32.0,thousand megawatthours,ELEC.GEN.AOR-NV-96.A
+Nevada,commercial,2014,31.0,thousand megawatthours,ELEC.GEN.AOR-NV-96.A
+Nevada,commercial,2015,45.0,thousand megawatthours,ELEC.GEN.AOR-NV-96.A
+Nevada,commercial,2016,61.0,thousand megawatthours,ELEC.GEN.AOR-NV-96.A
+Nevada,commercial,2017,66.0,thousand megawatthours,ELEC.GEN.AOR-NV-96.A
+Nevada,commercial,2018,97.0,thousand megawatthours,ELEC.GEN.AOR-NV-96.A
+Nevada,commercial,2019,506.0,thousand megawatthours,ELEC.GEN.AOR-NV-96.A
+Nevada,commercial,2020,512.0,thousand megawatthours,ELEC.GEN.AOR-NV-96.A
+Nevada,commercial,2021,553.0,thousand megawatthours,ELEC.GEN.AOR-NV-96.A
+Nevada,commercial,2022,47.0,thousand megawatthours,ELEC.GEN.AOR-NV-96.A
+Nevada,commercial,2023,47.0,thousand megawatthours,ELEC.GEN.AOR-NV-96.A
+Nevada,commercial,2024,47.0,thousand megawatthours,ELEC.GEN.AOR-NV-96.A
+Nevada,commercial,2025,56.0,thousand megawatthours,ELEC.GEN.AOR-NV-96.A
+Nevada,industrial,2008,0.0,thousand megawatthours,ELEC.GEN.AOR-NV-97.A
+Nevada,industrial,2009,0.0,thousand megawatthours,ELEC.GEN.AOR-NV-97.A
+Nevada,industrial,2010,2.0,thousand megawatthours,ELEC.GEN.AOR-NV-97.A
+Nevada,industrial,2011,1.0,thousand megawatthours,ELEC.GEN.AOR-NV-97.A
+Nevada,industrial,2012,3.0,thousand megawatthours,ELEC.GEN.AOR-NV-97.A
+Nevada,industrial,2013,3.0,thousand megawatthours,ELEC.GEN.AOR-NV-97.A
+Nevada,industrial,2014,3.0,thousand megawatthours,ELEC.GEN.AOR-NV-97.A
+Nevada,industrial,2015,3.0,thousand megawatthours,ELEC.GEN.AOR-NV-97.A
+Nevada,industrial,2016,3.0,thousand megawatthours,ELEC.GEN.AOR-NV-97.A
+Nevada,industrial,2017,3.0,thousand megawatthours,ELEC.GEN.AOR-NV-97.A
+Nevada,industrial,2018,3.0,thousand megawatthours,ELEC.GEN.AOR-NV-97.A
+Nevada,industrial,2019,2.0,thousand megawatthours,ELEC.GEN.AOR-NV-97.A
+Nevada,industrial,2020,4.0,thousand megawatthours,ELEC.GEN.AOR-NV-97.A
+Nevada,industrial,2021,4.0,thousand megawatthours,ELEC.GEN.AOR-NV-97.A
+Nevada,industrial,2022,11.0,thousand megawatthours,ELEC.GEN.AOR-NV-97.A
+Nevada,industrial,2023,12.0,thousand megawatthours,ELEC.GEN.AOR-NV-97.A
+Nevada,industrial,2024,10.0,thousand megawatthours,ELEC.GEN.AOR-NV-97.A
+Nevada,industrial,2025,12.0,thousand megawatthours,ELEC.GEN.AOR-NV-97.A
+New Hampshire,commercial,2012,31.0,thousand megawatthours,ELEC.GEN.AOR-NH-96.A
+New Hampshire,commercial,2013,40.0,thousand megawatthours,ELEC.GEN.AOR-NH-96.A
+New Hampshire,commercial,2014,38.0,thousand megawatthours,ELEC.GEN.AOR-NH-96.A
+New Hampshire,commercial,2015,35.0,thousand megawatthours,ELEC.GEN.AOR-NH-96.A
+New Hampshire,commercial,2016,36.0,thousand megawatthours,ELEC.GEN.AOR-NH-96.A
+New Hampshire,commercial,2017,45.0,thousand megawatthours,ELEC.GEN.AOR-NH-96.A
+New Hampshire,commercial,2018,45.0,thousand megawatthours,ELEC.GEN.AOR-NH-96.A
+New Hampshire,commercial,2019,40.0,thousand megawatthours,ELEC.GEN.AOR-NH-96.A
+New Hampshire,commercial,2020,38.0,thousand megawatthours,ELEC.GEN.AOR-NH-96.A
+New Hampshire,commercial,2021,42.0,thousand megawatthours,ELEC.GEN.AOR-NH-96.A
+New Hampshire,commercial,2022,45.0,thousand megawatthours,ELEC.GEN.AOR-NH-96.A
+New Hampshire,commercial,2023,37.0,thousand megawatthours,ELEC.GEN.AOR-NH-96.A
+New Hampshire,commercial,2024,36.0,thousand megawatthours,ELEC.GEN.AOR-NH-96.A
+New Hampshire,commercial,2025,38.0,thousand megawatthours,ELEC.GEN.AOR-NH-96.A
+New Hampshire,industrial,2001,105.0,thousand megawatthours,ELEC.GEN.AOR-NH-97.A
+New Hampshire,industrial,2002,40.0,thousand megawatthours,ELEC.GEN.AOR-NH-97.A
+New Hampshire,industrial,2003,2.0,thousand megawatthours,ELEC.GEN.AOR-NH-97.A
+New Hampshire,industrial,2004,104.0,thousand megawatthours,ELEC.GEN.AOR-NH-97.A
+New Hampshire,industrial,2005,124.0,thousand megawatthours,ELEC.GEN.AOR-NH-97.A
+New Hampshire,industrial,2006,10.0,thousand megawatthours,ELEC.GEN.AOR-NH-97.A
+New Hampshire,industrial,2007,0.0,thousand megawatthours,ELEC.GEN.AOR-NH-97.A
+New Hampshire,industrial,2008,0.0,thousand megawatthours,ELEC.GEN.AOR-NH-97.A
+New Hampshire,industrial,2009,1.0,thousand megawatthours,ELEC.GEN.AOR-NH-97.A
+New Hampshire,industrial,2010,0.0,thousand megawatthours,ELEC.GEN.AOR-NH-97.A
+New Hampshire,industrial,2011,0.0,thousand megawatthours,ELEC.GEN.AOR-NH-97.A
+New Hampshire,industrial,2012,0.0,thousand megawatthours,ELEC.GEN.AOR-NH-97.A
+New Jersey,commercial,2001,1.0,thousand megawatthours,ELEC.GEN.AOR-NJ-96.A
+New Jersey,commercial,2002,3.0,thousand megawatthours,ELEC.GEN.AOR-NJ-96.A
+New Jersey,commercial,2003,0.0,thousand megawatthours,ELEC.GEN.AOR-NJ-96.A
+New Jersey,commercial,2004,2.0,thousand megawatthours,ELEC.GEN.AOR-NJ-96.A
+New Jersey,commercial,2005,0.0,thousand megawatthours,ELEC.GEN.AOR-NJ-96.A
+New Jersey,commercial,2006,0.0,thousand megawatthours,ELEC.GEN.AOR-NJ-96.A
+New Jersey,commercial,2007,0.0,thousand megawatthours,ELEC.GEN.AOR-NJ-96.A
+New Jersey,commercial,2008,2.0,thousand megawatthours,ELEC.GEN.AOR-NJ-96.A
+New Jersey,commercial,2009,172.0,thousand megawatthours,ELEC.GEN.AOR-NJ-96.A
+New Jersey,commercial,2010,166.0,thousand megawatthours,ELEC.GEN.AOR-NJ-96.A
+New Jersey,commercial,2011,246.0,thousand megawatthours,ELEC.GEN.AOR-NJ-96.A
+New Jersey,commercial,2012,194.0,thousand megawatthours,ELEC.GEN.AOR-NJ-96.A
+New Jersey,commercial,2013,241.0,thousand megawatthours,ELEC.GEN.AOR-NJ-96.A
+New Jersey,commercial,2014,276.0,thousand megawatthours,ELEC.GEN.AOR-NJ-96.A
+New Jersey,commercial,2015,304.0,thousand megawatthours,ELEC.GEN.AOR-NJ-96.A
+New Jersey,commercial,2016,312.0,thousand megawatthours,ELEC.GEN.AOR-NJ-96.A
+New Jersey,commercial,2017,305.0,thousand megawatthours,ELEC.GEN.AOR-NJ-96.A
+New Jersey,commercial,2018,279.0,thousand megawatthours,ELEC.GEN.AOR-NJ-96.A
+New Jersey,commercial,2019,289.0,thousand megawatthours,ELEC.GEN.AOR-NJ-96.A
+New Jersey,commercial,2020,284.0,thousand megawatthours,ELEC.GEN.AOR-NJ-96.A
+New Jersey,commercial,2021,278.0,thousand megawatthours,ELEC.GEN.AOR-NJ-96.A
+New Jersey,commercial,2022,485.0,thousand megawatthours,ELEC.GEN.AOR-NJ-96.A
+New Jersey,commercial,2023,465.0,thousand megawatthours,ELEC.GEN.AOR-NJ-96.A
+New Jersey,commercial,2024,471.0,thousand megawatthours,ELEC.GEN.AOR-NJ-96.A
+New Jersey,commercial,2025,519.0,thousand megawatthours,ELEC.GEN.AOR-NJ-96.A
+New Jersey,industrial,2001,12.0,thousand megawatthours,ELEC.GEN.AOR-NJ-97.A
+New Jersey,industrial,2002,13.0,thousand megawatthours,ELEC.GEN.AOR-NJ-97.A
+New Jersey,industrial,2003,0.0,thousand megawatthours,ELEC.GEN.AOR-NJ-97.A
+New Jersey,industrial,2004,3.0,thousand megawatthours,ELEC.GEN.AOR-NJ-97.A
+New Jersey,industrial,2005,2.0,thousand megawatthours,ELEC.GEN.AOR-NJ-97.A
+New Jersey,industrial,2006,3.0,thousand megawatthours,ELEC.GEN.AOR-NJ-97.A
+New Jersey,industrial,2007,1.0,thousand megawatthours,ELEC.GEN.AOR-NJ-97.A
+New Jersey,industrial,2008,1.0,thousand megawatthours,ELEC.GEN.AOR-NJ-97.A
+New Jersey,industrial,2011,0.0,thousand megawatthours,ELEC.GEN.AOR-NJ-97.A
+New Jersey,industrial,2012,1.0,thousand megawatthours,ELEC.GEN.AOR-NJ-97.A
+New Jersey,industrial,2013,1.0,thousand megawatthours,ELEC.GEN.AOR-NJ-97.A
+New Jersey,industrial,2014,1.0,thousand megawatthours,ELEC.GEN.AOR-NJ-97.A
+New Jersey,industrial,2015,1.0,thousand megawatthours,ELEC.GEN.AOR-NJ-97.A
+New Jersey,industrial,2016,6.0,thousand megawatthours,ELEC.GEN.AOR-NJ-97.A
+New Jersey,industrial,2017,8.0,thousand megawatthours,ELEC.GEN.AOR-NJ-97.A
+New Jersey,industrial,2018,5.0,thousand megawatthours,ELEC.GEN.AOR-NJ-97.A
+New Jersey,industrial,2019,7.0,thousand megawatthours,ELEC.GEN.AOR-NJ-97.A
+New Jersey,industrial,2020,8.0,thousand megawatthours,ELEC.GEN.AOR-NJ-97.A
+New Jersey,industrial,2021,7.0,thousand megawatthours,ELEC.GEN.AOR-NJ-97.A
+New Jersey,industrial,2022,6.0,thousand megawatthours,ELEC.GEN.AOR-NJ-97.A
+New Jersey,industrial,2023,6.0,thousand megawatthours,ELEC.GEN.AOR-NJ-97.A
+New Jersey,industrial,2024,5.0,thousand megawatthours,ELEC.GEN.AOR-NJ-97.A
+New Jersey,industrial,2025,6.0,thousand megawatthours,ELEC.GEN.AOR-NJ-97.A
+New Mexico,commercial,2011,3.0,thousand megawatthours,ELEC.GEN.AOR-NM-96.A
+New Mexico,commercial,2012,4.0,thousand megawatthours,ELEC.GEN.AOR-NM-96.A
+New Mexico,commercial,2013,3.0,thousand megawatthours,ELEC.GEN.AOR-NM-96.A
+New Mexico,commercial,2014,3.0,thousand megawatthours,ELEC.GEN.AOR-NM-96.A
+New Mexico,commercial,2015,3.0,thousand megawatthours,ELEC.GEN.AOR-NM-96.A
+New Mexico,commercial,2016,3.0,thousand megawatthours,ELEC.GEN.AOR-NM-96.A
+New Mexico,commercial,2017,3.0,thousand megawatthours,ELEC.GEN.AOR-NM-96.A
+New Mexico,commercial,2018,3.0,thousand megawatthours,ELEC.GEN.AOR-NM-96.A
+New Mexico,commercial,2019,3.0,thousand megawatthours,ELEC.GEN.AOR-NM-96.A
+New Mexico,commercial,2020,1.0,thousand megawatthours,ELEC.GEN.AOR-NM-96.A
+New Mexico,commercial,2021,2.0,thousand megawatthours,ELEC.GEN.AOR-NM-96.A
+New Mexico,commercial,2022,2.0,thousand megawatthours,ELEC.GEN.AOR-NM-96.A
+New Mexico,commercial,2023,1.0,thousand megawatthours,ELEC.GEN.AOR-NM-96.A
+New Mexico,commercial,2024,0.0,thousand megawatthours,ELEC.GEN.AOR-NM-96.A
+New York,commercial,2001,132.0,thousand megawatthours,ELEC.GEN.AOR-NY-96.A
+New York,commercial,2002,129.0,thousand megawatthours,ELEC.GEN.AOR-NY-96.A
+New York,commercial,2003,128.0,thousand megawatthours,ELEC.GEN.AOR-NY-96.A
+New York,commercial,2004,132.0,thousand megawatthours,ELEC.GEN.AOR-NY-96.A
+New York,commercial,2005,131.0,thousand megawatthours,ELEC.GEN.AOR-NY-96.A
+New York,commercial,2006,134.0,thousand megawatthours,ELEC.GEN.AOR-NY-96.A
+New York,commercial,2007,129.0,thousand megawatthours,ELEC.GEN.AOR-NY-96.A
+New York,commercial,2008,128.0,thousand megawatthours,ELEC.GEN.AOR-NY-96.A
+New York,commercial,2009,116.0,thousand megawatthours,ELEC.GEN.AOR-NY-96.A
+New York,commercial,2010,112.0,thousand megawatthours,ELEC.GEN.AOR-NY-96.A
+New York,commercial,2011,110.0,thousand megawatthours,ELEC.GEN.AOR-NY-96.A
+New York,commercial,2012,220.0,thousand megawatthours,ELEC.GEN.AOR-NY-96.A
+New York,commercial,2013,209.0,thousand megawatthours,ELEC.GEN.AOR-NY-96.A
+New York,commercial,2014,212.0,thousand megawatthours,ELEC.GEN.AOR-NY-96.A
+New York,commercial,2015,215.0,thousand megawatthours,ELEC.GEN.AOR-NY-96.A
+New York,commercial,2016,220.0,thousand megawatthours,ELEC.GEN.AOR-NY-96.A
+New York,commercial,2017,233.0,thousand megawatthours,ELEC.GEN.AOR-NY-96.A
+New York,commercial,2018,220.0,thousand megawatthours,ELEC.GEN.AOR-NY-96.A
+New York,commercial,2019,210.0,thousand megawatthours,ELEC.GEN.AOR-NY-96.A
+New York,commercial,2020,215.0,thousand megawatthours,ELEC.GEN.AOR-NY-96.A
+New York,commercial,2021,206.0,thousand megawatthours,ELEC.GEN.AOR-NY-96.A
+New York,commercial,2022,666.0,thousand megawatthours,ELEC.GEN.AOR-NY-96.A
+New York,commercial,2023,625.0,thousand megawatthours,ELEC.GEN.AOR-NY-96.A
+New York,commercial,2024,671.0,thousand megawatthours,ELEC.GEN.AOR-NY-96.A
+New York,commercial,2025,615.0,thousand megawatthours,ELEC.GEN.AOR-NY-96.A
+New York,industrial,2001,180.0,thousand megawatthours,ELEC.GEN.AOR-NY-97.A
+New York,industrial,2002,184.0,thousand megawatthours,ELEC.GEN.AOR-NY-97.A
+New York,industrial,2003,176.0,thousand megawatthours,ELEC.GEN.AOR-NY-97.A
+New York,industrial,2004,233.0,thousand megawatthours,ELEC.GEN.AOR-NY-97.A
+New York,industrial,2005,241.0,thousand megawatthours,ELEC.GEN.AOR-NY-97.A
+New York,industrial,2006,229.0,thousand megawatthours,ELEC.GEN.AOR-NY-97.A
+New York,industrial,2007,222.0,thousand megawatthours,ELEC.GEN.AOR-NY-97.A
+New York,industrial,2008,239.0,thousand megawatthours,ELEC.GEN.AOR-NY-97.A
+New York,industrial,2009,286.0,thousand megawatthours,ELEC.GEN.AOR-NY-97.A
+New York,industrial,2010,255.0,thousand megawatthours,ELEC.GEN.AOR-NY-97.A
+New York,industrial,2011,226.0,thousand megawatthours,ELEC.GEN.AOR-NY-97.A
+New York,industrial,2012,246.0,thousand megawatthours,ELEC.GEN.AOR-NY-97.A
+New York,industrial,2013,251.0,thousand megawatthours,ELEC.GEN.AOR-NY-97.A
+New York,industrial,2014,262.0,thousand megawatthours,ELEC.GEN.AOR-NY-97.A
+New York,industrial,2015,218.0,thousand megawatthours,ELEC.GEN.AOR-NY-97.A
+New York,industrial,2016,200.0,thousand megawatthours,ELEC.GEN.AOR-NY-97.A
+New York,industrial,2017,189.0,thousand megawatthours,ELEC.GEN.AOR-NY-97.A
+New York,industrial,2018,180.0,thousand megawatthours,ELEC.GEN.AOR-NY-97.A
+New York,industrial,2019,188.0,thousand megawatthours,ELEC.GEN.AOR-NY-97.A
+New York,industrial,2020,163.0,thousand megawatthours,ELEC.GEN.AOR-NY-97.A
+New York,industrial,2021,170.0,thousand megawatthours,ELEC.GEN.AOR-NY-97.A
+New York,industrial,2022,180.0,thousand megawatthours,ELEC.GEN.AOR-NY-97.A
+New York,industrial,2023,157.0,thousand megawatthours,ELEC.GEN.AOR-NY-97.A
+New York,industrial,2024,159.0,thousand megawatthours,ELEC.GEN.AOR-NY-97.A
+New York,industrial,2025,168.0,thousand megawatthours,ELEC.GEN.AOR-NY-97.A
+North Carolina,commercial,2012,4.0,thousand megawatthours,ELEC.GEN.AOR-NC-96.A
+North Carolina,commercial,2013,118.0,thousand megawatthours,ELEC.GEN.AOR-NC-96.A
+North Carolina,commercial,2014,157.0,thousand megawatthours,ELEC.GEN.AOR-NC-96.A
+North Carolina,commercial,2015,153.0,thousand megawatthours,ELEC.GEN.AOR-NC-96.A
+North Carolina,commercial,2016,199.0,thousand megawatthours,ELEC.GEN.AOR-NC-96.A
+North Carolina,commercial,2017,208.0,thousand megawatthours,ELEC.GEN.AOR-NC-96.A
+North Carolina,commercial,2018,188.0,thousand megawatthours,ELEC.GEN.AOR-NC-96.A
+North Carolina,commercial,2019,168.0,thousand megawatthours,ELEC.GEN.AOR-NC-96.A
+North Carolina,commercial,2020,167.0,thousand megawatthours,ELEC.GEN.AOR-NC-96.A
+North Carolina,commercial,2021,167.0,thousand megawatthours,ELEC.GEN.AOR-NC-96.A
+North Carolina,commercial,2022,118.0,thousand megawatthours,ELEC.GEN.AOR-NC-96.A
+North Carolina,commercial,2023,106.0,thousand megawatthours,ELEC.GEN.AOR-NC-96.A
+North Carolina,commercial,2024,100.0,thousand megawatthours,ELEC.GEN.AOR-NC-96.A
+North Carolina,commercial,2025,113.0,thousand megawatthours,ELEC.GEN.AOR-NC-96.A
+North Carolina,industrial,2001,1309.0,thousand megawatthours,ELEC.GEN.AOR-NC-97.A
+North Carolina,industrial,2002,1344.0,thousand megawatthours,ELEC.GEN.AOR-NC-97.A
+North Carolina,industrial,2003,1516.0,thousand megawatthours,ELEC.GEN.AOR-NC-97.A
+North Carolina,industrial,2004,1259.0,thousand megawatthours,ELEC.GEN.AOR-NC-97.A
+North Carolina,industrial,2005,1331.0,thousand megawatthours,ELEC.GEN.AOR-NC-97.A
+North Carolina,industrial,2006,1292.0,thousand megawatthours,ELEC.GEN.AOR-NC-97.A
+North Carolina,industrial,2007,1154.0,thousand megawatthours,ELEC.GEN.AOR-NC-97.A
+North Carolina,industrial,2008,1401.0,thousand megawatthours,ELEC.GEN.AOR-NC-97.A
+North Carolina,industrial,2009,1266.0,thousand megawatthours,ELEC.GEN.AOR-NC-97.A
+North Carolina,industrial,2010,1306.0,thousand megawatthours,ELEC.GEN.AOR-NC-97.A
+North Carolina,industrial,2011,1350.0,thousand megawatthours,ELEC.GEN.AOR-NC-97.A
+North Carolina,industrial,2012,1334.0,thousand megawatthours,ELEC.GEN.AOR-NC-97.A
+North Carolina,industrial,2013,1318.0,thousand megawatthours,ELEC.GEN.AOR-NC-97.A
+North Carolina,industrial,2014,1136.0,thousand megawatthours,ELEC.GEN.AOR-NC-97.A
+North Carolina,industrial,2015,1328.0,thousand megawatthours,ELEC.GEN.AOR-NC-97.A
+North Carolina,industrial,2016,1265.0,thousand megawatthours,ELEC.GEN.AOR-NC-97.A
+North Carolina,industrial,2017,1315.0,thousand megawatthours,ELEC.GEN.AOR-NC-97.A
+North Carolina,industrial,2018,1259.0,thousand megawatthours,ELEC.GEN.AOR-NC-97.A
+North Carolina,industrial,2019,1179.0,thousand megawatthours,ELEC.GEN.AOR-NC-97.A
+North Carolina,industrial,2020,1238.0,thousand megawatthours,ELEC.GEN.AOR-NC-97.A
+North Carolina,industrial,2021,1189.0,thousand megawatthours,ELEC.GEN.AOR-NC-97.A
+North Carolina,industrial,2022,1147.0,thousand megawatthours,ELEC.GEN.AOR-NC-97.A
+North Carolina,industrial,2023,1024.0,thousand megawatthours,ELEC.GEN.AOR-NC-97.A
+North Carolina,industrial,2024,920.0,thousand megawatthours,ELEC.GEN.AOR-NC-97.A
+North Carolina,industrial,2025,993.0,thousand megawatthours,ELEC.GEN.AOR-NC-97.A
+North Dakota,commercial,2019,0.0,thousand megawatthours,ELEC.GEN.AOR-ND-96.A
+North Dakota,commercial,2020,0.0,thousand megawatthours,ELEC.GEN.AOR-ND-96.A
+North Dakota,commercial,2021,0.0,thousand megawatthours,ELEC.GEN.AOR-ND-96.A
+North Dakota,commercial,2022,0.0,thousand megawatthours,ELEC.GEN.AOR-ND-96.A
+North Dakota,industrial,2001,8.0,thousand megawatthours,ELEC.GEN.AOR-ND-97.A
+North Dakota,industrial,2002,0.0,thousand megawatthours,ELEC.GEN.AOR-ND-97.A
+North Dakota,industrial,2003,1.0,thousand megawatthours,ELEC.GEN.AOR-ND-97.A
+North Dakota,industrial,2004,6.0,thousand megawatthours,ELEC.GEN.AOR-ND-97.A
+North Dakota,industrial,2005,10.0,thousand megawatthours,ELEC.GEN.AOR-ND-97.A
+North Dakota,industrial,2006,4.0,thousand megawatthours,ELEC.GEN.AOR-ND-97.A
+North Dakota,industrial,2007,14.0,thousand megawatthours,ELEC.GEN.AOR-ND-97.A
+North Dakota,industrial,2008,13.0,thousand megawatthours,ELEC.GEN.AOR-ND-97.A
+North Dakota,industrial,2009,12.0,thousand megawatthours,ELEC.GEN.AOR-ND-97.A
+North Dakota,industrial,2010,12.0,thousand megawatthours,ELEC.GEN.AOR-ND-97.A
+North Dakota,industrial,2011,10.0,thousand megawatthours,ELEC.GEN.AOR-ND-97.A
+North Dakota,industrial,2012,6.0,thousand megawatthours,ELEC.GEN.AOR-ND-97.A
+North Dakota,industrial,2013,5.0,thousand megawatthours,ELEC.GEN.AOR-ND-97.A
+North Dakota,industrial,2014,3.0,thousand megawatthours,ELEC.GEN.AOR-ND-97.A
+North Dakota,industrial,2015,4.0,thousand megawatthours,ELEC.GEN.AOR-ND-97.A
+North Dakota,industrial,2016,6.0,thousand megawatthours,ELEC.GEN.AOR-ND-97.A
+North Dakota,industrial,2017,2.0,thousand megawatthours,ELEC.GEN.AOR-ND-97.A
+North Dakota,industrial,2018,1.0,thousand megawatthours,ELEC.GEN.AOR-ND-97.A
+North Dakota,industrial,2019,0.0,thousand megawatthours,ELEC.GEN.AOR-ND-97.A
+North Dakota,industrial,2020,1.0,thousand megawatthours,ELEC.GEN.AOR-ND-97.A
+North Dakota,industrial,2021,2.0,thousand megawatthours,ELEC.GEN.AOR-ND-97.A
+North Dakota,industrial,2022,0.0,thousand megawatthours,ELEC.GEN.AOR-ND-97.A
+North Dakota,industrial,2023,0.0,thousand megawatthours,ELEC.GEN.AOR-ND-97.A
+North Dakota,industrial,2024,0.0,thousand megawatthours,ELEC.GEN.AOR-ND-97.A
+North Dakota,industrial,2025,0.0,thousand megawatthours,ELEC.GEN.AOR-ND-97.A
+Ohio,commercial,2001,0.0,thousand megawatthours,ELEC.GEN.AOR-OH-96.A
+Ohio,commercial,2002,1.0,thousand megawatthours,ELEC.GEN.AOR-OH-96.A
+Ohio,commercial,2003,0.0,thousand megawatthours,ELEC.GEN.AOR-OH-96.A
+Ohio,commercial,2004,0.0,thousand megawatthours,ELEC.GEN.AOR-OH-96.A
+Ohio,commercial,2005,0.0,thousand megawatthours,ELEC.GEN.AOR-OH-96.A
+Ohio,commercial,2007,0.0,thousand megawatthours,ELEC.GEN.AOR-OH-96.A
+Ohio,commercial,2012,0.0,thousand megawatthours,ELEC.GEN.AOR-OH-96.A
+Ohio,commercial,2013,3.0,thousand megawatthours,ELEC.GEN.AOR-OH-96.A
+Ohio,commercial,2014,10.0,thousand megawatthours,ELEC.GEN.AOR-OH-96.A
+Ohio,commercial,2015,11.0,thousand megawatthours,ELEC.GEN.AOR-OH-96.A
+Ohio,commercial,2016,13.0,thousand megawatthours,ELEC.GEN.AOR-OH-96.A
+Ohio,commercial,2017,15.0,thousand megawatthours,ELEC.GEN.AOR-OH-96.A
+Ohio,commercial,2018,13.0,thousand megawatthours,ELEC.GEN.AOR-OH-96.A
+Ohio,commercial,2019,16.0,thousand megawatthours,ELEC.GEN.AOR-OH-96.A
+Ohio,commercial,2020,13.0,thousand megawatthours,ELEC.GEN.AOR-OH-96.A
+Ohio,commercial,2021,17.0,thousand megawatthours,ELEC.GEN.AOR-OH-96.A
+Ohio,commercial,2022,17.0,thousand megawatthours,ELEC.GEN.AOR-OH-96.A
+Ohio,commercial,2023,14.0,thousand megawatthours,ELEC.GEN.AOR-OH-96.A
+Ohio,commercial,2024,19.0,thousand megawatthours,ELEC.GEN.AOR-OH-96.A
+Ohio,commercial,2025,21.0,thousand megawatthours,ELEC.GEN.AOR-OH-96.A
+Ohio,industrial,2001,364.0,thousand megawatthours,ELEC.GEN.AOR-OH-97.A
+Ohio,industrial,2002,84.0,thousand megawatthours,ELEC.GEN.AOR-OH-97.A
+Ohio,industrial,2003,363.0,thousand megawatthours,ELEC.GEN.AOR-OH-97.A
+Ohio,industrial,2004,355.0,thousand megawatthours,ELEC.GEN.AOR-OH-97.A
+Ohio,industrial,2005,365.0,thousand megawatthours,ELEC.GEN.AOR-OH-97.A
+Ohio,industrial,2006,383.0,thousand megawatthours,ELEC.GEN.AOR-OH-97.A
+Ohio,industrial,2007,378.0,thousand megawatthours,ELEC.GEN.AOR-OH-97.A
+Ohio,industrial,2008,397.0,thousand megawatthours,ELEC.GEN.AOR-OH-97.A
+Ohio,industrial,2009,398.0,thousand megawatthours,ELEC.GEN.AOR-OH-97.A
+Ohio,industrial,2010,383.0,thousand megawatthours,ELEC.GEN.AOR-OH-97.A
+Ohio,industrial,2011,384.0,thousand megawatthours,ELEC.GEN.AOR-OH-97.A
+Ohio,industrial,2012,352.0,thousand megawatthours,ELEC.GEN.AOR-OH-97.A
+Ohio,industrial,2013,359.0,thousand megawatthours,ELEC.GEN.AOR-OH-97.A
+Ohio,industrial,2014,369.0,thousand megawatthours,ELEC.GEN.AOR-OH-97.A
+Ohio,industrial,2015,347.0,thousand megawatthours,ELEC.GEN.AOR-OH-97.A
+Ohio,industrial,2016,306.0,thousand megawatthours,ELEC.GEN.AOR-OH-97.A
+Ohio,industrial,2017,293.0,thousand megawatthours,ELEC.GEN.AOR-OH-97.A
+Ohio,industrial,2018,280.0,thousand megawatthours,ELEC.GEN.AOR-OH-97.A
+Ohio,industrial,2019,300.0,thousand megawatthours,ELEC.GEN.AOR-OH-97.A
+Ohio,industrial,2020,314.0,thousand megawatthours,ELEC.GEN.AOR-OH-97.A
+Ohio,industrial,2021,310.0,thousand megawatthours,ELEC.GEN.AOR-OH-97.A
+Ohio,industrial,2022,312.0,thousand megawatthours,ELEC.GEN.AOR-OH-97.A
+Ohio,industrial,2023,249.0,thousand megawatthours,ELEC.GEN.AOR-OH-97.A
+Ohio,industrial,2024,208.0,thousand megawatthours,ELEC.GEN.AOR-OH-97.A
+Ohio,industrial,2025,211.0,thousand megawatthours,ELEC.GEN.AOR-OH-97.A
+Oklahoma,commercial,2022,-9.0,thousand megawatthours,ELEC.GEN.AOR-OK-96.A
+Oklahoma,commercial,2023,-7.0,thousand megawatthours,ELEC.GEN.AOR-OK-96.A
+Oklahoma,commercial,2024,-3.0,thousand megawatthours,ELEC.GEN.AOR-OK-96.A
+Oklahoma,commercial,2025,-1.0,thousand megawatthours,ELEC.GEN.AOR-OK-96.A
+Oklahoma,industrial,2001,231.0,thousand megawatthours,ELEC.GEN.AOR-OK-97.A
+Oklahoma,industrial,2002,239.0,thousand megawatthours,ELEC.GEN.AOR-OK-97.A
+Oklahoma,industrial,2003,267.0,thousand megawatthours,ELEC.GEN.AOR-OK-97.A
+Oklahoma,industrial,2004,250.0,thousand megawatthours,ELEC.GEN.AOR-OK-97.A
+Oklahoma,industrial,2005,289.0,thousand megawatthours,ELEC.GEN.AOR-OK-97.A
+Oklahoma,industrial,2006,297.0,thousand megawatthours,ELEC.GEN.AOR-OK-97.A
+Oklahoma,industrial,2007,280.0,thousand megawatthours,ELEC.GEN.AOR-OK-97.A
+Oklahoma,industrial,2008,187.0,thousand megawatthours,ELEC.GEN.AOR-OK-97.A
+Oklahoma,industrial,2009,231.0,thousand megawatthours,ELEC.GEN.AOR-OK-97.A
+Oklahoma,industrial,2010,352.0,thousand megawatthours,ELEC.GEN.AOR-OK-97.A
+Oklahoma,industrial,2011,314.0,thousand megawatthours,ELEC.GEN.AOR-OK-97.A
+Oklahoma,industrial,2012,363.0,thousand megawatthours,ELEC.GEN.AOR-OK-97.A
+Oklahoma,industrial,2013,326.0,thousand megawatthours,ELEC.GEN.AOR-OK-97.A
+Oklahoma,industrial,2014,323.0,thousand megawatthours,ELEC.GEN.AOR-OK-97.A
+Oklahoma,industrial,2015,324.0,thousand megawatthours,ELEC.GEN.AOR-OK-97.A
+Oklahoma,industrial,2016,348.0,thousand megawatthours,ELEC.GEN.AOR-OK-97.A
+Oklahoma,industrial,2017,280.0,thousand megawatthours,ELEC.GEN.AOR-OK-97.A
+Oklahoma,industrial,2018,307.0,thousand megawatthours,ELEC.GEN.AOR-OK-97.A
+Oklahoma,industrial,2019,291.0,thousand megawatthours,ELEC.GEN.AOR-OK-97.A
+Oklahoma,industrial,2020,334.0,thousand megawatthours,ELEC.GEN.AOR-OK-97.A
+Oklahoma,industrial,2021,299.0,thousand megawatthours,ELEC.GEN.AOR-OK-97.A
+Oklahoma,industrial,2022,304.0,thousand megawatthours,ELEC.GEN.AOR-OK-97.A
+Oklahoma,industrial,2023,256.0,thousand megawatthours,ELEC.GEN.AOR-OK-97.A
+Oklahoma,industrial,2024,317.0,thousand megawatthours,ELEC.GEN.AOR-OK-97.A
+Oklahoma,industrial,2025,301.0,thousand megawatthours,ELEC.GEN.AOR-OK-97.A
+Oregon,commercial,2007,12.0,thousand megawatthours,ELEC.GEN.AOR-OR-96.A
+Oregon,commercial,2008,22.0,thousand megawatthours,ELEC.GEN.AOR-OR-96.A
+Oregon,commercial,2009,18.0,thousand megawatthours,ELEC.GEN.AOR-OR-96.A
+Oregon,commercial,2010,21.0,thousand megawatthours,ELEC.GEN.AOR-OR-96.A
+Oregon,commercial,2011,24.0,thousand megawatthours,ELEC.GEN.AOR-OR-96.A
+Oregon,commercial,2012,22.0,thousand megawatthours,ELEC.GEN.AOR-OR-96.A
+Oregon,commercial,2013,22.0,thousand megawatthours,ELEC.GEN.AOR-OR-96.A
+Oregon,commercial,2014,20.0,thousand megawatthours,ELEC.GEN.AOR-OR-96.A
+Oregon,commercial,2015,26.0,thousand megawatthours,ELEC.GEN.AOR-OR-96.A
+Oregon,commercial,2016,32.0,thousand megawatthours,ELEC.GEN.AOR-OR-96.A
+Oregon,commercial,2017,31.0,thousand megawatthours,ELEC.GEN.AOR-OR-96.A
+Oregon,commercial,2018,29.0,thousand megawatthours,ELEC.GEN.AOR-OR-96.A
+Oregon,commercial,2019,27.0,thousand megawatthours,ELEC.GEN.AOR-OR-96.A
+Oregon,commercial,2020,36.0,thousand megawatthours,ELEC.GEN.AOR-OR-96.A
+Oregon,commercial,2021,39.0,thousand megawatthours,ELEC.GEN.AOR-OR-96.A
+Oregon,commercial,2022,32.0,thousand megawatthours,ELEC.GEN.AOR-OR-96.A
+Oregon,commercial,2023,31.0,thousand megawatthours,ELEC.GEN.AOR-OR-96.A
+Oregon,commercial,2024,33.0,thousand megawatthours,ELEC.GEN.AOR-OR-96.A
+Oregon,commercial,2025,35.0,thousand megawatthours,ELEC.GEN.AOR-OR-96.A
+Oregon,industrial,2001,374.0,thousand megawatthours,ELEC.GEN.AOR-OR-97.A
+Oregon,industrial,2002,393.0,thousand megawatthours,ELEC.GEN.AOR-OR-97.A
+Oregon,industrial,2003,259.0,thousand megawatthours,ELEC.GEN.AOR-OR-97.A
+Oregon,industrial,2004,410.0,thousand megawatthours,ELEC.GEN.AOR-OR-97.A
+Oregon,industrial,2005,471.0,thousand megawatthours,ELEC.GEN.AOR-OR-97.A
+Oregon,industrial,2006,522.0,thousand megawatthours,ELEC.GEN.AOR-OR-97.A
+Oregon,industrial,2007,639.0,thousand megawatthours,ELEC.GEN.AOR-OR-97.A
+Oregon,industrial,2008,501.0,thousand megawatthours,ELEC.GEN.AOR-OR-97.A
+Oregon,industrial,2009,456.0,thousand megawatthours,ELEC.GEN.AOR-OR-97.A
+Oregon,industrial,2010,462.0,thousand megawatthours,ELEC.GEN.AOR-OR-97.A
+Oregon,industrial,2011,363.0,thousand megawatthours,ELEC.GEN.AOR-OR-97.A
+Oregon,industrial,2012,472.0,thousand megawatthours,ELEC.GEN.AOR-OR-97.A
+Oregon,industrial,2013,543.0,thousand megawatthours,ELEC.GEN.AOR-OR-97.A
+Oregon,industrial,2014,633.0,thousand megawatthours,ELEC.GEN.AOR-OR-97.A
+Oregon,industrial,2015,621.0,thousand megawatthours,ELEC.GEN.AOR-OR-97.A
+Oregon,industrial,2016,510.0,thousand megawatthours,ELEC.GEN.AOR-OR-97.A
+Oregon,industrial,2017,528.0,thousand megawatthours,ELEC.GEN.AOR-OR-97.A
+Oregon,industrial,2018,536.0,thousand megawatthours,ELEC.GEN.AOR-OR-97.A
+Oregon,industrial,2019,499.0,thousand megawatthours,ELEC.GEN.AOR-OR-97.A
+Oregon,industrial,2020,491.0,thousand megawatthours,ELEC.GEN.AOR-OR-97.A
+Oregon,industrial,2021,513.0,thousand megawatthours,ELEC.GEN.AOR-OR-97.A
+Oregon,industrial,2022,513.0,thousand megawatthours,ELEC.GEN.AOR-OR-97.A
+Oregon,industrial,2023,526.0,thousand megawatthours,ELEC.GEN.AOR-OR-97.A
+Oregon,industrial,2024,623.0,thousand megawatthours,ELEC.GEN.AOR-OR-97.A
+Oregon,industrial,2025,610.0,thousand megawatthours,ELEC.GEN.AOR-OR-97.A
+Pennsylvania,commercial,2001,113.0,thousand megawatthours,ELEC.GEN.AOR-PA-96.A
+Pennsylvania,commercial,2002,121.0,thousand megawatthours,ELEC.GEN.AOR-PA-96.A
+Pennsylvania,commercial,2003,114.0,thousand megawatthours,ELEC.GEN.AOR-PA-96.A
+Pennsylvania,commercial,2004,114.0,thousand megawatthours,ELEC.GEN.AOR-PA-96.A
+Pennsylvania,commercial,2005,120.0,thousand megawatthours,ELEC.GEN.AOR-PA-96.A
+Pennsylvania,commercial,2006,113.0,thousand megawatthours,ELEC.GEN.AOR-PA-96.A
+Pennsylvania,commercial,2007,116.0,thousand megawatthours,ELEC.GEN.AOR-PA-96.A
+Pennsylvania,commercial,2008,111.0,thousand megawatthours,ELEC.GEN.AOR-PA-96.A
+Pennsylvania,commercial,2009,107.0,thousand megawatthours,ELEC.GEN.AOR-PA-96.A
+Pennsylvania,commercial,2010,111.0,thousand megawatthours,ELEC.GEN.AOR-PA-96.A
+Pennsylvania,commercial,2011,120.0,thousand megawatthours,ELEC.GEN.AOR-PA-96.A
+Pennsylvania,commercial,2012,130.0,thousand megawatthours,ELEC.GEN.AOR-PA-96.A
+Pennsylvania,commercial,2013,119.0,thousand megawatthours,ELEC.GEN.AOR-PA-96.A
+Pennsylvania,commercial,2014,160.0,thousand megawatthours,ELEC.GEN.AOR-PA-96.A
+Pennsylvania,commercial,2015,162.0,thousand megawatthours,ELEC.GEN.AOR-PA-96.A
+Pennsylvania,commercial,2016,101.0,thousand megawatthours,ELEC.GEN.AOR-PA-96.A
+Pennsylvania,commercial,2017,155.0,thousand megawatthours,ELEC.GEN.AOR-PA-96.A
+Pennsylvania,commercial,2018,145.0,thousand megawatthours,ELEC.GEN.AOR-PA-96.A
+Pennsylvania,commercial,2019,143.0,thousand megawatthours,ELEC.GEN.AOR-PA-96.A
+Pennsylvania,commercial,2020,136.0,thousand megawatthours,ELEC.GEN.AOR-PA-96.A
+Pennsylvania,commercial,2021,135.0,thousand megawatthours,ELEC.GEN.AOR-PA-96.A
+Pennsylvania,commercial,2022,212.0,thousand megawatthours,ELEC.GEN.AOR-PA-96.A
+Pennsylvania,commercial,2023,208.0,thousand megawatthours,ELEC.GEN.AOR-PA-96.A
+Pennsylvania,commercial,2024,219.0,thousand megawatthours,ELEC.GEN.AOR-PA-96.A
+Pennsylvania,commercial,2025,224.0,thousand megawatthours,ELEC.GEN.AOR-PA-96.A
+Pennsylvania,industrial,2001,399.0,thousand megawatthours,ELEC.GEN.AOR-PA-97.A
+Pennsylvania,industrial,2002,487.0,thousand megawatthours,ELEC.GEN.AOR-PA-97.A
+Pennsylvania,industrial,2003,502.0,thousand megawatthours,ELEC.GEN.AOR-PA-97.A
+Pennsylvania,industrial,2004,488.0,thousand megawatthours,ELEC.GEN.AOR-PA-97.A
+Pennsylvania,industrial,2005,492.0,thousand megawatthours,ELEC.GEN.AOR-PA-97.A
+Pennsylvania,industrial,2006,493.0,thousand megawatthours,ELEC.GEN.AOR-PA-97.A
+Pennsylvania,industrial,2007,431.0,thousand megawatthours,ELEC.GEN.AOR-PA-97.A
+Pennsylvania,industrial,2008,454.0,thousand megawatthours,ELEC.GEN.AOR-PA-97.A
+Pennsylvania,industrial,2009,497.0,thousand megawatthours,ELEC.GEN.AOR-PA-97.A
+Pennsylvania,industrial,2010,473.0,thousand megawatthours,ELEC.GEN.AOR-PA-97.A
+Pennsylvania,industrial,2011,463.0,thousand megawatthours,ELEC.GEN.AOR-PA-97.A
+Pennsylvania,industrial,2012,475.0,thousand megawatthours,ELEC.GEN.AOR-PA-97.A
+Pennsylvania,industrial,2013,531.0,thousand megawatthours,ELEC.GEN.AOR-PA-97.A
+Pennsylvania,industrial,2014,619.0,thousand megawatthours,ELEC.GEN.AOR-PA-97.A
+Pennsylvania,industrial,2015,544.0,thousand megawatthours,ELEC.GEN.AOR-PA-97.A
+Pennsylvania,industrial,2016,581.0,thousand megawatthours,ELEC.GEN.AOR-PA-97.A
+Pennsylvania,industrial,2017,601.0,thousand megawatthours,ELEC.GEN.AOR-PA-97.A
+Pennsylvania,industrial,2018,509.0,thousand megawatthours,ELEC.GEN.AOR-PA-97.A
+Pennsylvania,industrial,2019,375.0,thousand megawatthours,ELEC.GEN.AOR-PA-97.A
+Pennsylvania,industrial,2020,425.0,thousand megawatthours,ELEC.GEN.AOR-PA-97.A
+Pennsylvania,industrial,2021,420.0,thousand megawatthours,ELEC.GEN.AOR-PA-97.A
+Pennsylvania,industrial,2022,385.0,thousand megawatthours,ELEC.GEN.AOR-PA-97.A
+Pennsylvania,industrial,2023,326.0,thousand megawatthours,ELEC.GEN.AOR-PA-97.A
+Pennsylvania,industrial,2024,295.0,thousand megawatthours,ELEC.GEN.AOR-PA-97.A
+Pennsylvania,industrial,2025,311.0,thousand megawatthours,ELEC.GEN.AOR-PA-97.A
+Rhode Island,commercial,2014,8.0,thousand megawatthours,ELEC.GEN.AOR-RI-96.A
+Rhode Island,commercial,2015,7.0,thousand megawatthours,ELEC.GEN.AOR-RI-96.A
+Rhode Island,commercial,2016,7.0,thousand megawatthours,ELEC.GEN.AOR-RI-96.A
+Rhode Island,commercial,2017,7.0,thousand megawatthours,ELEC.GEN.AOR-RI-96.A
+Rhode Island,commercial,2018,7.0,thousand megawatthours,ELEC.GEN.AOR-RI-96.A
+Rhode Island,commercial,2019,8.0,thousand megawatthours,ELEC.GEN.AOR-RI-96.A
+Rhode Island,commercial,2020,7.0,thousand megawatthours,ELEC.GEN.AOR-RI-96.A
+Rhode Island,commercial,2021,7.0,thousand megawatthours,ELEC.GEN.AOR-RI-96.A
+Rhode Island,commercial,2022,7.0,thousand megawatthours,ELEC.GEN.AOR-RI-96.A
+Rhode Island,commercial,2023,6.0,thousand megawatthours,ELEC.GEN.AOR-RI-96.A
+Rhode Island,commercial,2024,6.0,thousand megawatthours,ELEC.GEN.AOR-RI-96.A
+Rhode Island,commercial,2025,7.0,thousand megawatthours,ELEC.GEN.AOR-RI-96.A
+South Carolina,commercial,2001,28.0,thousand megawatthours,ELEC.GEN.AOR-SC-96.A
+South Carolina,commercial,2003,30.0,thousand megawatthours,ELEC.GEN.AOR-SC-96.A
+South Carolina,commercial,2004,46.0,thousand megawatthours,ELEC.GEN.AOR-SC-96.A
+South Carolina,commercial,2005,44.0,thousand megawatthours,ELEC.GEN.AOR-SC-96.A
+South Carolina,commercial,2006,45.0,thousand megawatthours,ELEC.GEN.AOR-SC-96.A
+South Carolina,commercial,2007,37.0,thousand megawatthours,ELEC.GEN.AOR-SC-96.A
+South Carolina,commercial,2008,33.0,thousand megawatthours,ELEC.GEN.AOR-SC-96.A
+South Carolina,commercial,2009,22.0,thousand megawatthours,ELEC.GEN.AOR-SC-96.A
+South Carolina,industrial,2001,866.0,thousand megawatthours,ELEC.GEN.AOR-SC-97.A
+South Carolina,industrial,2002,1229.0,thousand megawatthours,ELEC.GEN.AOR-SC-97.A
+South Carolina,industrial,2003,1244.0,thousand megawatthours,ELEC.GEN.AOR-SC-97.A
+South Carolina,industrial,2004,1478.0,thousand megawatthours,ELEC.GEN.AOR-SC-97.A
+South Carolina,industrial,2005,1453.0,thousand megawatthours,ELEC.GEN.AOR-SC-97.A
+South Carolina,industrial,2006,1455.0,thousand megawatthours,ELEC.GEN.AOR-SC-97.A
+South Carolina,industrial,2007,1520.0,thousand megawatthours,ELEC.GEN.AOR-SC-97.A
+South Carolina,industrial,2008,1405.0,thousand megawatthours,ELEC.GEN.AOR-SC-97.A
+South Carolina,industrial,2009,1329.0,thousand megawatthours,ELEC.GEN.AOR-SC-97.A
+South Carolina,industrial,2010,1448.0,thousand megawatthours,ELEC.GEN.AOR-SC-97.A
+South Carolina,industrial,2011,1698.0,thousand megawatthours,ELEC.GEN.AOR-SC-97.A
+South Carolina,industrial,2012,1646.0,thousand megawatthours,ELEC.GEN.AOR-SC-97.A
+South Carolina,industrial,2013,1702.0,thousand megawatthours,ELEC.GEN.AOR-SC-97.A
+South Carolina,industrial,2014,1647.0,thousand megawatthours,ELEC.GEN.AOR-SC-97.A
+South Carolina,industrial,2015,1446.0,thousand megawatthours,ELEC.GEN.AOR-SC-97.A
+South Carolina,industrial,2016,1547.0,thousand megawatthours,ELEC.GEN.AOR-SC-97.A
+South Carolina,industrial,2017,1580.0,thousand megawatthours,ELEC.GEN.AOR-SC-97.A
+South Carolina,industrial,2018,1512.0,thousand megawatthours,ELEC.GEN.AOR-SC-97.A
+South Carolina,industrial,2019,1393.0,thousand megawatthours,ELEC.GEN.AOR-SC-97.A
+South Carolina,industrial,2020,1361.0,thousand megawatthours,ELEC.GEN.AOR-SC-97.A
+South Carolina,industrial,2021,1358.0,thousand megawatthours,ELEC.GEN.AOR-SC-97.A
+South Carolina,industrial,2022,1310.0,thousand megawatthours,ELEC.GEN.AOR-SC-97.A
+South Carolina,industrial,2023,1268.0,thousand megawatthours,ELEC.GEN.AOR-SC-97.A
+South Carolina,industrial,2024,1429.0,thousand megawatthours,ELEC.GEN.AOR-SC-97.A
+South Carolina,industrial,2025,1149.0,thousand megawatthours,ELEC.GEN.AOR-SC-97.A
+South Dakota,industrial,2019,0.0,thousand megawatthours,ELEC.GEN.AOR-SD-97.A
+South Dakota,industrial,2020,12.0,thousand megawatthours,ELEC.GEN.AOR-SD-97.A
+South Dakota,industrial,2021,23.0,thousand megawatthours,ELEC.GEN.AOR-SD-97.A
+South Dakota,industrial,2022,29.0,thousand megawatthours,ELEC.GEN.AOR-SD-97.A
+South Dakota,industrial,2023,17.0,thousand megawatthours,ELEC.GEN.AOR-SD-97.A
+South Dakota,industrial,2024,20.0,thousand megawatthours,ELEC.GEN.AOR-SD-97.A
+South Dakota,industrial,2025,19.0,thousand megawatthours,ELEC.GEN.AOR-SD-97.A
+Tennessee,commercial,2001,9.0,thousand megawatthours,ELEC.GEN.AOR-TN-96.A
+Tennessee,commercial,2002,3.0,thousand megawatthours,ELEC.GEN.AOR-TN-96.A
+Tennessee,commercial,2013,2.0,thousand megawatthours,ELEC.GEN.AOR-TN-96.A
+Tennessee,commercial,2014,3.0,thousand megawatthours,ELEC.GEN.AOR-TN-96.A
+Tennessee,commercial,2015,3.0,thousand megawatthours,ELEC.GEN.AOR-TN-96.A
+Tennessee,commercial,2016,3.0,thousand megawatthours,ELEC.GEN.AOR-TN-96.A
+Tennessee,commercial,2017,4.0,thousand megawatthours,ELEC.GEN.AOR-TN-96.A
+Tennessee,commercial,2018,4.0,thousand megawatthours,ELEC.GEN.AOR-TN-96.A
+Tennessee,commercial,2019,5.0,thousand megawatthours,ELEC.GEN.AOR-TN-96.A
+Tennessee,commercial,2020,5.0,thousand megawatthours,ELEC.GEN.AOR-TN-96.A
+Tennessee,commercial,2021,4.0,thousand megawatthours,ELEC.GEN.AOR-TN-96.A
+Tennessee,commercial,2022,4.0,thousand megawatthours,ELEC.GEN.AOR-TN-96.A
+Tennessee,commercial,2023,3.0,thousand megawatthours,ELEC.GEN.AOR-TN-96.A
+Tennessee,commercial,2024,4.0,thousand megawatthours,ELEC.GEN.AOR-TN-96.A
+Tennessee,commercial,2025,5.0,thousand megawatthours,ELEC.GEN.AOR-TN-96.A
+Tennessee,industrial,2001,779.0,thousand megawatthours,ELEC.GEN.AOR-TN-97.A
+Tennessee,industrial,2002,760.0,thousand megawatthours,ELEC.GEN.AOR-TN-97.A
+Tennessee,industrial,2003,798.0,thousand megawatthours,ELEC.GEN.AOR-TN-97.A
+Tennessee,industrial,2004,806.0,thousand megawatthours,ELEC.GEN.AOR-TN-97.A
+Tennessee,industrial,2005,735.0,thousand megawatthours,ELEC.GEN.AOR-TN-97.A
+Tennessee,industrial,2006,731.0,thousand megawatthours,ELEC.GEN.AOR-TN-97.A
+Tennessee,industrial,2007,901.0,thousand megawatthours,ELEC.GEN.AOR-TN-97.A
+Tennessee,industrial,2008,888.0,thousand megawatthours,ELEC.GEN.AOR-TN-97.A
+Tennessee,industrial,2009,870.0,thousand megawatthours,ELEC.GEN.AOR-TN-97.A
+Tennessee,industrial,2010,924.0,thousand megawatthours,ELEC.GEN.AOR-TN-97.A
+Tennessee,industrial,2011,939.0,thousand megawatthours,ELEC.GEN.AOR-TN-97.A
+Tennessee,industrial,2012,720.0,thousand megawatthours,ELEC.GEN.AOR-TN-97.A
+Tennessee,industrial,2013,964.0,thousand megawatthours,ELEC.GEN.AOR-TN-97.A
+Tennessee,industrial,2014,978.0,thousand megawatthours,ELEC.GEN.AOR-TN-97.A
+Tennessee,industrial,2015,928.0,thousand megawatthours,ELEC.GEN.AOR-TN-97.A
+Tennessee,industrial,2016,849.0,thousand megawatthours,ELEC.GEN.AOR-TN-97.A
+Tennessee,industrial,2017,865.0,thousand megawatthours,ELEC.GEN.AOR-TN-97.A
+Tennessee,industrial,2018,911.0,thousand megawatthours,ELEC.GEN.AOR-TN-97.A
+Tennessee,industrial,2019,847.0,thousand megawatthours,ELEC.GEN.AOR-TN-97.A
+Tennessee,industrial,2020,664.0,thousand megawatthours,ELEC.GEN.AOR-TN-97.A
+Tennessee,industrial,2021,634.0,thousand megawatthours,ELEC.GEN.AOR-TN-97.A
+Tennessee,industrial,2022,369.0,thousand megawatthours,ELEC.GEN.AOR-TN-97.A
+Tennessee,industrial,2023,407.0,thousand megawatthours,ELEC.GEN.AOR-TN-97.A
+Tennessee,industrial,2024,398.0,thousand megawatthours,ELEC.GEN.AOR-TN-97.A
+Tennessee,industrial,2025,406.0,thousand megawatthours,ELEC.GEN.AOR-TN-97.A
+Texas,commercial,2001,10.0,thousand megawatthours,ELEC.GEN.AOR-TX-96.A
+Texas,commercial,2002,12.0,thousand megawatthours,ELEC.GEN.AOR-TX-96.A
+Texas,commercial,2003,37.0,thousand megawatthours,ELEC.GEN.AOR-TX-96.A
+Texas,commercial,2004,28.0,thousand megawatthours,ELEC.GEN.AOR-TX-96.A
+Texas,commercial,2005,31.0,thousand megawatthours,ELEC.GEN.AOR-TX-96.A
+Texas,commercial,2006,35.0,thousand megawatthours,ELEC.GEN.AOR-TX-96.A
+Texas,commercial,2007,38.0,thousand megawatthours,ELEC.GEN.AOR-TX-96.A
+Texas,commercial,2008,36.0,thousand megawatthours,ELEC.GEN.AOR-TX-96.A
+Texas,commercial,2009,35.0,thousand megawatthours,ELEC.GEN.AOR-TX-96.A
+Texas,commercial,2010,39.0,thousand megawatthours,ELEC.GEN.AOR-TX-96.A
+Texas,commercial,2011,38.0,thousand megawatthours,ELEC.GEN.AOR-TX-96.A
+Texas,commercial,2012,36.0,thousand megawatthours,ELEC.GEN.AOR-TX-96.A
+Texas,commercial,2013,37.0,thousand megawatthours,ELEC.GEN.AOR-TX-96.A
+Texas,commercial,2014,59.0,thousand megawatthours,ELEC.GEN.AOR-TX-96.A
+Texas,commercial,2015,66.0,thousand megawatthours,ELEC.GEN.AOR-TX-96.A
+Texas,commercial,2016,85.0,thousand megawatthours,ELEC.GEN.AOR-TX-96.A
+Texas,commercial,2017,77.0,thousand megawatthours,ELEC.GEN.AOR-TX-96.A
+Texas,commercial,2018,88.0,thousand megawatthours,ELEC.GEN.AOR-TX-96.A
+Texas,commercial,2019,68.0,thousand megawatthours,ELEC.GEN.AOR-TX-96.A
+Texas,commercial,2020,51.0,thousand megawatthours,ELEC.GEN.AOR-TX-96.A
+Texas,commercial,2021,53.0,thousand megawatthours,ELEC.GEN.AOR-TX-96.A
+Texas,commercial,2022,51.0,thousand megawatthours,ELEC.GEN.AOR-TX-96.A
+Texas,commercial,2023,35.0,thousand megawatthours,ELEC.GEN.AOR-TX-96.A
+Texas,commercial,2024,35.0,thousand megawatthours,ELEC.GEN.AOR-TX-96.A
+Texas,commercial,2025,27.0,thousand megawatthours,ELEC.GEN.AOR-TX-96.A
+Texas,industrial,2001,932.0,thousand megawatthours,ELEC.GEN.AOR-TX-97.A
+Texas,industrial,2002,1122.0,thousand megawatthours,ELEC.GEN.AOR-TX-97.A
+Texas,industrial,2003,1054.0,thousand megawatthours,ELEC.GEN.AOR-TX-97.A
+Texas,industrial,2004,873.0,thousand megawatthours,ELEC.GEN.AOR-TX-97.A
+Texas,industrial,2005,872.0,thousand megawatthours,ELEC.GEN.AOR-TX-97.A
+Texas,industrial,2006,909.0,thousand megawatthours,ELEC.GEN.AOR-TX-97.A
+Texas,industrial,2007,931.0,thousand megawatthours,ELEC.GEN.AOR-TX-97.A
+Texas,industrial,2008,990.0,thousand megawatthours,ELEC.GEN.AOR-TX-97.A
+Texas,industrial,2009,665.0,thousand megawatthours,ELEC.GEN.AOR-TX-97.A
+Texas,industrial,2010,984.0,thousand megawatthours,ELEC.GEN.AOR-TX-97.A
+Texas,industrial,2011,1027.0,thousand megawatthours,ELEC.GEN.AOR-TX-97.A
+Texas,industrial,2012,958.0,thousand megawatthours,ELEC.GEN.AOR-TX-97.A
+Texas,industrial,2013,1017.0,thousand megawatthours,ELEC.GEN.AOR-TX-97.A
+Texas,industrial,2014,953.0,thousand megawatthours,ELEC.GEN.AOR-TX-97.A
+Texas,industrial,2015,543.0,thousand megawatthours,ELEC.GEN.AOR-TX-97.A
+Texas,industrial,2016,944.0,thousand megawatthours,ELEC.GEN.AOR-TX-97.A
+Texas,industrial,2017,949.0,thousand megawatthours,ELEC.GEN.AOR-TX-97.A
+Texas,industrial,2018,980.0,thousand megawatthours,ELEC.GEN.AOR-TX-97.A
+Texas,industrial,2019,983.0,thousand megawatthours,ELEC.GEN.AOR-TX-97.A
+Texas,industrial,2020,985.0,thousand megawatthours,ELEC.GEN.AOR-TX-97.A
+Texas,industrial,2021,859.0,thousand megawatthours,ELEC.GEN.AOR-TX-97.A
+Texas,industrial,2022,831.0,thousand megawatthours,ELEC.GEN.AOR-TX-97.A
+Texas,industrial,2023,861.0,thousand megawatthours,ELEC.GEN.AOR-TX-97.A
+Texas,industrial,2024,590.0,thousand megawatthours,ELEC.GEN.AOR-TX-97.A
+Texas,industrial,2025,1362.0,thousand megawatthours,ELEC.GEN.AOR-TX-97.A
+Utah,commercial,2006,9.0,thousand megawatthours,ELEC.GEN.AOR-UT-96.A
+Utah,commercial,2007,25.0,thousand megawatthours,ELEC.GEN.AOR-UT-96.A
+Utah,commercial,2015,15.0,thousand megawatthours,ELEC.GEN.AOR-UT-96.A
+Utah,commercial,2016,16.0,thousand megawatthours,ELEC.GEN.AOR-UT-96.A
+Utah,commercial,2017,10.0,thousand megawatthours,ELEC.GEN.AOR-UT-96.A
+Utah,commercial,2018,14.0,thousand megawatthours,ELEC.GEN.AOR-UT-96.A
+Utah,commercial,2019,9.0,thousand megawatthours,ELEC.GEN.AOR-UT-96.A
+Utah,commercial,2020,13.0,thousand megawatthours,ELEC.GEN.AOR-UT-96.A
+Utah,commercial,2021,14.0,thousand megawatthours,ELEC.GEN.AOR-UT-96.A
+Utah,commercial,2022,11.0,thousand megawatthours,ELEC.GEN.AOR-UT-96.A
+Utah,commercial,2023,14.0,thousand megawatthours,ELEC.GEN.AOR-UT-96.A
+Utah,commercial,2024,9.0,thousand megawatthours,ELEC.GEN.AOR-UT-96.A
+Utah,commercial,2025,0.0,thousand megawatthours,ELEC.GEN.AOR-UT-96.A
+Utah,industrial,2023,0.0,thousand megawatthours,ELEC.GEN.AOR-UT-97.A
+Utah,industrial,2024,7.0,thousand megawatthours,ELEC.GEN.AOR-UT-97.A
+Utah,industrial,2025,22.0,thousand megawatthours,ELEC.GEN.AOR-UT-97.A
+Vermont,commercial,2011,2.0,thousand megawatthours,ELEC.GEN.AOR-VT-96.A
+Vermont,commercial,2012,2.0,thousand megawatthours,ELEC.GEN.AOR-VT-96.A
+Vermont,commercial,2013,2.0,thousand megawatthours,ELEC.GEN.AOR-VT-96.A
+Vermont,commercial,2014,3.0,thousand megawatthours,ELEC.GEN.AOR-VT-96.A
+Vermont,commercial,2015,2.0,thousand megawatthours,ELEC.GEN.AOR-VT-96.A
+Vermont,commercial,2016,2.0,thousand megawatthours,ELEC.GEN.AOR-VT-96.A
+Vermont,commercial,2017,2.0,thousand megawatthours,ELEC.GEN.AOR-VT-96.A
+Vermont,commercial,2018,2.0,thousand megawatthours,ELEC.GEN.AOR-VT-96.A
+Vermont,commercial,2019,2.0,thousand megawatthours,ELEC.GEN.AOR-VT-96.A
+Vermont,commercial,2020,2.0,thousand megawatthours,ELEC.GEN.AOR-VT-96.A
+Vermont,commercial,2021,2.0,thousand megawatthours,ELEC.GEN.AOR-VT-96.A
+Vermont,commercial,2022,2.0,thousand megawatthours,ELEC.GEN.AOR-VT-96.A
+Vermont,commercial,2023,1.0,thousand megawatthours,ELEC.GEN.AOR-VT-96.A
+Vermont,commercial,2024,2.0,thousand megawatthours,ELEC.GEN.AOR-VT-96.A
+Vermont,commercial,2025,1.0,thousand megawatthours,ELEC.GEN.AOR-VT-96.A
+Vermont,industrial,2001,19.0,thousand megawatthours,ELEC.GEN.AOR-VT-97.A
+Vermont,industrial,2002,4.0,thousand megawatthours,ELEC.GEN.AOR-VT-97.A
+Vermont,industrial,2004,6.0,thousand megawatthours,ELEC.GEN.AOR-VT-97.A
+Vermont,industrial,2005,9.0,thousand megawatthours,ELEC.GEN.AOR-VT-97.A
+Vermont,industrial,2006,4.0,thousand megawatthours,ELEC.GEN.AOR-VT-97.A
+Vermont,industrial,2007,0.0,thousand megawatthours,ELEC.GEN.AOR-VT-97.A
+Vermont,industrial,2008,0.0,thousand megawatthours,ELEC.GEN.AOR-VT-97.A
+Vermont,industrial,2009,0.0,thousand megawatthours,ELEC.GEN.AOR-VT-97.A
+Virginia,commercial,2001,182.0,thousand megawatthours,ELEC.GEN.AOR-VA-96.A
+Virginia,commercial,2002,148.0,thousand megawatthours,ELEC.GEN.AOR-VA-96.A
+Virginia,commercial,2003,182.0,thousand megawatthours,ELEC.GEN.AOR-VA-96.A
+Virginia,commercial,2004,198.0,thousand megawatthours,ELEC.GEN.AOR-VA-96.A
+Virginia,commercial,2005,218.0,thousand megawatthours,ELEC.GEN.AOR-VA-96.A
+Virginia,commercial,2006,194.0,thousand megawatthours,ELEC.GEN.AOR-VA-96.A
+Virginia,commercial,2007,222.0,thousand megawatthours,ELEC.GEN.AOR-VA-96.A
+Virginia,commercial,2008,200.0,thousand megawatthours,ELEC.GEN.AOR-VA-96.A
+Virginia,commercial,2009,172.0,thousand megawatthours,ELEC.GEN.AOR-VA-96.A
+Virginia,commercial,2010,188.0,thousand megawatthours,ELEC.GEN.AOR-VA-96.A
+Virginia,commercial,2011,183.0,thousand megawatthours,ELEC.GEN.AOR-VA-96.A
+Virginia,commercial,2012,130.0,thousand megawatthours,ELEC.GEN.AOR-VA-96.A
+Virginia,commercial,2013,230.0,thousand megawatthours,ELEC.GEN.AOR-VA-96.A
+Virginia,commercial,2014,234.0,thousand megawatthours,ELEC.GEN.AOR-VA-96.A
+Virginia,commercial,2015,229.0,thousand megawatthours,ELEC.GEN.AOR-VA-96.A
+Virginia,commercial,2016,226.0,thousand megawatthours,ELEC.GEN.AOR-VA-96.A
+Virginia,commercial,2017,205.0,thousand megawatthours,ELEC.GEN.AOR-VA-96.A
+Virginia,commercial,2018,164.0,thousand megawatthours,ELEC.GEN.AOR-VA-96.A
+Virginia,commercial,2019,144.0,thousand megawatthours,ELEC.GEN.AOR-VA-96.A
+Virginia,commercial,2020,150.0,thousand megawatthours,ELEC.GEN.AOR-VA-96.A
+Virginia,commercial,2021,135.0,thousand megawatthours,ELEC.GEN.AOR-VA-96.A
+Virginia,commercial,2022,437.0,thousand megawatthours,ELEC.GEN.AOR-VA-96.A
+Virginia,commercial,2023,402.0,thousand megawatthours,ELEC.GEN.AOR-VA-96.A
+Virginia,commercial,2024,365.0,thousand megawatthours,ELEC.GEN.AOR-VA-96.A
+Virginia,commercial,2025,396.0,thousand megawatthours,ELEC.GEN.AOR-VA-96.A
+Virginia,industrial,2001,1145.0,thousand megawatthours,ELEC.GEN.AOR-VA-97.A
+Virginia,industrial,2002,1197.0,thousand megawatthours,ELEC.GEN.AOR-VA-97.A
+Virginia,industrial,2003,1273.0,thousand megawatthours,ELEC.GEN.AOR-VA-97.A
+Virginia,industrial,2004,1277.0,thousand megawatthours,ELEC.GEN.AOR-VA-97.A
+Virginia,industrial,2005,1306.0,thousand megawatthours,ELEC.GEN.AOR-VA-97.A
+Virginia,industrial,2006,1339.0,thousand megawatthours,ELEC.GEN.AOR-VA-97.A
+Virginia,industrial,2007,1386.0,thousand megawatthours,ELEC.GEN.AOR-VA-97.A
+Virginia,industrial,2008,1430.0,thousand megawatthours,ELEC.GEN.AOR-VA-97.A
+Virginia,industrial,2009,1282.0,thousand megawatthours,ELEC.GEN.AOR-VA-97.A
+Virginia,industrial,2010,995.0,thousand megawatthours,ELEC.GEN.AOR-VA-97.A
+Virginia,industrial,2011,1009.0,thousand megawatthours,ELEC.GEN.AOR-VA-97.A
+Virginia,industrial,2012,1101.0,thousand megawatthours,ELEC.GEN.AOR-VA-97.A
+Virginia,industrial,2013,1249.0,thousand megawatthours,ELEC.GEN.AOR-VA-97.A
+Virginia,industrial,2014,1431.0,thousand megawatthours,ELEC.GEN.AOR-VA-97.A
+Virginia,industrial,2015,1597.0,thousand megawatthours,ELEC.GEN.AOR-VA-97.A
+Virginia,industrial,2016,1535.0,thousand megawatthours,ELEC.GEN.AOR-VA-97.A
+Virginia,industrial,2017,1531.0,thousand megawatthours,ELEC.GEN.AOR-VA-97.A
+Virginia,industrial,2018,1554.0,thousand megawatthours,ELEC.GEN.AOR-VA-97.A
+Virginia,industrial,2019,1461.0,thousand megawatthours,ELEC.GEN.AOR-VA-97.A
+Virginia,industrial,2020,1385.0,thousand megawatthours,ELEC.GEN.AOR-VA-97.A
+Virginia,industrial,2021,1353.0,thousand megawatthours,ELEC.GEN.AOR-VA-97.A
+Virginia,industrial,2022,1232.0,thousand megawatthours,ELEC.GEN.AOR-VA-97.A
+Virginia,industrial,2023,1123.0,thousand megawatthours,ELEC.GEN.AOR-VA-97.A
+Virginia,industrial,2024,1251.0,thousand megawatthours,ELEC.GEN.AOR-VA-97.A
+Virginia,industrial,2025,1259.0,thousand megawatthours,ELEC.GEN.AOR-VA-97.A
+Washington,commercial,2012,0.0,thousand megawatthours,ELEC.GEN.AOR-WA-96.A
+Washington,commercial,2013,7.0,thousand megawatthours,ELEC.GEN.AOR-WA-96.A
+Washington,commercial,2014,17.0,thousand megawatthours,ELEC.GEN.AOR-WA-96.A
+Washington,commercial,2015,16.0,thousand megawatthours,ELEC.GEN.AOR-WA-96.A
+Washington,commercial,2016,16.0,thousand megawatthours,ELEC.GEN.AOR-WA-96.A
+Washington,commercial,2017,10.0,thousand megawatthours,ELEC.GEN.AOR-WA-96.A
+Washington,commercial,2018,13.0,thousand megawatthours,ELEC.GEN.AOR-WA-96.A
+Washington,commercial,2019,15.0,thousand megawatthours,ELEC.GEN.AOR-WA-96.A
+Washington,commercial,2020,13.0,thousand megawatthours,ELEC.GEN.AOR-WA-96.A
+Washington,commercial,2021,11.0,thousand megawatthours,ELEC.GEN.AOR-WA-96.A
+Washington,commercial,2022,10.0,thousand megawatthours,ELEC.GEN.AOR-WA-96.A
+Washington,commercial,2023,7.0,thousand megawatthours,ELEC.GEN.AOR-WA-96.A
+Washington,commercial,2024,10.0,thousand megawatthours,ELEC.GEN.AOR-WA-96.A
+Washington,commercial,2025,11.0,thousand megawatthours,ELEC.GEN.AOR-WA-96.A
+Washington,industrial,2001,681.0,thousand megawatthours,ELEC.GEN.AOR-WA-97.A
+Washington,industrial,2002,629.0,thousand megawatthours,ELEC.GEN.AOR-WA-97.A
+Washington,industrial,2003,762.0,thousand megawatthours,ELEC.GEN.AOR-WA-97.A
+Washington,industrial,2004,792.0,thousand megawatthours,ELEC.GEN.AOR-WA-97.A
+Washington,industrial,2005,818.0,thousand megawatthours,ELEC.GEN.AOR-WA-97.A
+Washington,industrial,2006,693.0,thousand megawatthours,ELEC.GEN.AOR-WA-97.A
+Washington,industrial,2007,563.0,thousand megawatthours,ELEC.GEN.AOR-WA-97.A
+Washington,industrial,2008,747.0,thousand megawatthours,ELEC.GEN.AOR-WA-97.A
+Washington,industrial,2009,958.0,thousand megawatthours,ELEC.GEN.AOR-WA-97.A
+Washington,industrial,2010,1180.0,thousand megawatthours,ELEC.GEN.AOR-WA-97.A
+Washington,industrial,2011,1151.0,thousand megawatthours,ELEC.GEN.AOR-WA-97.A
+Washington,industrial,2012,1179.0,thousand megawatthours,ELEC.GEN.AOR-WA-97.A
+Washington,industrial,2013,1253.0,thousand megawatthours,ELEC.GEN.AOR-WA-97.A
+Washington,industrial,2014,1285.0,thousand megawatthours,ELEC.GEN.AOR-WA-97.A
+Washington,industrial,2015,1386.0,thousand megawatthours,ELEC.GEN.AOR-WA-97.A
+Washington,industrial,2016,1381.0,thousand megawatthours,ELEC.GEN.AOR-WA-97.A
+Washington,industrial,2017,1292.0,thousand megawatthours,ELEC.GEN.AOR-WA-97.A
+Washington,industrial,2018,1245.0,thousand megawatthours,ELEC.GEN.AOR-WA-97.A
+Washington,industrial,2019,1126.0,thousand megawatthours,ELEC.GEN.AOR-WA-97.A
+Washington,industrial,2020,1023.0,thousand megawatthours,ELEC.GEN.AOR-WA-97.A
+Washington,industrial,2021,1084.0,thousand megawatthours,ELEC.GEN.AOR-WA-97.A
+Washington,industrial,2022,918.0,thousand megawatthours,ELEC.GEN.AOR-WA-97.A
+Washington,industrial,2023,860.0,thousand megawatthours,ELEC.GEN.AOR-WA-97.A
+Washington,industrial,2024,716.0,thousand megawatthours,ELEC.GEN.AOR-WA-97.A
+Washington,industrial,2025,711.0,thousand megawatthours,ELEC.GEN.AOR-WA-97.A
+West Virginia,industrial,2002,1.0,thousand megawatthours,ELEC.GEN.AOR-WV-97.A
+West Virginia,industrial,2003,0.0,thousand megawatthours,ELEC.GEN.AOR-WV-97.A
+West Virginia,industrial,2006,0.0,thousand megawatthours,ELEC.GEN.AOR-WV-97.A
+Wisconsin,commercial,2001,20.0,thousand megawatthours,ELEC.GEN.AOR-WI-96.A
+Wisconsin,commercial,2002,15.0,thousand megawatthours,ELEC.GEN.AOR-WI-96.A
+Wisconsin,commercial,2003,14.0,thousand megawatthours,ELEC.GEN.AOR-WI-96.A
+Wisconsin,commercial,2004,29.0,thousand megawatthours,ELEC.GEN.AOR-WI-96.A
+Wisconsin,commercial,2005,30.0,thousand megawatthours,ELEC.GEN.AOR-WI-96.A
+Wisconsin,commercial,2006,8.0,thousand megawatthours,ELEC.GEN.AOR-WI-96.A
+Wisconsin,commercial,2007,11.0,thousand megawatthours,ELEC.GEN.AOR-WI-96.A
+Wisconsin,commercial,2008,39.0,thousand megawatthours,ELEC.GEN.AOR-WI-96.A
+Wisconsin,commercial,2009,42.0,thousand megawatthours,ELEC.GEN.AOR-WI-96.A
+Wisconsin,commercial,2010,43.0,thousand megawatthours,ELEC.GEN.AOR-WI-96.A
+Wisconsin,commercial,2011,15.0,thousand megawatthours,ELEC.GEN.AOR-WI-96.A
+Wisconsin,commercial,2012,16.0,thousand megawatthours,ELEC.GEN.AOR-WI-96.A
+Wisconsin,commercial,2013,22.0,thousand megawatthours,ELEC.GEN.AOR-WI-96.A
+Wisconsin,commercial,2014,41.0,thousand megawatthours,ELEC.GEN.AOR-WI-96.A
+Wisconsin,commercial,2015,36.0,thousand megawatthours,ELEC.GEN.AOR-WI-96.A
+Wisconsin,commercial,2016,35.0,thousand megawatthours,ELEC.GEN.AOR-WI-96.A
+Wisconsin,commercial,2017,57.0,thousand megawatthours,ELEC.GEN.AOR-WI-96.A
+Wisconsin,commercial,2018,69.0,thousand megawatthours,ELEC.GEN.AOR-WI-96.A
+Wisconsin,commercial,2019,74.0,thousand megawatthours,ELEC.GEN.AOR-WI-96.A
+Wisconsin,commercial,2020,72.0,thousand megawatthours,ELEC.GEN.AOR-WI-96.A
+Wisconsin,commercial,2021,76.0,thousand megawatthours,ELEC.GEN.AOR-WI-96.A
+Wisconsin,commercial,2022,80.0,thousand megawatthours,ELEC.GEN.AOR-WI-96.A
+Wisconsin,commercial,2023,70.0,thousand megawatthours,ELEC.GEN.AOR-WI-96.A
+Wisconsin,commercial,2024,58.0,thousand megawatthours,ELEC.GEN.AOR-WI-96.A
+Wisconsin,commercial,2025,66.0,thousand megawatthours,ELEC.GEN.AOR-WI-96.A
+Wisconsin,industrial,2001,686.0,thousand megawatthours,ELEC.GEN.AOR-WI-97.A
+Wisconsin,industrial,2002,619.0,thousand megawatthours,ELEC.GEN.AOR-WI-97.A
+Wisconsin,industrial,2003,732.0,thousand megawatthours,ELEC.GEN.AOR-WI-97.A
+Wisconsin,industrial,2004,550.0,thousand megawatthours,ELEC.GEN.AOR-WI-97.A
+Wisconsin,industrial,2005,617.0,thousand megawatthours,ELEC.GEN.AOR-WI-97.A
+Wisconsin,industrial,2006,619.0,thousand megawatthours,ELEC.GEN.AOR-WI-97.A
+Wisconsin,industrial,2007,610.0,thousand megawatthours,ELEC.GEN.AOR-WI-97.A
+Wisconsin,industrial,2008,585.0,thousand megawatthours,ELEC.GEN.AOR-WI-97.A
+Wisconsin,industrial,2009,577.0,thousand megawatthours,ELEC.GEN.AOR-WI-97.A
+Wisconsin,industrial,2010,635.0,thousand megawatthours,ELEC.GEN.AOR-WI-97.A
+Wisconsin,industrial,2011,624.0,thousand megawatthours,ELEC.GEN.AOR-WI-97.A
+Wisconsin,industrial,2012,641.0,thousand megawatthours,ELEC.GEN.AOR-WI-97.A
+Wisconsin,industrial,2013,608.0,thousand megawatthours,ELEC.GEN.AOR-WI-97.A
+Wisconsin,industrial,2014,606.0,thousand megawatthours,ELEC.GEN.AOR-WI-97.A
+Wisconsin,industrial,2015,584.0,thousand megawatthours,ELEC.GEN.AOR-WI-97.A
+Wisconsin,industrial,2016,606.0,thousand megawatthours,ELEC.GEN.AOR-WI-97.A
+Wisconsin,industrial,2017,569.0,thousand megawatthours,ELEC.GEN.AOR-WI-97.A
+Wisconsin,industrial,2018,583.0,thousand megawatthours,ELEC.GEN.AOR-WI-97.A
+Wisconsin,industrial,2019,526.0,thousand megawatthours,ELEC.GEN.AOR-WI-97.A
+Wisconsin,industrial,2020,409.0,thousand megawatthours,ELEC.GEN.AOR-WI-97.A
+Wisconsin,industrial,2021,307.0,thousand megawatthours,ELEC.GEN.AOR-WI-97.A
+Wisconsin,industrial,2022,306.0,thousand megawatthours,ELEC.GEN.AOR-WI-97.A
+Wisconsin,industrial,2023,283.0,thousand megawatthours,ELEC.GEN.AOR-WI-97.A
+Wisconsin,industrial,2024,283.0,thousand megawatthours,ELEC.GEN.AOR-WI-97.A
+Wisconsin,industrial,2025,272.0,thousand megawatthours,ELEC.GEN.AOR-WI-97.A
+Wyoming,industrial,2020,513.0,thousand megawatthours,ELEC.GEN.AOR-WY-97.A

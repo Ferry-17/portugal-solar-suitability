@@ -1,0 +1,2757 @@
+state_or_region,sector,year,price
+Alabama,commercial,2001,6.549166666666667
+Alabama,commercial,2002,6.635833333333333
+Alabama,commercial,2003,6.855
+Alabama,commercial,2004,7.118333333333333
+Alabama,commercial,2005,7.475833333333334
+Alabama,commercial,2006,8.133333333333333
+Alabama,commercial,2007,8.685
+Alabama,commercial,2008,9.828333333333333
+Alabama,commercial,2009,10.0475
+Alabama,commercial,2010,10.176666666666668
+Alabama,commercial,2011,10.465833333333334
+Alabama,commercial,2012,10.628333333333334
+Alabama,commercial,2013,10.501666666666667
+Alabama,commercial,2014,10.783333333333333
+Alabama,commercial,2015,10.815833333333332
+Alabama,commercial,2016,11.114166666666668
+Alabama,commercial,2017,11.6
+Alabama,commercial,2018,11.2475
+Alabama,commercial,2019,11.508333333333333
+Alabama,commercial,2020,11.540833333333333
+Alabama,commercial,2021,11.823333333333332
+Alabama,commercial,2022,13.097500000000002
+Alabama,commercial,2023,13.174999999999999
+Alabama,commercial,2024,13.656666666666666
+Alabama,commercial,2025,14.525
+Alabama,commercial,2026,15.1
+Alabama,industrial,2001,3.7933333333333334
+Alabama,industrial,2002,3.8074999999999997
+Alabama,industrial,2003,3.981666666666667
+Alabama,industrial,2004,4.144166666666666
+Alabama,industrial,2005,4.515
+Alabama,industrial,2006,4.880833333333333
+Alabama,industrial,2007,5.26
+Alabama,industrial,2008,6.134166666666666
+Alabama,industrial,2009,5.970833333333334
+Alabama,industrial,2010,5.995
+Alabama,industrial,2011,6.2275
+Alabama,industrial,2012,6.2175
+Alabama,industrial,2013,5.933333333333334
+Alabama,industrial,2014,6.141666666666667
+Alabama,industrial,2015,6.0125
+Alabama,industrial,2016,6.035
+Alabama,industrial,2017,6.153333333333333
+Alabama,industrial,2018,6.0058333333333325
+Alabama,industrial,2019,5.9425
+Alabama,industrial,2020,5.878333333333334
+Alabama,industrial,2021,6.315
+Alabama,industrial,2022,7.673333333333333
+Alabama,industrial,2023,7.099166666666666
+Alabama,industrial,2024,7.25
+Alabama,industrial,2025,7.723333333333334
+Alabama,industrial,2026,8.29
+Alaska,commercial,2001,10.294166666666667
+Alaska,commercial,2002,10.145
+Alaska,commercial,2003,10.488333333333333
+Alaska,commercial,2004,10.995
+Alaska,commercial,2005,11.5675
+Alaska,commercial,2006,11.939166666666667
+Alaska,commercial,2007,12.191666666666668
+Alaska,commercial,2008,13.674999999999999
+Alaska,commercial,2009,14.475833333333334
+Alaska,commercial,2010,13.959166666666667
+Alaska,commercial,2011,15.120833333333332
+Alaska,commercial,2012,14.93
+Alaska,commercial,2013,15.585833333333333
+Alaska,commercial,2014,17.1225
+Alaska,commercial,2015,17.453333333333333
+Alaska,commercial,2016,17.569166666666668
+Alaska,commercial,2017,18.915833333333335
+Alaska,commercial,2018,18.579166666666666
+Alaska,commercial,2019,19.81
+Alaska,commercial,2020,19.603333333333335
+Alaska,commercial,2021,19.628333333333334
+Alaska,commercial,2022,20.076666666666668
+Alaska,commercial,2023,20.88
+Alaska,commercial,2024,21.584166666666665
+Alaska,commercial,2025,22.338333333333335
+Alaska,commercial,2026,21.69
+Alaska,industrial,2001,7.6258333333333335
+Alaska,industrial,2002,7.6499999999999995
+Alaska,industrial,2003,7.870833333333334
+Alaska,industrial,2004,8.331666666666667
+Alaska,industrial,2005,9.296666666666667
+Alaska,industrial,2006,11.540833333333333
+Alaska,industrial,2007,12.631666666666666
+Alaska,industrial,2008,14.179166666666667
+Alaska,industrial,2009,13.145000000000001
+Alaska,industrial,2010,14.155833333333334
+Alaska,industrial,2011,15.695
+Alaska,industrial,2012,16.813333333333333
+Alaska,industrial,2013,15.853333333333333
+Alaska,industrial,2014,15.680833333333332
+Alaska,industrial,2015,14.540833333333333
+Alaska,industrial,2016,15.223333333333334
+Alaska,industrial,2017,16.335
+Alaska,industrial,2018,17.120833333333334
+Alaska,industrial,2019,16.9675
+Alaska,industrial,2020,15.870833333333332
+Alaska,industrial,2021,16.853333333333335
+Alaska,industrial,2022,18.45
+Alaska,industrial,2023,18.724999999999998
+Alaska,industrial,2024,19.31416666666667
+Alaska,industrial,2025,20.041666666666668
+Alaska,industrial,2026,20.45
+Arizona,commercial,2001,7.3133333333333335
+Arizona,commercial,2002,7.228333333333333
+Arizona,commercial,2003,7.0375000000000005
+Arizona,commercial,2004,7.245
+Arizona,commercial,2005,7.343333333333334
+Arizona,commercial,2006,7.945
+Arizona,commercial,2007,8.203333333333333
+Arizona,commercial,2008,8.858333333333333
+Arizona,commercial,2009,9.273333333333333
+Arizona,commercial,2010,9.374166666666666
+Arizona,commercial,2011,9.420833333333333
+Arizona,commercial,2012,9.450833333333334
+Arizona,commercial,2013,9.776666666666667
+Arizona,commercial,2014,10.050833333333333
+Arizona,commercial,2015,10.295
+Arizona,commercial,2016,10.326666666666666
+Arizona,commercial,2017,10.411666666666667
+Arizona,commercial,2018,10.555
+Arizona,commercial,2019,10.173333333333334
+Arizona,commercial,2020,10.020833333333334
+Arizona,commercial,2021,10.2425
+Arizona,commercial,2022,10.721666666666666
+Arizona,commercial,2023,11.690833333333332
+Arizona,commercial,2024,12.149166666666666
+Arizona,commercial,2025,12.3975
+Arizona,commercial,2026,11.46
+Arizona,industrial,2001,5.230833333333333
+Arizona,industrial,2002,5.1875
+Arizona,industrial,2003,5.358333333333333
+Arizona,industrial,2004,5.3425
+Arizona,industrial,2005,5.836666666666666
+Arizona,industrial,2006,5.671666666666667
+Arizona,industrial,2007,6.0225
+Arizona,industrial,2008,6.546666666666667
+Arizona,industrial,2009,6.635833333333333
+Arizona,industrial,2010,6.6066666666666665
+Arizona,industrial,2011,6.5249999999999995
+Arizona,industrial,2012,6.5075
+Arizona,industrial,2013,6.635000000000001
+Arizona,industrial,2014,6.4316666666666675
+Arizona,industrial,2015,6.243333333333333
+Arizona,industrial,2016,6.052499999999999
+Arizona,industrial,2017,6.43
+Arizona,industrial,2018,6.514166666666667
+Arizona,industrial,2019,6.2525
+Arizona,industrial,2020,6.036666666666666
+Arizona,industrial,2021,6.766666666666667
+Arizona,industrial,2022,7.823333333333333
+Arizona,industrial,2023,8.085833333333333
+Arizona,industrial,2024,7.8825
+Arizona,industrial,2025,8.07
+Arizona,industrial,2026,7.27
+Arkansas,commercial,2001,6.170000000000001
+Arkansas,commercial,2002,5.689166666666666
+Arkansas,commercial,2003,5.516666666666667
+Arkansas,commercial,2004,5.614166666666667
+Arkansas,commercial,2005,6.140833333333333
+Arkansas,commercial,2006,6.901666666666666
+Arkansas,commercial,2007,6.900833333333334
+Arkansas,commercial,2008,7.565
+Arkansas,commercial,2009,7.55
+Arkansas,commercial,2010,7.324166666666667
+Arkansas,commercial,2011,7.465833333333333
+Arkansas,commercial,2012,7.699166666666667
+Arkansas,commercial,2013,8.0325
+Arkansas,commercial,2014,8.020833333333334
+Arkansas,commercial,2015,8.290833333333333
+Arkansas,commercial,2016,8.215833333333334
+Arkansas,commercial,2017,8.491666666666667
+Arkansas,commercial,2018,7.7749999999999995
+Arkansas,commercial,2019,8.78
+Arkansas,commercial,2020,8.612499999999999
+Arkansas,commercial,2021,9.5525
+Arkansas,commercial,2022,10.199166666666667
+Arkansas,commercial,2023,10.338333333333333
+Arkansas,commercial,2024,10.249166666666666
+Arkansas,commercial,2025,10.759166666666667
+Arkansas,commercial,2026,11.12
+Arkansas,industrial,2001,4.418333333333333
+Arkansas,industrial,2002,4.005833333333333
+Arkansas,industrial,2003,4.031666666666667
+Arkansas,industrial,2004,4.1450000000000005
+Arkansas,industrial,2005,4.715833333333333
+Arkansas,industrial,2006,5.220833333333333
+Arkansas,industrial,2007,5.236666666666666
+Arkansas,industrial,2008,5.8725
+Arkansas,industrial,2009,5.7575
+Arkansas,industrial,2010,5.44
+Arkansas,industrial,2011,5.608333333333333
+Arkansas,industrial,2012,5.745833333333334
+Arkansas,industrial,2013,6.0183333333333335
+Arkansas,industrial,2014,5.998333333333334
+Arkansas,industrial,2015,6.197500000000001
+Arkansas,industrial,2016,6.055833333333333
+Arkansas,industrial,2017,6.054166666666667
+Arkansas,industrial,2018,5.640833333333333
+Arkansas,industrial,2019,6.1191666666666675
+Arkansas,industrial,2020,5.885000000000001
+Arkansas,industrial,2021,6.5616666666666665
+Arkansas,industrial,2022,7.3374999999999995
+Arkansas,industrial,2023,6.849166666666666
+Arkansas,industrial,2024,6.599166666666666
+Arkansas,industrial,2025,6.6875
+Arkansas,industrial,2026,7.12
+California,commercial,2001,12.025
+California,commercial,2002,13.255833333333333
+California,commercial,2003,12.431666666666667
+California,commercial,2004,11.608333333333334
+California,commercial,2005,11.835
+California,commercial,2006,12.766666666666666
+California,commercial,2007,12.705
+California,commercial,2008,12.446666666666667
+California,commercial,2009,13.14
+California,commercial,2010,12.972500000000002
+California,commercial,2011,12.939166666666667
+California,commercial,2012,13.280000000000001
+California,commercial,2013,14.092500000000001
+California,commercial,2014,15.46
+California,commercial,2015,15.597500000000002
+California,commercial,2016,14.979999999999999
+California,commercial,2017,15.640833333333333
+California,commercial,2018,16.221666666666668
+California,commercial,2019,16.570833333333333
+California,commercial,2020,17.426666666666666
+California,commercial,2021,19.005
+California,commercial,2022,21.623333333333335
+California,commercial,2023,23.703333333333333
+California,commercial,2024,25.3225
+California,commercial,2025,26.1925
+California,commercial,2026,23.13
+California,industrial,2001,9.263333333333334
+California,industrial,2002,9.7675
+California,industrial,2003,9.5675
+California,industrial,2004,9.248333333333333
+California,industrial,2005,9.501666666666667
+California,industrial,2006,10.0325
+California,industrial,2007,9.933333333333334
+California,industrial,2008,10.033333333333333
+California,industrial,2009,10.348333333333334
+California,industrial,2010,9.741666666666667
+California,industrial,2011,10.0525
+California,industrial,2012,10.424999999999999
+California,industrial,2013,11.305
+California,industrial,2014,12.1625
+California,industrial,2015,12.020000000000001
+California,industrial,2016,11.765833333333333
+California,industrial,2017,12.543333333333335
+California,industrial,2018,13.0175
+California,industrial,2019,13.226666666666667
+California,industrial,2020,14.068333333333333
+California,industrial,2021,14.612499999999999
+California,industrial,2022,16.855
+California,industrial,2023,18.423333333333332
+California,industrial,2024,21.1925
+California,industrial,2025,21.3275
+California,industrial,2026,19.11
+Colorado,commercial,2001,5.656666666666666
+Colorado,commercial,2002,5.658333333333334
+Colorado,commercial,2003,6.59
+Colorado,commercial,2004,6.889166666666667
+Colorado,commercial,2005,7.6125
+Colorado,commercial,2006,7.5125
+Colorado,commercial,2007,7.628333333333334
+Colorado,commercial,2008,8.539166666666667
+Colorado,commercial,2009,8.130833333333333
+Colorado,commercial,2010,9.108333333333333
+Colorado,commercial,2011,9.4125
+Colorado,commercial,2012,9.366666666666665
+Colorado,commercial,2013,9.841666666666667
+Colorado,commercial,2014,10.061666666666666
+Colorado,commercial,2015,9.871666666666668
+Colorado,commercial,2016,9.575
+Colorado,commercial,2017,9.8675
+Colorado,commercial,2018,9.998333333333333
+Colorado,commercial,2019,10.417499999999999
+Colorado,commercial,2020,10.276666666666666
+Colorado,commercial,2021,10.799999999999999
+Colorado,commercial,2022,11.546666666666667
+Colorado,commercial,2023,11.615833333333333
+Colorado,commercial,2024,11.6775
+Colorado,commercial,2025,12.44
+Colorado,commercial,2026,12.5
+Colorado,industrial,2001,4.465833333333333
+Colorado,industrial,2002,4.519166666666666
+Colorado,industrial,2003,5.085
+Colorado,industrial,2004,5.099166666666666
+Colorado,industrial,2005,5.729166666666667
+Colorado,industrial,2006,5.8825
+Colorado,industrial,2007,5.97
+Colorado,industrial,2008,6.613333333333333
+Colorado,industrial,2009,6.364999999999999
+Colorado,industrial,2010,6.881666666666667
+Colorado,industrial,2011,7.034166666666667
+Colorado,industrial,2012,6.927499999999999
+Colorado,industrial,2013,7.325833333333333
+Colorado,industrial,2014,7.453333333333333
+Colorado,industrial,2015,7.390833333333333
+Colorado,industrial,2016,7.335
+Colorado,industrial,2017,7.488333333333333
+Colorado,industrial,2018,7.460833333333333
+Colorado,industrial,2019,7.3875
+Colorado,industrial,2020,7.476666666666667
+Colorado,industrial,2021,7.990833333333334
+Colorado,industrial,2022,8.6075
+Colorado,industrial,2023,8.486666666666666
+Colorado,industrial,2024,8.61
+Colorado,industrial,2025,9.049166666666666
+Colorado,industrial,2026,9.36
+Connecticut,commercial,2001,9.245833333333332
+Connecticut,commercial,2002,9.321666666666667
+Connecticut,commercial,2003,9.909166666666666
+Connecticut,commercial,2004,9.888333333333334
+Connecticut,commercial,2005,11.511666666666665
+Connecticut,commercial,2006,14.0225
+Connecticut,commercial,2007,15.405
+Connecticut,commercial,2008,17.115
+Connecticut,commercial,2009,16.8675
+Connecticut,commercial,2010,16.450833333333332
+Connecticut,commercial,2011,15.575833333333334
+Connecticut,commercial,2012,14.659166666666666
+Connecticut,commercial,2013,14.645833333333334
+Connecticut,commercial,2014,15.5525
+Connecticut,commercial,2015,15.995
+Connecticut,commercial,2016,15.761666666666665
+Connecticut,commercial,2017,16.06083333333333
+Connecticut,commercial,2018,16.787499999999998
+Connecticut,commercial,2019,16.775000000000002
+Connecticut,commercial,2020,16.624166666666664
+Connecticut,commercial,2021,16.5275
+Connecticut,commercial,2022,18.580833333333334
+Connecticut,commercial,2023,20.049166666666668
+Connecticut,commercial,2024,21.232499999999998
+Connecticut,commercial,2025,23.155833333333334
+Connecticut,commercial,2026,23.16
+Connecticut,industrial,2001,7.639166666666667
+Connecticut,industrial,2002,7.679166666666667
+Connecticut,industrial,2003,7.979166666666667
+Connecticut,industrial,2004,7.873333333333334
+Connecticut,industrial,2005,9.390833333333333
+Connecticut,industrial,2006,11.7125
+Connecticut,industrial,2007,12.956666666666665
+Connecticut,industrial,2008,14.938333333333333
+Connecticut,industrial,2009,14.981666666666667
+Connecticut,industrial,2010,14.518333333333333
+Connecticut,industrial,2011,13.253333333333332
+Connecticut,industrial,2012,12.680833333333332
+Connecticut,industrial,2013,12.613333333333335
+Connecticut,industrial,2014,12.934166666666668
+Connecticut,industrial,2015,12.974166666666667
+Connecticut,industrial,2016,12.815833333333332
+Connecticut,industrial,2017,13.094999999999999
+Connecticut,industrial,2018,13.826666666666666
+Connecticut,industrial,2019,13.4425
+Connecticut,industrial,2020,13.086666666666666
+Connecticut,industrial,2021,9.651666666666667
+Connecticut,industrial,2022,15.091666666666667
+Connecticut,industrial,2023,15.710833333333333
+Connecticut,industrial,2024,17.143333333333334
+Connecticut,industrial,2025,18.4275
+Connecticut,industrial,2026,21.13
+Delaware,commercial,2001,6.976666666666667
+Delaware,commercial,2002,7.107500000000001
+Delaware,commercial,2003,7.29
+Delaware,commercial,2004,7.415833333333333
+Delaware,commercial,2005,7.5683333333333325
+Delaware,commercial,2006,10.119166666666667
+Delaware,commercial,2007,11.2025
+Delaware,commercial,2008,12.076666666666666
+Delaware,commercial,2009,12.035833333333334
+Delaware,commercial,2010,11.365833333333333
+Delaware,commercial,2011,10.64
+Delaware,commercial,2012,10.124166666666666
+Delaware,commercial,2013,10.205
+Delaware,commercial,2014,10.521666666666667
+Delaware,commercial,2015,10.303333333333333
+Delaware,commercial,2016,10.089166666666666
+Delaware,commercial,2017,9.914166666666667
+Delaware,commercial,2018,9.671666666666667
+Delaware,commercial,2019,9.575833333333334
+Delaware,commercial,2020,9.216666666666667
+Delaware,commercial,2021,9.487499999999999
+Delaware,commercial,2022,10.972499999999998
+Delaware,commercial,2023,11.859166666666667
+Delaware,commercial,2024,12.209166666666667
+Delaware,commercial,2025,12.648333333333333
+Delaware,commercial,2026,13.78
+Delaware,industrial,2001,4.8341666666666665
+Delaware,industrial,2002,4.848333333333334
+Delaware,industrial,2003,5.1375
+Delaware,industrial,2004,6.055833333333333
+Delaware,industrial,2005,6.215833333333333
+Delaware,industrial,2006,7.665833333333333
+Delaware,industrial,2007,8.9175
+Delaware,industrial,2008,10.476666666666667
+Delaware,industrial,2009,9.523333333333333
+Delaware,industrial,2010,9.549999999999999
+Delaware,industrial,2011,8.924166666666666
+Delaware,industrial,2012,8.366666666666667
+Delaware,industrial,2013,8.435
+Delaware,industrial,2014,8.625833333333333
+Delaware,industrial,2015,8.3225
+Delaware,industrial,2016,8.124166666666666
+Delaware,industrial,2017,7.789166666666667
+Delaware,industrial,2018,7.971666666666667
+Delaware,industrial,2019,7.698333333333333
+Delaware,industrial,2020,6.7775
+Delaware,industrial,2021,7.600833333333333
+Delaware,industrial,2022,8.76
+Delaware,industrial,2023,7.889166666666667
+Delaware,industrial,2024,8.491666666666667
+Delaware,industrial,2025,9.66
+Delaware,industrial,2026,13.82
+District Of Columbia,commercial,2001,7.370833333333334
+District Of Columbia,commercial,2002,7.235833333333333
+District Of Columbia,commercial,2003,7.2825
+District Of Columbia,commercial,2004,7.375
+District Of Columbia,commercial,2005,9.1275
+District Of Columbia,commercial,2006,11.064166666666667
+District Of Columbia,commercial,2007,11.978333333333333
+District Of Columbia,commercial,2008,13.265833333333333
+District Of Columbia,commercial,2009,13.262500000000001
+District Of Columbia,commercial,2010,13.4275
+District Of Columbia,commercial,2011,12.913333333333334
+District Of Columbia,commercial,2012,12.031666666666666
+District Of Columbia,commercial,2013,11.9425
+District Of Columbia,commercial,2014,12.21
+District Of Columbia,commercial,2015,12.030833333333334
+District Of Columbia,commercial,2016,11.730833333333335
+District Of Columbia,commercial,2017,11.6775
+District Of Columbia,commercial,2018,11.990833333333333
+District Of Columbia,commercial,2019,12.293333333333335
+District Of Columbia,commercial,2020,11.871666666666668
+District Of Columbia,commercial,2021,12.9625
+District Of Columbia,commercial,2022,15.575000000000001
+District Of Columbia,commercial,2023,16.9375
+District Of Columbia,commercial,2024,17.076666666666664
+District Of Columbia,commercial,2025,20.407500000000002
+District Of Columbia,commercial,2026,25.11
+District Of Columbia,industrial,2001,4.74
+District Of Columbia,industrial,2002,4.9383333333333335
+District Of Columbia,industrial,2003,5.678333333333334
+District Of Columbia,industrial,2004,4.695833333333334
+District Of Columbia,industrial,2005,14.0775
+District Of Columbia,industrial,2006,17.499166666666667
+District Of Columbia,industrial,2007,9.335833333333333
+District Of Columbia,industrial,2008,10.679166666666667
+District Of Columbia,industrial,2009,8.3775
+District Of Columbia,industrial,2010,7.695833333333333
+District Of Columbia,industrial,2011,6.8725
+District Of Columbia,industrial,2012,5.473333333333334
+District Of Columbia,industrial,2013,5.478333333333333
+District Of Columbia,industrial,2014,8.46
+District Of Columbia,industrial,2015,8.775833333333333
+District Of Columbia,industrial,2016,8.861666666666666
+District Of Columbia,industrial,2017,8.216666666666667
+District Of Columbia,industrial,2018,8.271666666666667
+District Of Columbia,industrial,2019,8.228333333333333
+District Of Columbia,industrial,2020,8.0325
+District Of Columbia,industrial,2021,7.770833333333333
+District Of Columbia,industrial,2022,7.734999999999999
+District Of Columbia,industrial,2023,10.870833333333332
+District Of Columbia,industrial,2024,10.85
+District Of Columbia,industrial,2025,14.4325
+District Of Columbia,industrial,2026,26.16
+Florida,commercial,2001,7.085833333333333
+Florida,commercial,2002,6.661666666666666
+Florida,commercial,2003,7.128333333333334
+Florida,commercial,2004,7.613333333333333
+Florida,commercial,2005,8.16
+Florida,commercial,2006,9.910833333333334
+Florida,commercial,2007,9.750833333333334
+Florida,commercial,2008,10.124166666666666
+Florida,commercial,2009,10.790833333333333
+Florida,commercial,2010,9.762500000000001
+Florida,commercial,2011,9.855833333333333
+Florida,commercial,2012,9.6775
+Florida,commercial,2013,9.400833333333333
+Florida,commercial,2014,9.8775
+Florida,commercial,2015,9.516666666666667
+Florida,commercial,2016,8.923333333333334
+Florida,commercial,2017,9.354166666666666
+Florida,commercial,2018,9.213333333333333
+Florida,commercial,2019,9.283333333333333
+Florida,commercial,2020,8.845833333333333
+Florida,commercial,2021,9.516666666666667
+Florida,commercial,2022,11.195
+Florida,commercial,2023,11.975
+Florida,commercial,2024,11.054166666666667
+Florida,commercial,2025,11.481666666666667
+Florida,commercial,2026,12.35
+Florida,industrial,2001,5.179166666666666
+Florida,industrial,2002,5.2275
+Florida,industrial,2003,5.41
+Florida,industrial,2004,5.845
+Florida,industrial,2005,6.450833333333333
+Florida,industrial,2006,7.698333333333333
+Florida,industrial,2007,7.754166666666666
+Florida,industrial,2008,8.248333333333333
+Florida,industrial,2009,9.323333333333332
+Florida,industrial,2010,8.848333333333334
+Florida,industrial,2011,8.545833333333334
+Florida,industrial,2012,8.035
+Florida,industrial,2013,7.605833333333333
+Florida,industrial,2014,7.900833333333334
+Florida,industrial,2015,8.2125
+Florida,industrial,2016,7.6875
+Florida,industrial,2017,7.8275
+Florida,industrial,2018,7.650833333333334
+Florida,industrial,2019,7.6499999999999995
+Florida,industrial,2020,7.154166666666666
+Florida,industrial,2021,7.6475
+Florida,industrial,2022,9.141666666666667
+Florida,industrial,2023,9.404166666666667
+Florida,industrial,2024,8.510833333333332
+Florida,industrial,2025,8.836666666666666
+Florida,industrial,2026,9.38
+Georgia,commercial,2001,6.604166666666667
+Georgia,commercial,2002,6.460833333333333
+Georgia,commercial,2003,6.658333333333334
+Georgia,commercial,2004,6.884166666666666
+Georgia,commercial,2005,7.6575
+Georgia,commercial,2006,7.7925
+Georgia,commercial,2007,8.043333333333333
+Georgia,commercial,2008,9.029166666666667
+Georgia,commercial,2009,8.940833333333334
+Georgia,commercial,2010,9.041666666666666
+Georgia,commercial,2011,9.84
+Georgia,commercial,2012,9.5625
+Georgia,commercial,2013,9.974166666666667
+Georgia,commercial,2014,10.3475
+Georgia,commercial,2015,9.851666666666667
+Georgia,commercial,2016,9.800833333333333
+Georgia,commercial,2017,10.084999999999999
+Georgia,commercial,2018,9.78
+Georgia,commercial,2019,9.995833333333334
+Georgia,commercial,2020,10.084999999999999
+Georgia,commercial,2021,10.602500000000001
+Georgia,commercial,2022,11.967500000000001
+Georgia,commercial,2023,10.686666666666667
+Georgia,commercial,2024,10.825833333333334
+Georgia,commercial,2025,11.478333333333333
+Georgia,commercial,2026,12.19
+Georgia,industrial,2001,4.2700000000000005
+Georgia,industrial,2002,3.9316666666666666
+Georgia,industrial,2003,4.011666666666667
+Georgia,industrial,2004,4.4191666666666665
+Georgia,industrial,2005,5.2725
+Georgia,industrial,2006,5.361666666666667
+Georgia,industrial,2007,5.5125
+Georgia,industrial,2008,6.654166666666666
+Georgia,industrial,2009,6.113333333333333
+Georgia,industrial,2010,6.204999999999999
+Georgia,industrial,2011,6.578333333333333
+Georgia,industrial,2012,5.9675
+Georgia,industrial,2013,6.259166666666666
+Georgia,industrial,2014,6.628333333333334
+Georgia,industrial,2015,5.853333333333333
+Georgia,industrial,2016,5.825
+Georgia,industrial,2017,5.948333333333333
+Georgia,industrial,2018,5.995
+Georgia,industrial,2019,6.1433333333333335
+Georgia,industrial,2020,5.7575
+Georgia,industrial,2021,6.461666666666667
+Georgia,industrial,2022,8.57
+Georgia,industrial,2023,6.855833333333333
+Georgia,industrial,2024,7.173333333333333
+Georgia,industrial,2025,7.780833333333334
+Georgia,industrial,2026,8.35
+Hawaii,commercial,2001,14.8225
+Hawaii,commercial,2002,14.088333333333333
+Hawaii,commercial,2003,15.030833333333334
+Hawaii,commercial,2004,16.173333333333336
+Hawaii,commercial,2005,18.985
+Hawaii,commercial,2006,21.40416666666667
+Hawaii,commercial,2007,21.871666666666666
+Hawaii,commercial,2008,29.607499999999998
+Hawaii,commercial,2009,21.824166666666667
+Hawaii,commercial,2010,25.910833333333333
+Hawaii,commercial,2011,32.344166666666666
+Hawaii,commercial,2012,34.88583333333333
+Hawaii,commercial,2013,34.0825
+Hawaii,commercial,2014,34.211666666666666
+Hawaii,commercial,2015,26.974166666666665
+Hawaii,commercial,2016,24.632499999999997
+Hawaii,commercial,2017,26.795833333333334
+Hawaii,commercial,2018,29.889166666666668
+Hawaii,commercial,2019,29.278333333333336
+Hawaii,commercial,2020,28.4875
+Hawaii,commercial,2021,30.855833333333333
+Hawaii,commercial,2022,40.04083333333333
+Hawaii,commercial,2023,39.12583333333333
+Hawaii,commercial,2024,38.284166666666664
+Hawaii,commercial,2025,36.4375
+Hawaii,commercial,2026,37.35
+Hawaii,industrial,2001,11.673333333333334
+Hawaii,industrial,2002,10.994166666666667
+Hawaii,industrial,2003,12.205
+Hawaii,industrial,2004,13.341666666666667
+Hawaii,industrial,2005,15.735
+Hawaii,industrial,2006,17.9425
+Hawaii,industrial,2007,18.34
+Hawaii,industrial,2008,25.96666666666667
+Hawaii,industrial,2009,18.092499999999998
+Hawaii,industrial,2010,21.9325
+Hawaii,industrial,2011,28.3475
+Hawaii,industrial,2012,30.825
+Hawaii,industrial,2013,29.885833333333334
+Hawaii,industrial,2014,30.214166666666667
+Hawaii,industrial,2015,23.087500000000002
+Hawaii,industrial,2016,20.675
+Hawaii,industrial,2017,22.944166666666664
+Hawaii,industrial,2018,26.084166666666665
+Hawaii,industrial,2019,25.80333333333333
+Hawaii,industrial,2020,24.474999999999998
+Hawaii,industrial,2021,27.093333333333334
+Hawaii,industrial,2022,36.56916666666667
+Hawaii,industrial,2023,35.37833333333334
+Hawaii,industrial,2024,34.221666666666664
+Hawaii,industrial,2025,31.51
+Hawaii,industrial,2026,32.76
+Idaho,commercial,2001,5.101666666666667
+Idaho,commercial,2002,5.715833333333333
+Idaho,commercial,2003,5.576666666666667
+Idaho,commercial,2004,5.3675
+Idaho,commercial,2005,5.418333333333333
+Idaho,commercial,2006,5.1674999999999995
+Idaho,commercial,2007,5.135833333333333
+Idaho,commercial,2008,5.723333333333334
+Idaho,commercial,2009,6.483333333333333
+Idaho,commercial,2010,6.641666666666667
+Idaho,commercial,2011,6.4191666666666665
+Idaho,commercial,2012,6.853333333333333
+Idaho,commercial,2013,7.359166666666667
+Idaho,commercial,2014,7.770833333333333
+Idaho,commercial,2015,7.796666666666667
+Idaho,commercial,2016,7.753333333333334
+Idaho,commercial,2017,7.985
+Idaho,commercial,2018,7.9325
+Idaho,commercial,2019,7.669999999999999
+Idaho,commercial,2020,7.7491666666666665
+Idaho,commercial,2021,7.881666666666667
+Idaho,commercial,2022,8.258333333333335
+Idaho,commercial,2023,8.771666666666667
+Idaho,commercial,2024,9.168333333333333
+Idaho,commercial,2025,9.250833333333334
+Idaho,commercial,2026,9.05
+Idaho,industrial,2001,3.7091666666666665
+Idaho,industrial,2002,4.221666666666667
+Idaho,industrial,2003,4.159166666666667
+Idaho,industrial,2004,3.74
+Idaho,industrial,2005,3.8033333333333332
+Idaho,industrial,2006,3.555
+Idaho,industrial,2007,3.7541666666666664
+Idaho,industrial,2008,4.343333333333333
+Idaho,industrial,2009,5.014166666666667
+Idaho,industrial,2010,5.024166666666667
+Idaho,industrial,2011,4.954166666666667
+Idaho,industrial,2012,5.2725
+Idaho,industrial,2013,5.844166666666666
+Idaho,industrial,2014,6.177499999999999
+Idaho,industrial,2015,6.386666666666667
+Idaho,industrial,2016,6.323333333333333
+Idaho,industrial,2017,6.395
+Idaho,industrial,2018,6.258333333333333
+Idaho,industrial,2019,5.885000000000001
+Idaho,industrial,2020,5.9925
+Idaho,industrial,2021,6.1625000000000005
+Idaho,industrial,2022,6.454166666666667
+Idaho,industrial,2023,6.910833333333334
+Idaho,industrial,2024,7.4191666666666665
+Idaho,industrial,2025,7.732500000000001
+Idaho,industrial,2026,6.81
+Illinois,commercial,2001,7.376666666666666
+Illinois,commercial,2002,7.484166666666667
+Illinois,commercial,2003,7.281666666666666
+Illinois,commercial,2004,7.520833333333333
+Illinois,commercial,2005,7.7250000000000005
+Illinois,commercial,2006,7.9175
+Illinois,commercial,2007,8.570833333333333
+Illinois,commercial,2008,9.237499999999999
+Illinois,commercial,2009,9.049999999999999
+Illinois,commercial,2010,8.8575
+Illinois,commercial,2011,8.633333333333333
+Illinois,commercial,2012,7.991666666666667
+Illinois,commercial,2013,8.144166666666667
+Illinois,commercial,2014,9.261666666666667
+Illinois,commercial,2015,9.019166666666667
+Illinois,commercial,2016,9.016666666666667
+Illinois,commercial,2017,9.091666666666667
+Illinois,commercial,2018,9.1175
+Illinois,commercial,2019,9.09
+Illinois,commercial,2020,9.163333333333334
+Illinois,commercial,2021,9.663333333333332
+Illinois,commercial,2022,11.292499999999999
+Illinois,commercial,2023,11.2475
+Illinois,commercial,2024,11.813333333333333
+Illinois,commercial,2025,13.058333333333332
+Illinois,commercial,2026,12.28
+Illinois,industrial,2001,4.6499999999999995
+Illinois,industrial,2002,4.8625
+Illinois,industrial,2003,4.8549999999999995
+Illinois,industrial,2004,4.648333333333333
+Illinois,industrial,2005,4.6066666666666665
+Illinois,industrial,2006,4.685833333333333
+Illinois,industrial,2007,6.608333333333333
+Illinois,industrial,2008,7.329166666666667
+Illinois,industrial,2009,7.013333333333333
+Illinois,industrial,2010,6.810833333333334
+Illinois,industrial,2011,6.415833333333333
+Illinois,industrial,2012,5.795833333333333
+Illinois,industrial,2013,5.94
+Illinois,industrial,2014,6.8525
+Illinois,industrial,2015,6.659166666666667
+Illinois,industrial,2016,6.505833333333334
+Illinois,industrial,2017,6.473333333333334
+Illinois,industrial,2018,6.798333333333333
+Illinois,industrial,2019,6.531666666666666
+Illinois,industrial,2020,6.697500000000001
+Illinois,industrial,2021,7.299166666666667
+Illinois,industrial,2022,8.563333333333334
+Illinois,industrial,2023,8.198333333333332
+Illinois,industrial,2024,8.820833333333333
+Illinois,industrial,2025,10.129166666666666
+Illinois,industrial,2026,10.27
+Indiana,commercial,2001,5.3075
+Indiana,commercial,2002,6.0008333333333335
+Indiana,commercial,2003,6.131666666666667
+Indiana,commercial,2004,6.309166666666666
+Indiana,commercial,2005,6.569166666666667
+Indiana,commercial,2006,7.21
+Indiana,commercial,2007,7.2825
+Indiana,commercial,2008,7.8125
+Indiana,commercial,2009,8.319166666666666
+Indiana,commercial,2010,8.379166666666666
+Indiana,commercial,2011,8.775833333333333
+Indiana,commercial,2012,9.1525
+Indiana,commercial,2013,9.603333333333333
+Indiana,commercial,2014,9.9625
+Indiana,commercial,2015,9.7825
+Indiana,commercial,2016,10.011666666666667
+Indiana,commercial,2017,10.548333333333334
+Indiana,commercial,2018,10.601666666666667
+Indiana,commercial,2019,11.034166666666666
+Indiana,commercial,2020,11.215833333333334
+Indiana,commercial,2021,11.585
+Indiana,commercial,2022,12.862499999999999
+Indiana,commercial,2023,12.584166666666667
+Indiana,commercial,2024,12.449166666666665
+Indiana,commercial,2025,13.8825
+Indiana,commercial,2026,13.85
+Indiana,industrial,2001,4.111666666666667
+Indiana,industrial,2002,3.9525
+Indiana,industrial,2003,3.920833333333333
+Indiana,industrial,2004,4.130833333333333
+Indiana,industrial,2005,4.420833333333333
+Indiana,industrial,2006,4.944999999999999
+Indiana,industrial,2007,4.888333333333333
+Indiana,industrial,2008,5.4675
+Indiana,industrial,2009,5.81
+Indiana,industrial,2010,5.87
+Indiana,industrial,2011,6.165
+Indiana,industrial,2012,6.3374999999999995
+Indiana,industrial,2013,6.696666666666666
+Indiana,industrial,2014,6.965
+Indiana,industrial,2015,6.859999999999999
+Indiana,industrial,2016,6.9816666666666665
+Indiana,industrial,2017,7.5425
+Indiana,industrial,2018,7.383333333333333
+Indiana,industrial,2019,7.358333333333333
+Indiana,industrial,2020,6.986666666666667
+Indiana,industrial,2021,7.388333333333333
+Indiana,industrial,2022,8.651666666666666
+Indiana,industrial,2023,8.255
+Indiana,industrial,2024,8.154166666666667
+Indiana,industrial,2025,8.887500000000001
+Indiana,industrial,2026,9.43
+Iowa,commercial,2001,6.674166666666667
+Iowa,commercial,2002,6.531666666666666
+Iowa,commercial,2003,6.223333333333334
+Iowa,commercial,2004,6.733333333333333
+Iowa,commercial,2005,6.926666666666667
+Iowa,commercial,2006,7.261666666666667
+Iowa,commercial,2007,7.077500000000001
+Iowa,commercial,2008,7.166666666666667
+Iowa,commercial,2009,7.544999999999999
+Iowa,commercial,2010,7.885833333333333
+Iowa,commercial,2011,7.835
+Iowa,commercial,2012,7.973333333333334
+Iowa,commercial,2013,8.419166666666667
+Iowa,commercial,2014,8.669166666666667
+Iowa,commercial,2015,8.9025
+Iowa,commercial,2016,9.1325
+Iowa,commercial,2017,9.43
+Iowa,commercial,2018,9.650833333333333
+Iowa,commercial,2019,9.985
+Iowa,commercial,2020,9.960833333333333
+Iowa,commercial,2021,10.125833333333334
+Iowa,commercial,2022,10.524166666666668
+Iowa,commercial,2023,10.293333333333333
+Iowa,commercial,2024,10.188333333333333
+Iowa,commercial,2025,10.9925
+Iowa,commercial,2026,10.52
+Iowa,industrial,2001,4.1658333333333335
+Iowa,industrial,2002,4.050833333333333
+Iowa,industrial,2003,4.148333333333333
+Iowa,industrial,2004,4.3225
+Iowa,industrial,2005,4.5575
+Iowa,industrial,2006,4.913333333333333
+Iowa,industrial,2007,4.7299999999999995
+Iowa,industrial,2008,4.801666666666667
+Iowa,industrial,2009,5.264166666666667
+Iowa,industrial,2010,5.345
+Iowa,industrial,2011,5.2025
+Iowa,industrial,2012,5.280833333333333
+Iowa,industrial,2013,5.6175
+Iowa,industrial,2014,5.702500000000001
+Iowa,industrial,2015,5.8725
+Iowa,industrial,2016,6.023333333333333
+Iowa,industrial,2017,6.173333333333333
+Iowa,industrial,2018,6.425
+Iowa,industrial,2019,6.575833333333333
+Iowa,industrial,2020,6.408333333333334
+Iowa,industrial,2021,6.6025
+Iowa,industrial,2022,7.028333333333333
+Iowa,industrial,2023,6.885833333333333
+Iowa,industrial,2024,6.788333333333333
+Iowa,industrial,2025,7.164166666666667
+Iowa,industrial,2026,7.35
+Kansas,commercial,2001,6.1691666666666665
+Kansas,commercial,2002,6.25
+Kansas,commercial,2003,6.3875
+Kansas,commercial,2004,6.421666666666667
+Kansas,commercial,2005,6.575
+Kansas,commercial,2006,6.918333333333333
+Kansas,commercial,2007,6.789166666666667
+Kansas,commercial,2008,7.387499999999999
+Kansas,commercial,2009,7.857500000000001
+Kansas,commercial,2010,8.216666666666667
+Kansas,commercial,2011,8.741666666666667
+Kansas,commercial,2012,9.208333333333334
+Kansas,commercial,2013,9.660833333333334
+Kansas,commercial,2014,10.106666666666667
+Kansas,commercial,2015,10.088333333333333
+Kansas,commercial,2016,10.459166666666667
+Kansas,commercial,2017,10.565833333333332
+Kansas,commercial,2018,10.634166666666667
+Kansas,commercial,2019,10.270833333333334
+Kansas,commercial,2020,10.405
+Kansas,commercial,2021,10.501666666666667
+Kansas,commercial,2022,11.451666666666666
+Kansas,commercial,2023,10.8525
+Kansas,commercial,2024,11.138333333333334
+Kansas,commercial,2025,11.313333333333333
+Kansas,commercial,2026,11.32
+Kansas,industrial,2001,4.545833333333333
+Kansas,industrial,2002,4.520833333333333
+Kansas,industrial,2003,4.608333333333333
+Kansas,industrial,2004,4.685
+Kansas,industrial,2005,4.848333333333334
+Kansas,industrial,2006,5.193333333333333
+Kansas,industrial,2007,5.1225
+Kansas,industrial,2008,5.675833333333333
+Kansas,industrial,2009,6.100833333333333
+Kansas,industrial,2010,6.224166666666666
+Kansas,industrial,2011,6.695
+Kansas,industrial,2012,7.083333333333333
+Kansas,industrial,2013,7.388333333333333
+Kansas,industrial,2014,7.789166666666667
+Kansas,industrial,2015,7.604166666666667
+Kansas,industrial,2016,7.485833333333333
+Kansas,industrial,2017,7.5375000000000005
+Kansas,industrial,2018,7.588333333333334
+Kansas,industrial,2019,7.348333333333334
+Kansas,industrial,2020,7.303333333333334
+Kansas,industrial,2021,7.3775
+Kansas,industrial,2022,8.2825
+Kansas,industrial,2023,7.639166666666667
+Kansas,industrial,2024,7.7275
+Kansas,industrial,2025,8.02
+Kansas,industrial,2026,8.51
+Kentucky,commercial,2001,5.214166666666666
+Kentucky,commercial,2002,5.301666666666667
+Kentucky,commercial,2003,5.3675
+Kentucky,commercial,2004,5.599166666666666
+Kentucky,commercial,2005,5.996666666666666
+Kentucky,commercial,2006,6.418333333333333
+Kentucky,commercial,2007,6.7491666666666665
+Kentucky,commercial,2008,7.275833333333334
+Kentucky,commercial,2009,7.6225
+Kentucky,commercial,2010,7.873333333333334
+Kentucky,commercial,2011,8.495
+Kentucky,commercial,2012,8.730833333333333
+Kentucky,commercial,2013,8.630833333333333
+Kentucky,commercial,2014,9.446666666666667
+Kentucky,commercial,2015,9.44
+Kentucky,commercial,2016,9.575000000000001
+Kentucky,commercial,2017,9.850833333333334
+Kentucky,commercial,2018,9.754166666666666
+Kentucky,commercial,2019,10.160833333333334
+Kentucky,commercial,2020,10.361666666666666
+Kentucky,commercial,2021,10.758333333333333
+Kentucky,commercial,2022,11.764166666666666
+Kentucky,commercial,2023,11.390833333333333
+Kentucky,commercial,2024,11.510833333333332
+Kentucky,commercial,2025,11.904166666666667
+Kentucky,commercial,2026,13.16
+Kentucky,industrial,2001,3.080833333333333
+Kentucky,industrial,2002,3.1141666666666663
+Kentucky,industrial,2003,3.23
+Kentucky,industrial,2004,3.359166666666667
+Kentucky,industrial,2005,3.6333333333333333
+Kentucky,industrial,2006,4.073333333333333
+Kentucky,industrial,2007,4.498333333333333
+Kentucky,industrial,2008,4.845833333333333
+Kentucky,industrial,2009,4.940833333333333
+Kentucky,industrial,2010,5.065833333333333
+Kentucky,industrial,2011,5.349166666666666
+Kentucky,industrial,2012,5.359166666666667
+Kentucky,industrial,2013,5.711666666666666
+Kentucky,industrial,2014,5.675
+Kentucky,industrial,2015,5.488333333333333
+Kentucky,industrial,2016,5.6675
+Kentucky,industrial,2017,5.715
+Kentucky,industrial,2018,5.685
+Kentucky,industrial,2019,5.571666666666666
+Kentucky,industrial,2020,5.3116666666666665
+Kentucky,industrial,2021,5.945833333333333
+Kentucky,industrial,2022,7.43
+Kentucky,industrial,2023,6.555833333333333
+Kentucky,industrial,2024,6.4975
+Kentucky,industrial,2025,6.963333333333334
+Kentucky,industrial,2026,8.46
+Louisiana,commercial,2001,7.623333333333334
+Louisiana,commercial,2002,6.629166666666666
+Louisiana,commercial,2003,7.389166666666667
+Louisiana,commercial,2004,7.5616666666666665
+Louisiana,commercial,2005,8.575833333333334
+Louisiana,commercial,2006,9.034166666666666
+Louisiana,commercial,2007,9.14
+Louisiana,commercial,2008,10.060833333333333
+Louisiana,commercial,2009,7.751666666666666
+Louisiana,commercial,2010,8.5125
+Louisiana,commercial,2011,8.421666666666667
+Louisiana,commercial,2012,7.781666666666666
+Louisiana,commercial,2013,8.9625
+Louisiana,commercial,2014,9.109166666666667
+Louisiana,commercial,2015,8.666666666666666
+Louisiana,commercial,2016,8.605833333333333
+Louisiana,commercial,2017,8.94
+Louisiana,commercial,2018,8.875
+Louisiana,commercial,2019,8.924999999999999
+Louisiana,commercial,2020,8.871666666666666
+Louisiana,commercial,2021,10.234166666666667
+Louisiana,commercial,2022,11.8675
+Louisiana,commercial,2023,10.540000000000001
+Louisiana,commercial,2024,10.5025
+Louisiana,commercial,2025,11.229999999999999
+Louisiana,commercial,2026,11.54
+Louisiana,industrial,2001,5.5575
+Louisiana,industrial,2002,4.406666666666667
+Louisiana,industrial,2003,5.574166666666667
+Louisiana,industrial,2004,5.816666666666666
+Louisiana,industrial,2005,6.745
+Louisiana,industrial,2006,6.878333333333333
+Louisiana,industrial,2007,6.7749999999999995
+Louisiana,industrial,2008,7.9366666666666665
+Louisiana,industrial,2009,5.3
+Louisiana,industrial,2010,5.854166666666667
+Louisiana,industrial,2011,5.679166666666667
+Louisiana,industrial,2012,4.765
+Louisiana,industrial,2013,5.9175
+Louisiana,industrial,2014,6.04
+Louisiana,industrial,2015,5.411666666666666
+Louisiana,industrial,2016,5.081666666666666
+Louisiana,industrial,2017,5.476666666666667
+Louisiana,industrial,2018,5.355833333333333
+Louisiana,industrial,2019,5.230833333333334
+Louisiana,industrial,2020,4.89
+Louisiana,industrial,2021,6.197500000000001
+Louisiana,industrial,2022,7.521666666666666
+Louisiana,industrial,2023,5.888333333333333
+Louisiana,industrial,2024,5.6375
+Louisiana,industrial,2025,6.226666666666667
+Louisiana,industrial,2026,6.19
+Maine,commercial,2001,12.058333333333332
+Maine,commercial,2002,10.726666666666667
+Maine,commercial,2003,10.638333333333334
+Maine,commercial,2004,9.955833333333333
+Maine,commercial,2005,11.163333333333334
+Maine,commercial,2006,12.418333333333335
+Maine,commercial,2007,12.945
+Maine,commercial,2008,12.935833333333333
+Maine,commercial,2009,12.600833333333334
+Maine,commercial,2010,12.521666666666667
+Maine,commercial,2011,12.299166666666666
+Maine,commercial,2012,11.5475
+Maine,commercial,2013,11.750833333333333
+Maine,commercial,2014,12.705833333333333
+Maine,commercial,2015,12.4975
+Maine,commercial,2016,12.086666666666666
+Maine,commercial,2017,12.1275
+Maine,commercial,2018,12.7275
+Maine,commercial,2019,12.820833333333333
+Maine,commercial,2020,12.5725
+Maine,commercial,2021,12.906666666666666
+Maine,commercial,2022,15.4475
+Maine,commercial,2023,17.9175
+Maine,commercial,2024,18.2425
+Maine,commercial,2025,20.975833333333334
+Maine,commercial,2026,22.46
+Maine,industrial,2001,7.2725
+Maine,industrial,2002,7.039166666666667
+Maine,industrial,2003,6.359166666666667
+Maine,industrial,2004,6.600833333333333
+Maine,industrial,2005,7.315833333333334
+Maine,industrial,2006,8.810833333333333
+Maine,industrial,2007,14.11
+Maine,industrial,2008,11.564166666666665
+Maine,industrial,2009,10.09
+Maine,industrial,2010,9.206666666666667
+Maine,industrial,2011,8.891666666666667
+Maine,industrial,2012,7.984166666666667
+Maine,industrial,2013,8.3925
+Maine,industrial,2014,9.041666666666666
+Maine,industrial,2015,9.163333333333334
+Maine,industrial,2016,8.9575
+Maine,industrial,2017,9.216666666666667
+Maine,industrial,2018,9.343333333333334
+Maine,industrial,2019,9.255
+Maine,industrial,2020,8.866666666666667
+Maine,industrial,2021,9.58
+Maine,industrial,2022,11.0525
+Maine,industrial,2023,12.33
+Maine,industrial,2024,12.480833333333335
+Maine,industrial,2025,15.515833333333333
+Maine,industrial,2026,18.95
+Maryland,commercial,2001,6.310833333333334
+Maryland,commercial,2002,6.285833333333334
+Maryland,commercial,2003,6.905833333333334
+Maryland,commercial,2004,7.530833333333334
+Maryland,commercial,2005,8.92
+Maryland,commercial,2006,10.495833333333334
+Maryland,commercial,2007,11.548333333333334
+Maryland,commercial,2008,12.703333333333333
+Maryland,commercial,2009,11.987499999999999
+Maryland,commercial,2010,11.7475
+Maryland,commercial,2011,11.268333333333333
+Maryland,commercial,2012,10.429166666666665
+Maryland,commercial,2013,10.6725
+Maryland,commercial,2014,11.174166666666666
+Maryland,commercial,2015,11.003333333333332
+Maryland,commercial,2016,11.0025
+Maryland,commercial,2017,10.770000000000001
+Maryland,commercial,2018,10.444166666666666
+Maryland,commercial,2019,9.985833333333334
+Maryland,commercial,2020,9.744166666666667
+Maryland,commercial,2021,10.265833333333333
+Maryland,commercial,2022,12.63
+Maryland,commercial,2023,12.791666666666666
+Maryland,commercial,2024,12.954166666666666
+Maryland,commercial,2025,14.715000000000002
+Maryland,commercial,2026,18.19
+Maryland,industrial,2001,4.366666666666666
+Maryland,industrial,2002,3.8608333333333333
+Maryland,industrial,2003,5.2025
+Maryland,industrial,2004,5.975833333333334
+Maryland,industrial,2005,6.9925
+Maryland,industrial,2006,8.163333333333332
+Maryland,industrial,2007,9.39
+Maryland,industrial,2008,10.359166666666667
+Maryland,industrial,2009,9.966666666666667
+Maryland,industrial,2010,9.571666666666667
+Maryland,industrial,2011,8.771666666666667
+Maryland,industrial,2012,8.105
+Maryland,industrial,2013,8.363333333333333
+Maryland,industrial,2014,9.084166666666667
+Maryland,industrial,2015,8.549166666666666
+Maryland,industrial,2016,7.888333333333333
+Maryland,industrial,2017,8.375833333333334
+Maryland,industrial,2018,8.25
+Maryland,industrial,2019,7.800833333333333
+Maryland,industrial,2020,7.81
+Maryland,industrial,2021,8.4525
+Maryland,industrial,2022,9.987499999999999
+Maryland,industrial,2023,9.950833333333334
+Maryland,industrial,2024,9.993333333333334
+Maryland,industrial,2025,12.4525
+Maryland,industrial,2026,20.52
+Massachusetts,commercial,2001,11.663333333333334
+Massachusetts,commercial,2002,9.995833333333334
+Massachusetts,commercial,2003,10.448333333333332
+Massachusetts,commercial,2004,10.965000000000002
+Massachusetts,commercial,2005,12.389166666666666
+Massachusetts,commercial,2006,15.516666666666666
+Massachusetts,commercial,2007,15.1925
+Massachusetts,commercial,2008,16.044166666666666
+Massachusetts,commercial,2009,15.358333333333334
+Massachusetts,commercial,2010,14.51
+Massachusetts,commercial,2011,14.313333333333333
+Massachusetts,commercial,2012,13.833333333333334
+Massachusetts,commercial,2013,14.228333333333333
+Massachusetts,commercial,2014,14.661666666666667
+Massachusetts,commercial,2015,15.777499999999998
+Massachusetts,commercial,2016,15.582500000000001
+Massachusetts,commercial,2017,15.917499999999999
+Massachusetts,commercial,2018,17.170833333333334
+Massachusetts,commercial,2019,16.789166666666667
+Massachusetts,commercial,2020,15.994166666666667
+Massachusetts,commercial,2021,16.954166666666666
+Massachusetts,commercial,2022,18.650000000000002
+Massachusetts,commercial,2023,19.669166666666666
+Massachusetts,commercial,2024,20.88083333333333
+Massachusetts,commercial,2025,23.081666666666667
+Massachusetts,commercial,2026,25.64
+Massachusetts,industrial,2001,9.362499999999999
+Massachusetts,industrial,2002,8.331666666666667
+Massachusetts,industrial,2003,8.9125
+Massachusetts,industrial,2004,8.485
+Massachusetts,industrial,2005,9.216666666666667
+Massachusetts,industrial,2006,13.040833333333333
+Massachusetts,industrial,2007,13.016666666666666
+Massachusetts,industrial,2008,14.135833333333332
+Massachusetts,industrial,2009,14.068333333333333
+Massachusetts,industrial,2010,13.694166666666668
+Massachusetts,industrial,2011,13.362499999999999
+Massachusetts,industrial,2012,12.548333333333334
+Massachusetts,industrial,2013,13.158333333333333
+Massachusetts,industrial,2014,12.751666666666665
+Massachusetts,industrial,2015,13.550833333333332
+Massachusetts,industrial,2016,13.371666666666668
+Massachusetts,industrial,2017,13.875833333333333
+Massachusetts,industrial,2018,14.899166666666666
+Massachusetts,industrial,2019,14.7675
+Massachusetts,industrial,2020,14.501666666666667
+Massachusetts,industrial,2021,15.167499999999999
+Massachusetts,industrial,2022,17.048333333333332
+Massachusetts,industrial,2023,17.89
+Massachusetts,industrial,2024,18.183333333333334
+Massachusetts,industrial,2025,19.355
+Massachusetts,industrial,2026,21.71
+Michigan,commercial,2001,7.543333333333333
+Michigan,commercial,2002,7.7925
+Michigan,commercial,2003,7.552499999999999
+Michigan,commercial,2004,7.575
+Michigan,commercial,2005,7.8308333333333335
+Michigan,commercial,2006,8.501666666666667
+Michigan,commercial,2007,8.772499999999999
+Michigan,commercial,2008,9.155833333333334
+Michigan,commercial,2009,9.2325
+Michigan,commercial,2010,9.8075
+Michigan,commercial,2011,10.32
+Michigan,commercial,2012,10.913333333333334
+Michigan,commercial,2013,11.050833333333335
+Michigan,commercial,2014,10.862499999999999
+Michigan,commercial,2015,10.5425
+Michigan,commercial,2016,10.633333333333333
+Michigan,commercial,2017,11.006666666666666
+Michigan,commercial,2018,11.151666666666666
+Michigan,commercial,2019,11.39
+Michigan,commercial,2020,11.719999999999999
+Michigan,commercial,2021,12.31
+Michigan,commercial,2022,12.550833333333335
+Michigan,commercial,2023,13.391666666666666
+Michigan,commercial,2024,13.994166666666667
+Michigan,commercial,2025,14.466666666666667
+Michigan,commercial,2026,14.42
+Michigan,industrial,2001,5.086666666666667
+Michigan,industrial,2002,5.038333333333333
+Michigan,industrial,2003,4.968333333333334
+Michigan,industrial,2004,4.93
+Michigan,industrial,2005,5.321666666666666
+Michigan,industrial,2006,6.0441666666666665
+Michigan,industrial,2007,6.47
+Michigan,industrial,2008,6.724166666666666
+Michigan,industrial,2009,6.986666666666667
+Michigan,industrial,2010,7.076666666666667
+Michigan,industrial,2011,7.314166666666666
+Michigan,industrial,2012,7.620833333333334
+Michigan,industrial,2013,7.71
+Michigan,industrial,2014,7.672499999999999
+Michigan,industrial,2015,7.026666666666666
+Michigan,industrial,2016,6.91
+Michigan,industrial,2017,7.195
+Michigan,industrial,2018,7.100833333333333
+Michigan,industrial,2019,7.074166666666667
+Michigan,industrial,2020,7.265833333333333
+Michigan,industrial,2021,7.685
+Michigan,industrial,2022,8.323333333333332
+Michigan,industrial,2023,8.155833333333334
+Michigan,industrial,2024,8.255
+Michigan,industrial,2025,8.584166666666667
+Michigan,industrial,2026,9.77
+Minnesota,commercial,2001,6.03
+Minnesota,commercial,2002,5.8566666666666665
+Minnesota,commercial,2003,6.103333333333333
+Minnesota,commercial,2004,6.301666666666667
+Minnesota,commercial,2005,6.5616666666666665
+Minnesota,commercial,2006,6.982500000000001
+Minnesota,commercial,2007,7.454999999999999
+Minnesota,commercial,2008,7.860833333333333
+Minnesota,commercial,2009,7.910833333333334
+Minnesota,commercial,2010,8.360833333333334
+Minnesota,commercial,2011,8.615
+Minnesota,commercial,2012,8.823333333333332
+Minnesota,commercial,2013,9.4075
+Minnesota,commercial,2014,9.843333333333334
+Minnesota,commercial,2015,9.42
+Minnesota,commercial,2016,9.853333333333333
+Minnesota,commercial,2017,10.4725
+Minnesota,commercial,2018,10.363333333333333
+Minnesota,commercial,2019,10.332500000000001
+Minnesota,commercial,2020,10.429166666666667
+Minnesota,commercial,2021,11.1775
+Minnesota,commercial,2022,12.277499999999998
+Minnesota,commercial,2023,12.36
+Minnesota,commercial,2024,12.126666666666667
+Minnesota,commercial,2025,12.237499999999999
+Minnesota,commercial,2026,11.4
+Minnesota,industrial,2001,4.344166666666667
+Minnesota,industrial,2002,4.0575
+Minnesota,industrial,2003,4.350833333333333
+Minnesota,industrial,2004,4.6175
+Minnesota,industrial,2005,5.013333333333333
+Minnesota,industrial,2006,5.280833333333334
+Minnesota,industrial,2007,5.683333333333334
+Minnesota,industrial,2008,5.860833333333333
+Minnesota,industrial,2009,6.260833333333333
+Minnesota,industrial,2010,6.279166666666666
+Minnesota,industrial,2011,6.459166666666667
+Minnesota,industrial,2012,6.526666666666666
+Minnesota,industrial,2013,6.970833333333334
+Minnesota,industrial,2014,6.723333333333333
+Minnesota,industrial,2015,7.0225
+Minnesota,industrial,2016,7.3625
+Minnesota,industrial,2017,7.3675
+Minnesota,industrial,2018,7.515833333333333
+Minnesota,industrial,2019,7.520833333333333
+Minnesota,industrial,2020,7.6925
+Minnesota,industrial,2021,8.281666666666666
+Minnesota,industrial,2022,9.248333333333333
+Minnesota,industrial,2023,9.1925
+Minnesota,industrial,2024,9.141666666666667
+Minnesota,industrial,2025,9.311666666666666
+Minnesota,industrial,2026,9.3
+Mississippi,commercial,2001,6.913333333333333
+Mississippi,commercial,2002,6.845
+Mississippi,commercial,2003,7.253333333333334
+Mississippi,commercial,2004,7.968333333333334
+Mississippi,commercial,2005,8.49
+Mississippi,commercial,2006,9.415000000000001
+Mississippi,commercial,2007,8.9275
+Mississippi,commercial,2008,9.968333333333334
+Mississippi,commercial,2009,9.529166666666667
+Mississippi,commercial,2010,9.305
+Mississippi,commercial,2011,9.488333333333333
+Mississippi,commercial,2012,9.345
+Mississippi,commercial,2013,10.095833333333333
+Mississippi,commercial,2014,10.765
+Mississippi,commercial,2015,10.574166666666667
+Mississippi,commercial,2016,9.599166666666667
+Mississippi,commercial,2017,10.178333333333333
+Mississippi,commercial,2018,10.477500000000001
+Mississippi,commercial,2019,10.547500000000001
+Mississippi,commercial,2020,10.424999999999999
+Mississippi,commercial,2021,10.833333333333334
+Mississippi,commercial,2022,11.764166666666666
+Mississippi,commercial,2023,12.424999999999999
+Mississippi,commercial,2024,12.360833333333334
+Mississippi,commercial,2025,13.055833333333334
+Mississippi,commercial,2026,14.11
+Mississippi,industrial,2001,4.3966666666666665
+Mississippi,industrial,2002,4.394166666666666
+Mississippi,industrial,2003,4.480833333333334
+Mississippi,industrial,2004,4.83
+Mississippi,industrial,2005,5.391666666666667
+Mississippi,industrial,2006,5.944166666666667
+Mississippi,industrial,2007,5.7475
+Mississippi,industrial,2008,6.5625
+Mississippi,industrial,2009,6.6308333333333325
+Mississippi,industrial,2010,6.309166666666666
+Mississippi,industrial,2011,6.516666666666667
+Mississippi,industrial,2012,6.2375
+Mississippi,industrial,2013,6.325833333333333
+Mississippi,industrial,2014,6.591666666666666
+Mississippi,industrial,2015,6.5575
+Mississippi,industrial,2016,5.790833333333333
+Mississippi,industrial,2017,5.9875
+Mississippi,industrial,2018,5.9991666666666665
+Mississippi,industrial,2019,5.853333333333333
+Mississippi,industrial,2020,5.6325
+Mississippi,industrial,2021,5.950833333333333
+Mississippi,industrial,2022,6.702500000000001
+Mississippi,industrial,2023,6.96
+Mississippi,industrial,2024,6.8125
+Mississippi,industrial,2025,7.3741666666666665
+Mississippi,industrial,2026,7.58
+Missouri,commercial,2001,5.815
+Missouri,commercial,2002,5.789166666666667
+Missouri,commercial,2003,5.723333333333334
+Missouri,commercial,2004,5.759166666666666
+Missouri,commercial,2005,5.860833333333333
+Missouri,commercial,2006,6.004166666666666
+Missouri,commercial,2007,6.264166666666667
+Missouri,commercial,2008,6.5616666666666665
+Missouri,commercial,2009,6.911666666666666
+Missouri,commercial,2010,7.418333333333333
+Missouri,commercial,2011,7.958333333333333
+Missouri,commercial,2012,8.115
+Missouri,commercial,2013,8.740833333333333
+Missouri,commercial,2014,8.846666666666666
+Missouri,commercial,2015,9.093333333333334
+Missouri,commercial,2016,9.174166666666666
+Missouri,commercial,2017,9.3925
+Missouri,commercial,2018,9.323333333333332
+Missouri,commercial,2019,9.003333333333332
+Missouri,commercial,2020,8.876666666666667
+Missouri,commercial,2021,9.0775
+Missouri,commercial,2022,9.468333333333334
+Missouri,commercial,2023,10.047500000000001
+Missouri,commercial,2024,10.180833333333334
+Missouri,commercial,2025,10.5275
+Missouri,commercial,2026,9.47
+Missouri,industrial,2001,4.3975
+Missouri,industrial,2002,4.410833333333334
+Missouri,industrial,2003,4.485833333333333
+Missouri,industrial,2004,4.6125
+Missouri,industrial,2005,4.51
+Missouri,industrial,2006,4.553333333333334
+Missouri,industrial,2007,4.75
+Missouri,industrial,2008,4.911666666666666
+Missouri,industrial,2009,5.425833333333333
+Missouri,industrial,2010,5.489166666666667
+Missouri,industrial,2011,5.835
+Missouri,industrial,2012,5.878333333333334
+Missouri,industrial,2013,6.283333333333334
+Missouri,industrial,2014,6.334166666666667
+Missouri,industrial,2015,6.410833333333334
+Missouri,industrial,2016,7.100833333333334
+Missouri,industrial,2017,7.299166666666667
+Missouri,industrial,2018,7.1925
+Missouri,industrial,2019,7.0808333333333335
+Missouri,industrial,2020,6.8183333333333325
+Missouri,industrial,2021,7.074166666666667
+Missouri,industrial,2022,7.636666666666667
+Missouri,industrial,2023,7.87
+Missouri,industrial,2024,7.844166666666666
+Missouri,industrial,2025,8.3425
+Missouri,industrial,2026,7.96
+Montana,commercial,2001,5.903333333333333
+Montana,commercial,2002,6.274166666666667
+Montana,commercial,2003,6.835833333333333
+Montana,commercial,2004,7.420000000000001
+Montana,commercial,2005,7.4325
+Montana,commercial,2006,7.448333333333333
+Montana,commercial,2007,8.108333333333333
+Montana,commercial,2008,8.545
+Montana,commercial,2009,8.3225
+Montana,commercial,2010,8.549999999999999
+Montana,commercial,2011,9.118333333333334
+Montana,commercial,2012,9.13
+Montana,commercial,2013,9.539166666666667
+Montana,commercial,2014,9.645
+Montana,commercial,2015,10.225833333333332
+Montana,commercial,2016,10.195833333333333
+Montana,commercial,2017,10.128333333333334
+Montana,commercial,2018,10.111666666666666
+Montana,commercial,2019,10.418333333333333
+Montana,commercial,2020,10.524166666666666
+Montana,commercial,2021,10.541666666666666
+Montana,commercial,2022,10.6775
+Montana,commercial,2023,12.113333333333335
+Montana,commercial,2024,11.8775
+Montana,commercial,2025,11.900833333333333
+Montana,commercial,2026,11.84
+Montana,industrial,2001,6.6575
+Montana,industrial,2002,3.7225
+Montana,industrial,2003,4.0325
+Montana,industrial,2004,4.1425
+Montana,industrial,2005,4.824166666666667
+Montana,industrial,2006,5.131666666666667
+Montana,industrial,2007,5.155
+Montana,industrial,2008,5.9025
+Montana,industrial,2009,5.453333333333333
+Montana,industrial,2010,5.552499999999999
+Montana,industrial,2011,5.278333333333333
+Montana,industrial,2012,5.098333333333334
+Montana,industrial,2013,5.421666666666667
+Montana,industrial,2014,5.4941666666666675
+Montana,industrial,2015,5.308333333333334
+Montana,industrial,2016,5.0475
+Montana,industrial,2017,5.233333333333333
+Montana,industrial,2018,5.1499999999999995
+Montana,industrial,2019,5.46
+Montana,industrial,2020,5.189166666666667
+Montana,industrial,2021,6.210833333333333
+Montana,industrial,2022,7.425833333333333
+Montana,industrial,2023,7.809166666666666
+Montana,industrial,2024,7.565833333333334
+Montana,industrial,2025,7.0025
+Montana,industrial,2026,7.41
+Nebraska,commercial,2001,5.453333333333333
+Nebraska,commercial,2002,5.585
+Nebraska,commercial,2003,5.789166666666667
+Nebraska,commercial,2004,5.827500000000001
+Nebraska,commercial,2005,5.945
+Nebraska,commercial,2006,6.173333333333333
+Nebraska,commercial,2007,6.371666666666666
+Nebraska,commercial,2008,6.671666666666667
+Nebraska,commercial,2009,7.323333333333333
+Nebraska,commercial,2010,7.6175
+Nebraska,commercial,2011,7.965833333333333
+Nebraska,commercial,2012,8.352500000000001
+Nebraska,commercial,2013,8.5825
+Nebraska,commercial,2014,8.715
+Nebraska,commercial,2015,8.6525
+Nebraska,commercial,2016,8.775
+Nebraska,commercial,2017,8.8225
+Nebraska,commercial,2018,8.806666666666667
+Nebraska,commercial,2019,8.840833333333334
+Nebraska,commercial,2020,8.879166666666666
+Nebraska,commercial,2021,8.7875
+Nebraska,commercial,2022,8.800833333333333
+Nebraska,commercial,2023,8.735833333333334
+Nebraska,commercial,2024,8.38
+Nebraska,commercial,2025,8.77
+Nebraska,commercial,2026,8.5
+Nebraska,industrial,2001,3.7558333333333334
+Nebraska,industrial,2002,3.8608333333333333
+Nebraska,industrial,2003,4.1433333333333335
+Nebraska,industrial,2004,4.245
+Nebraska,industrial,2005,4.383333333333334
+Nebraska,industrial,2006,4.528333333333333
+Nebraska,industrial,2007,4.745
+Nebraska,industrial,2008,5.11
+Nebraska,industrial,2009,5.724166666666666
+Nebraska,industrial,2010,5.966666666666666
+Nebraska,industrial,2011,6.383333333333333
+Nebraska,industrial,2012,6.9375
+Nebraska,industrial,2013,7.384166666666666
+Nebraska,industrial,2014,7.4175
+Nebraska,industrial,2015,7.530833333333334
+Nebraska,industrial,2016,7.63
+Nebraska,industrial,2017,7.599166666666666
+Nebraska,industrial,2018,7.5475
+Nebraska,industrial,2019,7.62
+Nebraska,industrial,2020,7.353333333333334
+Nebraska,industrial,2021,7.291666666666667
+Nebraska,industrial,2022,7.1825
+Nebraska,industrial,2023,7.573333333333333
+Nebraska,industrial,2024,7.613333333333333
+Nebraska,industrial,2025,7.964166666666667
+Nebraska,industrial,2026,9.67
+Nevada,commercial,2001,8.410833333333333
+Nevada,commercial,2002,9.076666666666666
+Nevada,commercial,2003,8.834166666666667
+Nevada,commercial,2004,9.09
+Nevada,commercial,2005,9.506666666666666
+Nevada,commercial,2006,10.119166666666667
+Nevada,commercial,2007,10.104166666666666
+Nevada,commercial,2008,10.095
+Nevada,commercial,2009,10.649166666666666
+Nevada,commercial,2010,9.811666666666667
+Nevada,commercial,2011,9.069166666666666
+Nevada,commercial,2012,8.843333333333334
+Nevada,commercial,2013,9.020833333333334
+Nevada,commercial,2014,9.48
+Nevada,commercial,2015,9.270833333333334
+Nevada,commercial,2016,7.9575
+Nevada,commercial,2017,7.964166666666666
+Nevada,commercial,2018,7.730833333333333
+Nevada,commercial,2019,8.000833333333334
+Nevada,commercial,2020,7.433333333333334
+Nevada,commercial,2021,7.735833333333333
+Nevada,commercial,2022,10.065
+Nevada,commercial,2023,11.851666666666667
+Nevada,commercial,2024,10.210833333333333
+Nevada,commercial,2025,9.338333333333333
+Nevada,commercial,2026,9.1
+Nevada,industrial,2001,6.505
+Nevada,industrial,2002,7.184166666666666
+Nevada,industrial,2003,7.2250000000000005
+Nevada,industrial,2004,7.1825
+Nevada,industrial,2005,7.654166666666666
+Nevada,industrial,2006,7.97
+Nevada,industrial,2007,8.224166666666667
+Nevada,industrial,2008,7.940833333333333
+Nevada,industrial,2009,7.896666666666667
+Nevada,industrial,2010,7.267500000000001
+Nevada,industrial,2011,6.570833333333333
+Nevada,industrial,2012,6.4025
+Nevada,industrial,2013,6.4316666666666675
+Nevada,industrial,2014,7.0249999999999995
+Nevada,industrial,2015,6.664166666666667
+Nevada,industrial,2016,5.756666666666667
+Nevada,industrial,2017,6.0683333333333325
+Nevada,industrial,2018,6.0425
+Nevada,industrial,2019,6.04
+Nevada,industrial,2020,5.5425
+Nevada,industrial,2021,5.920000000000001
+Nevada,industrial,2022,8.388333333333334
+Nevada,industrial,2023,10.256666666666666
+Nevada,industrial,2024,8.541666666666666
+Nevada,industrial,2025,7.9816666666666665
+Nevada,industrial,2026,7.69
+New Hampshire,commercial,2001,10.540833333333333
+New Hampshire,commercial,2002,10.063333333333334
+New Hampshire,commercial,2003,10.301666666666668
+New Hampshire,commercial,2004,10.995833333333332
+New Hampshire,commercial,2005,12.056666666666667
+New Hampshire,commercial,2006,14.112499999999999
+New Hampshire,commercial,2007,13.909999999999998
+New Hampshire,commercial,2008,14.292499999999999
+New Hampshire,commercial,2009,14.365
+New Hampshire,commercial,2010,14.245
+New Hampshire,commercial,2011,14.046666666666667
+New Hampshire,commercial,2012,13.368333333333334
+New Hampshire,commercial,2013,13.530000000000001
+New Hampshire,commercial,2014,14.338333333333333
+New Hampshire,commercial,2015,14.984166666666667
+New Hampshire,commercial,2016,14.4425
+New Hampshire,commercial,2017,14.811666666666667
+New Hampshire,commercial,2018,15.83
+New Hampshire,commercial,2019,15.949166666666665
+New Hampshire,commercial,2020,15.419166666666667
+New Hampshire,commercial,2021,16.142500000000002
+New Hampshire,commercial,2022,18.709166666666665
+New Hampshire,commercial,2023,20.42833333333333
+New Hampshire,commercial,2024,19.415833333333335
+New Hampshire,commercial,2025,20.145833333333332
+New Hampshire,commercial,2026,22.19
+New Hampshire,industrial,2001,9.126666666666667
+New Hampshire,industrial,2002,9.082500000000001
+New Hampshire,industrial,2003,9.744166666666667
+New Hampshire,industrial,2004,10.022499999999999
+New Hampshire,industrial,2005,11.494166666666667
+New Hampshire,industrial,2006,11.6275
+New Hampshire,industrial,2007,12.281666666666666
+New Hampshire,industrial,2008,13.134166666666665
+New Hampshire,industrial,2009,13.746666666666668
+New Hampshire,industrial,2010,12.75
+New Hampshire,industrial,2011,12.271666666666667
+New Hampshire,industrial,2012,11.83
+New Hampshire,industrial,2013,11.410833333333334
+New Hampshire,industrial,2014,11.950833333333334
+New Hampshire,industrial,2015,12.761666666666665
+New Hampshire,industrial,2016,12.342500000000001
+New Hampshire,industrial,2017,12.344166666666666
+New Hampshire,industrial,2018,13.435833333333333
+New Hampshire,industrial,2019,13.1075
+New Hampshire,industrial,2020,13.115833333333335
+New Hampshire,industrial,2021,13.824166666666668
+New Hampshire,industrial,2022,15.159166666666666
+New Hampshire,industrial,2023,15.798333333333332
+New Hampshire,industrial,2024,16.225
+New Hampshire,industrial,2025,16.893333333333334
+New Hampshire,industrial,2026,20.41
+New Jersey,commercial,2001,9.076666666666666
+New Jersey,commercial,2002,8.895833333333334
+New Jersey,commercial,2003,9.073333333333332
+New Jersey,commercial,2004,9.888333333333334
+New Jersey,commercial,2005,10.509166666666667
+New Jersey,commercial,2006,11.494166666666667
+New Jersey,commercial,2007,12.885833333333332
+New Jersey,commercial,2008,13.924999999999999
+New Jersey,commercial,2009,13.786666666666667
+New Jersey,commercial,2010,13.818333333333333
+New Jersey,commercial,2011,13.418333333333335
+New Jersey,commercial,2012,12.731666666666667
+New Jersey,commercial,2013,12.723333333333334
+New Jersey,commercial,2014,13.120833333333332
+New Jersey,commercial,2015,12.760833333333332
+New Jersey,commercial,2016,12.2125
+New Jersey,commercial,2017,12.255833333333333
+New Jersey,commercial,2018,12.183333333333332
+New Jersey,commercial,2019,12.215833333333334
+New Jersey,commercial,2020,12.320833333333333
+New Jersey,commercial,2021,12.659166666666666
+New Jersey,commercial,2022,13.705
+New Jersey,commercial,2023,13.963333333333333
+New Jersey,commercial,2024,14.597499999999998
+New Jersey,commercial,2025,16.563333333333333
+New Jersey,commercial,2026,17.41
+New Jersey,industrial,2001,8.325833333333334
+New Jersey,industrial,2002,7.721666666666667
+New Jersey,industrial,2003,7.995
+New Jersey,industrial,2004,9.039166666666667
+New Jersey,industrial,2005,9.706666666666667
+New Jersey,industrial,2006,10.37
+New Jersey,industrial,2007,10.0575
+New Jersey,industrial,2008,12.523333333333333
+New Jersey,industrial,2009,11.88
+New Jersey,industrial,2010,11.793333333333335
+New Jersey,industrial,2011,11.407499999999999
+New Jersey,industrial,2012,10.510833333333332
+New Jersey,industrial,2013,10.793333333333335
+New Jersey,industrial,2014,11.375833333333333
+New Jersey,industrial,2015,10.630833333333333
+New Jersey,industrial,2016,10.146666666666667
+New Jersey,industrial,2017,10.106666666666667
+New Jersey,industrial,2018,10.0625
+New Jersey,industrial,2019,10.149166666666666
+New Jersey,industrial,2020,10.004166666666666
+New Jersey,industrial,2021,10.686666666666667
+New Jersey,industrial,2022,12.130833333333333
+New Jersey,industrial,2023,11.69
+New Jersey,industrial,2024,11.925833333333335
+New Jersey,industrial,2025,13.884166666666667
+New Jersey,industrial,2026,16.27
+New Mexico,commercial,2001,7.485833333333333
+New Mexico,commercial,2002,7.204166666666667
+New Mexico,commercial,2003,7.338333333333334
+New Mexico,commercial,2004,7.38
+New Mexico,commercial,2005,7.7941666666666665
+New Mexico,commercial,2006,7.6175
+New Mexico,commercial,2007,7.66
+New Mexico,commercial,2008,8.613333333333333
+New Mexico,commercial,2009,8.387500000000001
+New Mexico,commercial,2010,8.525833333333333
+New Mexico,commercial,2011,9.026666666666667
+New Mexico,commercial,2012,9.2775
+New Mexico,commercial,2013,9.69
+New Mexico,commercial,2014,10.213333333333333
+New Mexico,commercial,2015,10.265
+New Mexico,commercial,2016,9.702499999999999
+New Mexico,commercial,2017,10.145833333333334
+New Mexico,commercial,2018,9.979166666666666
+New Mexico,commercial,2019,9.764166666666666
+New Mexico,commercial,2020,10.2225
+New Mexico,commercial,2021,10.731666666666667
+New Mexico,commercial,2022,11.010833333333332
+New Mexico,commercial,2023,10.635833333333332
+New Mexico,commercial,2024,10.49
+New Mexico,commercial,2025,11.176666666666668
+New Mexico,commercial,2026,10.75
+New Mexico,industrial,2001,5.441666666666666
+New Mexico,industrial,2002,4.4675
+New Mexico,industrial,2003,4.946666666666666
+New Mexico,industrial,2004,5.210833333333333
+New Mexico,industrial,2005,5.609999999999999
+New Mexico,industrial,2006,5.572500000000001
+New Mexico,industrial,2007,5.586666666666667
+New Mexico,industrial,2008,6.360833333333333
+New Mexico,industrial,2009,5.7250000000000005
+New Mexico,industrial,2010,5.995
+New Mexico,industrial,2011,6.043333333333333
+New Mexico,industrial,2012,5.8183333333333325
+New Mexico,industrial,2013,6.340833333333333
+New Mexico,industrial,2014,6.594166666666666
+New Mexico,industrial,2015,6.324166666666667
+New Mexico,industrial,2016,5.834166666666667
+New Mexico,industrial,2017,6.149166666666667
+New Mexico,industrial,2018,5.844166666666666
+New Mexico,industrial,2019,5.4875
+New Mexico,industrial,2020,5.572500000000001
+New Mexico,industrial,2021,6.1433333333333335
+New Mexico,industrial,2022,6.5441666666666665
+New Mexico,industrial,2023,5.7575
+New Mexico,industrial,2024,5.427499999999999
+New Mexico,industrial,2025,5.9125000000000005
+New Mexico,industrial,2026,5.72
+New York,commercial,2001,12.801666666666668
+New York,commercial,2002,12.262500000000001
+New York,commercial,2003,12.891666666666666
+New York,commercial,2004,12.935
+New York,commercial,2005,14.286666666666667
+New York,commercial,2006,15.445833333333333
+New York,commercial,2007,15.871666666666668
+New York,commercial,2008,16.695
+New York,commercial,2009,15.429166666666667
+New York,commercial,2010,16.2425
+New York,commercial,2011,15.737499999999999
+New York,commercial,2012,14.993333333333332
+New York,commercial,2013,15.286666666666667
+New York,commercial,2014,16.089166666666667
+New York,commercial,2015,15.254166666666668
+New York,commercial,2016,14.3775
+New York,commercial,2017,14.695833333333333
+New York,commercial,2018,14.424999999999999
+New York,commercial,2019,14.001666666666667
+New York,commercial,2020,14.524166666666666
+New York,commercial,2021,15.996666666666668
+New York,commercial,2022,18.098333333333333
+New York,commercial,2023,17.929166666666667
+New York,commercial,2024,18.683333333333334
+New York,commercial,2025,20.986666666666668
+New York,commercial,2026,22.28
+New York,industrial,2001,5.577500000000001
+New York,industrial,2002,5.179166666666666
+New York,industrial,2003,7.1375
+New York,industrial,2004,7.041666666666667
+New York,industrial,2005,8.206666666666667
+New York,industrial,2006,9.3925
+New York,industrial,2007,8.723333333333334
+New York,industrial,2008,9.374166666666666
+New York,industrial,2009,8.358333333333333
+New York,industrial,2010,8.775833333333333
+New York,industrial,2011,7.833333333333333
+New York,industrial,2012,6.7075
+New York,industrial,2013,6.59
+New York,industrial,2014,6.583333333333333
+New York,industrial,2015,6.306666666666666
+New York,industrial,2016,6.028333333333333
+New York,industrial,2017,5.914166666666667
+New York,industrial,2018,6.0183333333333335
+New York,industrial,2019,5.6125
+New York,industrial,2020,5.5425
+New York,industrial,2021,6.335
+New York,industrial,2022,7.528333333333333
+New York,industrial,2023,6.864999999999999
+New York,industrial,2024,9.1625
+New York,industrial,2025,9.53
+New York,industrial,2026,12.81
+North Carolina,commercial,2001,6.408333333333334
+North Carolina,commercial,2002,6.5125
+North Carolina,commercial,2003,6.6433333333333335
+North Carolina,commercial,2004,6.695
+North Carolina,commercial,2005,6.853333333333333
+North Carolina,commercial,2006,7.151666666666666
+North Carolina,commercial,2007,7.4125000000000005
+North Carolina,commercial,2008,7.539166666666667
+North Carolina,commercial,2009,7.9799999999999995
+North Carolina,commercial,2010,8.140833333333333
+North Carolina,commercial,2011,8.125
+North Carolina,commercial,2012,8.651666666666666
+North Carolina,commercial,2013,8.745833333333334
+North Carolina,commercial,2014,8.745833333333334
+North Carolina,commercial,2015,8.715833333333334
+North Carolina,commercial,2016,8.602500000000001
+North Carolina,commercial,2017,8.43
+North Carolina,commercial,2018,8.5775
+North Carolina,commercial,2019,8.801666666666668
+North Carolina,commercial,2020,8.689166666666667
+North Carolina,commercial,2021,8.498333333333333
+North Carolina,commercial,2022,8.748333333333333
+North Carolina,commercial,2023,9.6725
+North Carolina,commercial,2024,10.581666666666667
+North Carolina,commercial,2025,10.279166666666667
+North Carolina,commercial,2026,10.19
+North Carolina,industrial,2001,4.6033333333333335
+North Carolina,industrial,2002,4.685833333333333
+North Carolina,industrial,2003,4.789166666666667
+North Carolina,industrial,2004,4.865833333333334
+North Carolina,industrial,2005,5.023333333333333
+North Carolina,industrial,2006,5.220833333333333
+North Carolina,industrial,2007,5.449166666666667
+North Carolina,industrial,2008,5.5325
+North Carolina,industrial,2009,5.982499999999999
+North Carolina,industrial,2010,6.1499999999999995
+North Carolina,industrial,2011,6.0075
+North Carolina,industrial,2012,6.415833333333333
+North Carolina,industrial,2013,6.4366666666666665
+North Carolina,industrial,2014,6.489166666666667
+North Carolina,industrial,2015,6.510000000000001
+North Carolina,industrial,2016,6.2941666666666665
+North Carolina,industrial,2017,6.199166666666667
+North Carolina,industrial,2018,6.333333333333333
+North Carolina,industrial,2019,6.291666666666667
+North Carolina,industrial,2020,6.336666666666667
+North Carolina,industrial,2021,6.129166666666666
+North Carolina,industrial,2022,6.5874999999999995
+North Carolina,industrial,2023,7.165833333333333
+North Carolina,industrial,2024,7.774166666666666
+North Carolina,industrial,2025,7.799166666666667
+North Carolina,industrial,2026,8.01
+North Dakota,commercial,2001,5.9975
+North Dakota,commercial,2002,5.868333333333333
+North Dakota,commercial,2003,5.649166666666667
+North Dakota,commercial,2004,5.876666666666666
+North Dakota,commercial,2005,6.114166666666667
+North Dakota,commercial,2006,6.308333333333334
+North Dakota,commercial,2007,6.589166666666667
+North Dakota,commercial,2008,6.825
+North Dakota,commercial,2009,6.835833333333333
+North Dakota,commercial,2010,7.2316666666666665
+North Dakota,commercial,2011,7.633333333333333
+North Dakota,commercial,2012,8.038333333333332
+North Dakota,commercial,2013,8.419166666666667
+North Dakota,commercial,2014,8.8225
+North Dakota,commercial,2015,8.864166666666668
+North Dakota,commercial,2016,9.166666666666666
+North Dakota,commercial,2017,9.22
+North Dakota,commercial,2018,9.12
+North Dakota,commercial,2019,9.0475
+North Dakota,commercial,2020,9.068333333333333
+North Dakota,commercial,2021,9.19
+North Dakota,commercial,2022,8.476666666666667
+North Dakota,commercial,2023,7.392500000000001
+North Dakota,commercial,2024,7.189166666666666
+North Dakota,commercial,2025,7.4125000000000005
+North Dakota,commercial,2026,7.51
+North Dakota,industrial,2001,3.983333333333333
+North Dakota,industrial,2002,3.973333333333333
+North Dakota,industrial,2003,3.9675
+North Dakota,industrial,2004,4.130833333333333
+North Dakota,industrial,2005,4.319999999999999
+North Dakota,industrial,2006,4.998333333333334
+North Dakota,industrial,2007,5.233333333333333
+North Dakota,industrial,2008,5.585833333333333
+North Dakota,industrial,2009,5.246666666666667
+North Dakota,industrial,2010,5.81
+North Dakota,industrial,2011,6.2375
+North Dakota,industrial,2012,6.549166666666667
+North Dakota,industrial,2013,7.13
+North Dakota,industrial,2014,7.610833333333333
+North Dakota,industrial,2015,8.0725
+North Dakota,industrial,2016,7.979166666666667
+North Dakota,industrial,2017,7.631666666666667
+North Dakota,industrial,2018,7.984999999999999
+North Dakota,industrial,2019,7.949166666666667
+North Dakota,industrial,2020,7.28
+North Dakota,industrial,2021,7.370833333333334
+North Dakota,industrial,2022,7.2875000000000005
+North Dakota,industrial,2023,7.375
+North Dakota,industrial,2024,7.246666666666667
+North Dakota,industrial,2025,7.508333333333333
+North Dakota,industrial,2026,7.95
+Ohio,commercial,2001,8.466666666666667
+Ohio,commercial,2002,7.815833333333334
+Ohio,commercial,2003,7.550833333333333
+Ohio,commercial,2004,7.745833333333334
+Ohio,commercial,2005,7.93
+Ohio,commercial,2006,8.435833333333333
+Ohio,commercial,2007,8.667499999999999
+Ohio,commercial,2008,9.23
+Ohio,commercial,2009,9.655833333333334
+Ohio,commercial,2010,9.735833333333334
+Ohio,commercial,2011,9.626666666666667
+Ohio,commercial,2012,9.478333333333333
+Ohio,commercial,2013,9.346666666666666
+Ohio,commercial,2014,9.825833333333334
+Ohio,commercial,2015,10.065
+Ohio,commercial,2016,9.98
+Ohio,commercial,2017,10.058333333333334
+Ohio,commercial,2018,10.114166666666668
+Ohio,commercial,2019,9.727500000000001
+Ohio,commercial,2020,9.545
+Ohio,commercial,2021,9.749166666666666
+Ohio,commercial,2022,10.383333333333333
+Ohio,commercial,2023,10.754166666666668
+Ohio,commercial,2024,10.675833333333332
+Ohio,commercial,2025,11.584166666666667
+Ohio,commercial,2026,13.12
+Ohio,industrial,2001,4.273333333333333
+Ohio,industrial,2002,4.861666666666667
+Ohio,industrial,2003,4.785
+Ohio,industrial,2004,4.889166666666667
+Ohio,industrial,2005,5.103333333333333
+Ohio,industrial,2006,5.605833333333333
+Ohio,industrial,2007,5.760833333333333
+Ohio,industrial,2008,6.198333333333333
+Ohio,industrial,2009,6.726666666666667
+Ohio,industrial,2010,6.395833333333333
+Ohio,industrial,2011,6.113333333333333
+Ohio,industrial,2012,6.245
+Ohio,industrial,2013,6.219166666666666
+Ohio,industrial,2014,6.77
+Ohio,industrial,2015,7.016666666666667
+Ohio,industrial,2016,6.9750000000000005
+Ohio,industrial,2017,6.915833333333333
+Ohio,industrial,2018,7.010833333333333
+Ohio,industrial,2019,6.55
+Ohio,industrial,2020,6.161666666666666
+Ohio,industrial,2021,6.551666666666667
+Ohio,industrial,2022,7.44
+Ohio,industrial,2023,7.033333333333334
+Ohio,industrial,2024,7.095
+Ohio,industrial,2025,8.515833333333333
+Ohio,industrial,2026,10.96
+Oklahoma,commercial,2001,6.3566666666666665
+Oklahoma,commercial,2002,5.646666666666667
+Oklahoma,commercial,2003,6.32
+Oklahoma,commercial,2004,6.48
+Oklahoma,commercial,2005,6.905833333333334
+Oklahoma,commercial,2006,7.301666666666667
+Oklahoma,commercial,2007,7.258333333333333
+Oklahoma,commercial,2008,7.779166666666668
+Oklahoma,commercial,2009,6.735833333333333
+Oklahoma,commercial,2010,7.3691666666666675
+Oklahoma,commercial,2011,7.528333333333333
+Oklahoma,commercial,2012,7.294999999999999
+Oklahoma,commercial,2013,7.7124999999999995
+Oklahoma,commercial,2014,8.054166666666665
+Oklahoma,commercial,2015,7.623333333333334
+Oklahoma,commercial,2016,7.6000000000000005
+Oklahoma,commercial,2017,8.086666666666668
+Oklahoma,commercial,2018,8.039166666666667
+Oklahoma,commercial,2019,7.936666666666667
+Oklahoma,commercial,2020,7.79
+Oklahoma,commercial,2021,8.61
+Oklahoma,commercial,2022,10.190833333333334
+Oklahoma,commercial,2023,9.259166666666667
+Oklahoma,commercial,2024,8.844166666666666
+Oklahoma,commercial,2025,9.001666666666667
+Oklahoma,commercial,2026,9.88
+Oklahoma,industrial,2001,4.305
+Oklahoma,industrial,2002,3.8325
+Oklahoma,industrial,2003,4.589166666666666
+Oklahoma,industrial,2004,4.746666666666667
+Oklahoma,industrial,2005,5.095
+Oklahoma,industrial,2006,5.454999999999999
+Oklahoma,industrial,2007,5.405
+Oklahoma,industrial,2008,5.871666666666666
+Oklahoma,industrial,2009,4.819999999999999
+Oklahoma,industrial,2010,5.325833333333334
+Oklahoma,industrial,2011,5.440833333333334
+Oklahoma,industrial,2012,5.083333333333333
+Oklahoma,industrial,2013,5.4750000000000005
+Oklahoma,industrial,2014,5.834166666666667
+Oklahoma,industrial,2015,5.3425
+Oklahoma,industrial,2016,5.005833333333333
+Oklahoma,industrial,2017,5.413333333333333
+Oklahoma,industrial,2018,5.339166666666666
+Oklahoma,industrial,2019,5.0633333333333335
+Oklahoma,industrial,2020,4.608333333333333
+Oklahoma,industrial,2021,5.513333333333333
+Oklahoma,industrial,2022,6.930833333333333
+Oklahoma,industrial,2023,6.2508333333333335
+Oklahoma,industrial,2024,5.830000000000001
+Oklahoma,industrial,2025,6.133333333333333
+Oklahoma,industrial,2026,7.09
+Oregon,commercial,2001,5.459166666666667
+Oregon,commercial,2002,6.595
+Oregon,commercial,2003,6.3808333333333325
+Oregon,commercial,2004,6.447500000000001
+Oregon,commercial,2005,6.510833333333333
+Oregon,commercial,2006,6.771666666666667
+Oregon,commercial,2007,7.2075
+Oregon,commercial,2008,7.291666666666667
+Oregon,commercial,2009,7.505
+Oregon,commercial,2010,7.589166666666666
+Oregon,commercial,2011,8.1575
+Oregon,commercial,2012,8.314166666666667
+Oregon,commercial,2013,8.6825
+Oregon,commercial,2014,8.7525
+Oregon,commercial,2015,8.806666666666667
+Oregon,commercial,2016,8.909166666666666
+Oregon,commercial,2017,8.8575
+Oregon,commercial,2018,8.900833333333333
+Oregon,commercial,2019,8.85
+Oregon,commercial,2020,9.01
+Oregon,commercial,2021,9.105
+Oregon,commercial,2022,9.355
+Oregon,commercial,2023,9.925833333333333
+Oregon,commercial,2024,10.116666666666667
+Oregon,commercial,2025,10.5625
+Oregon,commercial,2026,10.28
+Oregon,industrial,2001,4.253333333333333
+Oregon,industrial,2002,4.7299999999999995
+Oregon,industrial,2003,4.6425
+Oregon,industrial,2004,4.434166666666667
+Oregon,industrial,2005,4.84
+Oregon,industrial,2006,4.855833333333333
+Oregon,industrial,2007,5.055833333333333
+Oregon,industrial,2008,5.265
+Oregon,industrial,2009,5.403333333333333
+Oregon,industrial,2010,5.3933333333333335
+Oregon,industrial,2011,5.4624999999999995
+Oregon,industrial,2012,5.581666666666667
+Oregon,industrial,2013,5.788333333333333
+Oregon,industrial,2014,5.961666666666666
+Oregon,industrial,2015,5.954999999999999
+Oregon,industrial,2016,6.039166666666667
+Oregon,industrial,2017,5.9775
+Oregon,industrial,2018,5.864166666666667
+Oregon,industrial,2019,5.857500000000001
+Oregon,industrial,2020,5.6866666666666665
+Oregon,industrial,2021,5.968333333333334
+Oregon,industrial,2022,6.809166666666666
+Oregon,industrial,2023,7.5225
+Oregon,industrial,2024,8.048333333333334
+Oregon,industrial,2025,8.270833333333334
+Oregon,industrial,2026,8.02
+Pacific Contiguous,commercial,2001,10.169166666666667
+Pacific Contiguous,commercial,2002,11.347499999999998
+Pacific Contiguous,commercial,2003,10.654166666666667
+Pacific Contiguous,commercial,2004,10.17
+Pacific Contiguous,commercial,2005,10.375
+Pacific Contiguous,commercial,2006,11.1475
+Pacific Contiguous,commercial,2007,11.120833333333332
+Pacific Contiguous,commercial,2008,10.979999999999999
+Pacific Contiguous,commercial,2009,11.513333333333334
+Pacific Contiguous,commercial,2010,11.51
+Pacific Contiguous,commercial,2011,11.555833333333334
+Pacific Contiguous,commercial,2012,11.848333333333334
+Pacific Contiguous,commercial,2013,12.4275
+Pacific Contiguous,commercial,2014,13.5075
+Pacific Contiguous,commercial,2015,13.6275
+Pacific Contiguous,commercial,2016,13.216666666666667
+Pacific Contiguous,commercial,2017,13.6875
+Pacific Contiguous,commercial,2018,14.118333333333332
+Pacific Contiguous,commercial,2019,14.361666666666666
+Pacific Contiguous,commercial,2020,15.009166666666667
+Pacific Contiguous,commercial,2021,16.103333333333335
+Pacific Contiguous,commercial,2022,18.110833333333336
+Pacific Contiguous,commercial,2023,19.295833333333334
+Pacific Contiguous,commercial,2024,20.239166666666666
+Pacific Contiguous,commercial,2025,20.925
+Pacific Contiguous,commercial,2026,18.49
+Pacific Contiguous,industrial,2001,7.749166666666667
+Pacific Contiguous,industrial,2002,7.956666666666667
+Pacific Contiguous,industrial,2003,7.743333333333333
+Pacific Contiguous,industrial,2004,7.3325
+Pacific Contiguous,industrial,2005,7.448333333333333
+Pacific Contiguous,industrial,2006,7.833333333333333
+Pacific Contiguous,industrial,2007,7.86
+Pacific Contiguous,industrial,2008,7.941666666666666
+Pacific Contiguous,industrial,2009,7.9775
+Pacific Contiguous,industrial,2010,7.440833333333334
+Pacific Contiguous,industrial,2011,7.5874999999999995
+Pacific Contiguous,industrial,2012,7.7525
+Pacific Contiguous,industrial,2013,8.544166666666667
+Pacific Contiguous,industrial,2014,8.993333333333334
+Pacific Contiguous,industrial,2015,8.960833333333333
+Pacific Contiguous,industrial,2016,8.853333333333333
+Pacific Contiguous,industrial,2017,9.275833333333333
+Pacific Contiguous,industrial,2018,9.544166666666667
+Pacific Contiguous,industrial,2019,9.5925
+Pacific Contiguous,industrial,2020,10.2225
+Pacific Contiguous,industrial,2021,10.701666666666666
+Pacific Contiguous,industrial,2022,12.118333333333332
+Pacific Contiguous,industrial,2023,13.274166666666666
+Pacific Contiguous,industrial,2024,15.207500000000001
+Pacific Contiguous,industrial,2025,15.108333333333334
+Pacific Contiguous,industrial,2026,13.42
+Pacific Noncontiguous,commercial,2001,12.901666666666666
+Pacific Noncontiguous,commercial,2002,12.451666666666666
+Pacific Noncontiguous,commercial,2003,13.15
+Pacific Noncontiguous,commercial,2004,14.010833333333332
+Pacific Noncontiguous,commercial,2005,15.731666666666667
+Pacific Noncontiguous,commercial,2006,17.1775
+Pacific Noncontiguous,commercial,2007,17.5625
+Pacific Noncontiguous,commercial,2008,22.493333333333336
+Pacific Noncontiguous,commercial,2009,18.459166666666665
+Pacific Noncontiguous,commercial,2010,20.43916666666667
+Pacific Noncontiguous,commercial,2011,24.464166666666667
+Pacific Noncontiguous,commercial,2012,25.514166666666668
+Pacific Noncontiguous,commercial,2013,25.4875
+Pacific Noncontiguous,commercial,2014,26.286666666666665
+Pacific Noncontiguous,commercial,2015,22.513333333333335
+Pacific Noncontiguous,commercial,2016,21.323333333333334
+Pacific Noncontiguous,commercial,2017,23.0925
+Pacific Noncontiguous,commercial,2018,24.61916666666667
+Pacific Noncontiguous,commercial,2019,24.864166666666666
+Pacific Noncontiguous,commercial,2020,24.1375
+Pacific Noncontiguous,commercial,2021,25.459999999999997
+Pacific Noncontiguous,commercial,2022,30.575833333333335
+Pacific Noncontiguous,commercial,2023,30.2825
+Pacific Noncontiguous,commercial,2024,30.2375
+Pacific Noncontiguous,commercial,2025,29.5575
+Pacific Noncontiguous,commercial,2026,29.03
+Pacific Noncontiguous,industrial,2001,10.774166666666666
+Pacific Noncontiguous,industrial,2002,10.254166666666666
+Pacific Noncontiguous,industrial,2003,11.235
+Pacific Noncontiguous,industrial,2004,12.228333333333333
+Pacific Noncontiguous,industrial,2005,14.265
+Pacific Noncontiguous,industrial,2006,16.385
+Pacific Noncontiguous,industrial,2007,16.825
+Pacific Noncontiguous,industrial,2008,22.89833333333333
+Pacific Noncontiguous,industrial,2009,16.788333333333334
+Pacific Noncontiguous,industrial,2010,19.874166666666667
+Pacific Noncontiguous,industrial,2011,24.9875
+Pacific Noncontiguous,industrial,2012,26.993333333333336
+Pacific Noncontiguous,industrial,2013,26.088333333333335
+Pacific Noncontiguous,industrial,2014,26.28333333333333
+Pacific Noncontiguous,industrial,2015,20.781666666666666
+Pacific Noncontiguous,industrial,2016,19.191666666666666
+Pacific Noncontiguous,industrial,2017,21.073333333333334
+Pacific Noncontiguous,industrial,2018,23.624166666666667
+Pacific Noncontiguous,industrial,2019,23.521666666666665
+Pacific Noncontiguous,industrial,2020,22.014166666666668
+Pacific Noncontiguous,industrial,2021,24.166666666666668
+Pacific Noncontiguous,industrial,2022,31.424166666666665
+Pacific Noncontiguous,industrial,2023,30.608333333333334
+Pacific Noncontiguous,industrial,2024,29.965833333333332
+Pacific Noncontiguous,industrial,2025,28.245833333333334
+Pacific Noncontiguous,industrial,2026,28.92
+Pennsylvania,commercial,2001,8.623333333333333
+Pennsylvania,commercial,2002,8.495
+Pennsylvania,commercial,2003,8.614166666666668
+Pennsylvania,commercial,2004,8.508333333333333
+Pennsylvania,commercial,2005,8.498333333333333
+Pennsylvania,commercial,2006,8.943333333333333
+Pennsylvania,commercial,2007,9.200833333333334
+Pennsylvania,commercial,2008,9.383333333333333
+Pennsylvania,commercial,2009,9.548333333333334
+Pennsylvania,commercial,2010,10.098333333333334
+Pennsylvania,commercial,2011,10.022499999999999
+Pennsylvania,commercial,2012,9.440833333333332
+Pennsylvania,commercial,2013,9.251666666666667
+Pennsylvania,commercial,2014,9.715
+Pennsylvania,commercial,2015,9.6
+Pennsylvania,commercial,2016,9.227500000000001
+Pennsylvania,commercial,2017,8.980833333333335
+Pennsylvania,commercial,2018,8.944166666666666
+Pennsylvania,commercial,2019,8.7175
+Pennsylvania,commercial,2020,8.514166666666666
+Pennsylvania,commercial,2021,8.910833333333333
+Pennsylvania,commercial,2022,10.7325
+Pennsylvania,commercial,2023,11.2675
+Pennsylvania,commercial,2024,11.036666666666667
+Pennsylvania,commercial,2025,12.435833333333333
+Pennsylvania,commercial,2026,14.21
+Pennsylvania,industrial,2001,5.767499999999999
+Pennsylvania,industrial,2002,5.8374999999999995
+Pennsylvania,industrial,2003,5.8066666666666675
+Pennsylvania,industrial,2004,5.875
+Pennsylvania,industrial,2005,6.2925
+Pennsylvania,industrial,2006,6.634166666666666
+Pennsylvania,industrial,2007,6.868333333333333
+Pennsylvania,industrial,2008,7.029166666666666
+Pennsylvania,industrial,2009,7.221666666666667
+Pennsylvania,industrial,2010,7.656666666666666
+Pennsylvania,industrial,2011,7.725833333333333
+Pennsylvania,industrial,2012,7.226666666666667
+Pennsylvania,industrial,2013,6.965
+Pennsylvania,industrial,2014,7.4125000000000005
+Pennsylvania,industrial,2015,7.1925
+Pennsylvania,industrial,2016,6.920833333333333
+Pennsylvania,industrial,2017,6.771666666666667
+Pennsylvania,industrial,2018,6.8425
+Pennsylvania,industrial,2019,6.410833333333334
+Pennsylvania,industrial,2020,6.160833333333333
+Pennsylvania,industrial,2021,6.534166666666667
+Pennsylvania,industrial,2022,8.185
+Pennsylvania,industrial,2023,7.753333333333334
+Pennsylvania,industrial,2024,7.8675
+Pennsylvania,industrial,2025,9.355
+Pennsylvania,industrial,2026,13.15
+Rhode Island,commercial,2001,11.553333333333333
+Rhode Island,commercial,2002,8.664166666666667
+Rhode Island,commercial,2003,10.040000000000001
+Rhode Island,commercial,2004,10.525
+Rhode Island,commercial,2005,11.695833333333333
+Rhode Island,commercial,2006,13.4975
+Rhode Island,commercial,2007,12.6875
+Rhode Island,commercial,2008,15.384166666666667
+Rhode Island,commercial,2009,13.716666666666667
+Rhode Island,commercial,2010,13.116666666666667
+Rhode Island,commercial,2011,12.364166666666668
+Rhode Island,commercial,2012,11.886666666666665
+Rhode Island,commercial,2013,12.975833333333334
+Rhode Island,commercial,2014,14.640833333333333
+Rhode Island,commercial,2015,15.833333333333334
+Rhode Island,commercial,2016,14.898333333333333
+Rhode Island,commercial,2017,15.205833333333333
+Rhode Island,commercial,2018,16.609166666666667
+Rhode Island,commercial,2019,16.44
+Rhode Island,commercial,2020,15.957500000000001
+Rhode Island,commercial,2021,15.532499999999999
+Rhode Island,commercial,2022,16.285833333333333
+Rhode Island,commercial,2023,17.713333333333335
+Rhode Island,commercial,2024,21.355
+Rhode Island,commercial,2025,23.646666666666665
+Rhode Island,commercial,2026,24.84
+Rhode Island,industrial,2001,9.360833333333334
+Rhode Island,industrial,2002,7.974166666666666
+Rhode Island,industrial,2003,8.862499999999999
+Rhode Island,industrial,2004,9.3725
+Rhode Island,industrial,2005,9.995833333333334
+Rhode Island,industrial,2006,12.509166666666665
+Rhode Island,industrial,2007,12.045833333333334
+Rhode Island,industrial,2008,14.270000000000001
+Rhode Island,industrial,2009,12.316666666666668
+Rhode Island,industrial,2010,11.836666666666666
+Rhode Island,industrial,2011,11.2725
+Rhode Island,industrial,2012,10.673333333333334
+Rhode Island,industrial,2013,11.849166666666667
+Rhode Island,industrial,2014,12.864166666666668
+Rhode Island,industrial,2015,13.778333333333334
+Rhode Island,industrial,2016,13.485833333333334
+Rhode Island,industrial,2017,14.571666666666667
+Rhode Island,industrial,2018,15.423333333333332
+Rhode Island,industrial,2019,15.659999999999998
+Rhode Island,industrial,2020,15.770833333333334
+Rhode Island,industrial,2021,16.07166666666667
+Rhode Island,industrial,2022,17.974166666666665
+Rhode Island,industrial,2023,18.99416666666667
+Rhode Island,industrial,2024,19.68166666666667
+Rhode Island,industrial,2025,21.881666666666664
+Rhode Island,industrial,2026,25.66
+South Carolina,commercial,2001,6.464166666666666
+South Carolina,commercial,2002,6.482499999999999
+South Carolina,commercial,2003,6.805
+South Carolina,commercial,2004,6.906666666666666
+South Carolina,commercial,2005,7.38
+South Carolina,commercial,2006,7.588333333333334
+South Carolina,commercial,2007,7.7316666666666665
+South Carolina,commercial,2008,8.395833333333334
+South Carolina,commercial,2009,8.736666666666666
+South Carolina,commercial,2010,8.875833333333334
+South Carolina,commercial,2011,9.279166666666667
+South Carolina,commercial,2012,9.615833333333333
+South Carolina,commercial,2013,9.865
+South Carolina,commercial,2014,10.274166666666668
+South Carolina,commercial,2015,10.200000000000001
+South Carolina,commercial,2016,10.2525
+South Carolina,commercial,2017,10.565833333333332
+South Carolina,commercial,2018,10.150833333333333
+South Carolina,commercial,2019,10.598333333333334
+South Carolina,commercial,2020,10.354166666666666
+South Carolina,commercial,2021,10.690833333333332
+South Carolina,commercial,2022,10.8225
+South Carolina,commercial,2023,10.405833333333334
+South Carolina,commercial,2024,10.639166666666666
+South Carolina,commercial,2025,11.0525
+South Carolina,commercial,2026,12.38
+South Carolina,industrial,2001,3.86
+South Carolina,industrial,2002,3.8425
+South Carolina,industrial,2003,3.9941666666666666
+South Carolina,industrial,2004,4.115
+South Carolina,industrial,2005,4.54
+South Carolina,industrial,2006,4.706666666666667
+South Carolina,industrial,2007,4.824166666666667
+South Carolina,industrial,2008,5.37
+South Carolina,industrial,2009,5.786666666666666
+South Carolina,industrial,2010,5.732500000000001
+South Carolina,industrial,2011,5.930833333333333
+South Carolina,industrial,2012,6.015833333333333
+South Carolina,industrial,2013,6.005
+South Carolina,industrial,2014,6.284166666666667
+South Carolina,industrial,2015,6.040833333333333
+South Carolina,industrial,2016,6.0825
+South Carolina,industrial,2017,6.18
+South Carolina,industrial,2018,6.118333333333333
+South Carolina,industrial,2019,6.110833333333333
+South Carolina,industrial,2020,5.978333333333333
+South Carolina,industrial,2021,6.0575
+South Carolina,industrial,2022,7.124166666666667
+South Carolina,industrial,2023,6.6691666666666665
+South Carolina,industrial,2024,6.8374999999999995
+South Carolina,industrial,2025,7.108333333333333
+South Carolina,industrial,2026,9.03
+South Dakota,commercial,2001,6.538333333333333
+South Dakota,commercial,2002,6.23
+South Dakota,commercial,2003,6.0275
+South Dakota,commercial,2004,6.18
+South Dakota,commercial,2005,6.2025
+South Dakota,commercial,2006,6.458333333333333
+South Dakota,commercial,2007,6.604166666666667
+South Dakota,commercial,2008,6.969166666666666
+South Dakota,commercial,2009,7.1433333333333335
+South Dakota,commercial,2010,7.553333333333334
+South Dakota,commercial,2011,7.7558333333333325
+South Dakota,commercial,2012,8.09
+South Dakota,commercial,2013,8.509166666666667
+South Dakota,commercial,2014,8.893333333333333
+South Dakota,commercial,2015,9.15
+South Dakota,commercial,2016,9.5825
+South Dakota,commercial,2017,9.739166666666668
+South Dakota,commercial,2018,9.616666666666667
+South Dakota,commercial,2019,9.593333333333334
+South Dakota,commercial,2020,9.645
+South Dakota,commercial,2021,10.139166666666666
+South Dakota,commercial,2022,10.201666666666666
+South Dakota,commercial,2023,10.153333333333334
+South Dakota,commercial,2024,10.544166666666667
+South Dakota,commercial,2025,10.889166666666666
+South Dakota,commercial,2026,11.79
+South Dakota,industrial,2001,4.448333333333333
+South Dakota,industrial,2002,4.534166666666667
+South Dakota,industrial,2003,4.506666666666667
+South Dakota,industrial,2004,4.581666666666666
+South Dakota,industrial,2005,4.935833333333334
+South Dakota,industrial,2006,4.8308333333333335
+South Dakota,industrial,2007,5.081666666666667
+South Dakota,industrial,2008,5.299166666666667
+South Dakota,industrial,2009,5.648333333333333
+South Dakota,industrial,2010,6.06
+South Dakota,industrial,2011,6.1933333333333325
+South Dakota,industrial,2012,6.565
+South Dakota,industrial,2013,6.958333333333333
+South Dakota,industrial,2014,6.98
+South Dakota,industrial,2015,7.355833333333333
+South Dakota,industrial,2016,7.5625
+South Dakota,industrial,2017,7.8325
+South Dakota,industrial,2018,7.759166666666666
+South Dakota,industrial,2019,7.799166666666667
+South Dakota,industrial,2020,7.785
+South Dakota,industrial,2021,8.021666666666667
+South Dakota,industrial,2022,8.035
+South Dakota,industrial,2023,8.0
+South Dakota,industrial,2024,8.273333333333333
+South Dakota,industrial,2025,8.669166666666667
+South Dakota,industrial,2026,9.6
+Tennessee,commercial,2001,6.321666666666666
+Tennessee,commercial,2002,6.4624999999999995
+Tennessee,commercial,2003,6.698333333333333
+Tennessee,commercial,2004,7.06
+Tennessee,commercial,2005,7.1883333333333335
+Tennessee,commercial,2006,7.991666666666666
+Tennessee,commercial,2007,8.100833333333332
+Tennessee,commercial,2008,9.241666666666667
+Tennessee,commercial,2009,9.610833333333334
+Tennessee,commercial,2010,9.647499999999999
+Tennessee,commercial,2011,10.256666666666666
+Tennessee,commercial,2012,10.303333333333333
+Tennessee,commercial,2013,9.985000000000001
+Tennessee,commercial,2014,10.375833333333333
+Tennessee,commercial,2015,10.146666666666667
+Tennessee,commercial,2016,10.171666666666667
+Tennessee,commercial,2017,10.544166666666667
+Tennessee,commercial,2018,10.5175
+Tennessee,commercial,2019,10.6525
+Tennessee,commercial,2020,10.564166666666667
+Tennessee,commercial,2021,10.864166666666668
+Tennessee,commercial,2022,11.955
+Tennessee,commercial,2023,11.7975
+Tennessee,commercial,2024,12.059166666666668
+Tennessee,commercial,2025,12.870833333333332
+Tennessee,commercial,2026,12.97
+Tennessee,industrial,2001,4.045
+Tennessee,industrial,2002,4.155
+Tennessee,industrial,2003,4.286666666666666
+Tennessee,industrial,2004,4.453333333333333
+Tennessee,industrial,2005,4.726666666666667
+Tennessee,industrial,2006,5.155833333333333
+Tennessee,industrial,2007,5.191666666666666
+Tennessee,industrial,2008,6.2941666666666665
+Tennessee,industrial,2009,6.774166666666666
+Tennessee,industrial,2010,6.5633333333333335
+Tennessee,industrial,2011,7.214166666666666
+Tennessee,industrial,2012,7.064166666666666
+Tennessee,industrial,2013,6.2875000000000005
+Tennessee,industrial,2014,6.384166666666666
+Tennessee,industrial,2015,6.159166666666667
+Tennessee,industrial,2016,5.670833333333333
+Tennessee,industrial,2017,5.829166666666667
+Tennessee,industrial,2018,5.683333333333334
+Tennessee,industrial,2019,5.677499999999999
+Tennessee,industrial,2020,5.3308333333333335
+Tennessee,industrial,2021,5.503333333333334
+Tennessee,industrial,2022,6.534166666666667
+Tennessee,industrial,2023,6.229166666666667
+Tennessee,industrial,2024,6.2058333333333335
+Tennessee,industrial,2025,6.739166666666667
+Tennessee,industrial,2026,6.5
+Texas,commercial,2001,7.739999999999999
+Texas,commercial,2002,6.9775
+Texas,commercial,2003,7.802499999999999
+Texas,commercial,2004,7.864999999999999
+Texas,commercial,2005,8.798333333333334
+Texas,commercial,2006,9.836666666666666
+Texas,commercial,2007,9.862499999999999
+Texas,commercial,2008,10.689166666666667
+Texas,commercial,2009,9.675833333333333
+Texas,commercial,2010,9.1975
+Texas,commercial,2011,8.8075
+Texas,commercial,2012,8.164166666666667
+Texas,commercial,2013,8.02
+Texas,commercial,2014,8.163333333333332
+Texas,commercial,2015,8.158333333333333
+Texas,commercial,2016,8.262500000000001
+Texas,commercial,2017,8.263333333333334
+Texas,commercial,2018,8.169166666666667
+Texas,commercial,2019,8.049999999999999
+Texas,commercial,2020,7.605
+Texas,commercial,2021,8.881666666666666
+Texas,commercial,2022,8.979999999999999
+Texas,commercial,2023,8.790000000000001
+Texas,commercial,2024,8.536666666666667
+Texas,commercial,2025,8.639166666666666
+Texas,commercial,2026,8.64
+Texas,industrial,2001,5.259166666666666
+Texas,industrial,2002,4.644166666666666
+Texas,industrial,2003,5.266666666666667
+Texas,industrial,2004,5.863333333333333
+Texas,industrial,2005,7.145
+Texas,industrial,2006,7.818333333333334
+Texas,industrial,2007,7.7925
+Texas,industrial,2008,8.753333333333334
+Texas,industrial,2009,6.7508333333333335
+Texas,industrial,2010,6.4366666666666665
+Texas,industrial,2011,6.220833333333334
+Texas,industrial,2012,5.565833333333334
+Texas,industrial,2013,5.794999999999999
+Texas,industrial,2014,6.163333333333334
+Texas,industrial,2015,5.595833333333334
+Texas,industrial,2016,5.324166666666667
+Texas,industrial,2017,5.3525
+Texas,industrial,2018,5.38
+Texas,industrial,2019,5.427499999999999
+Texas,industrial,2020,5.069166666666667
+Texas,industrial,2021,6.269166666666667
+Texas,industrial,2022,7.0975
+Texas,industrial,2023,6.552499999999999
+Texas,industrial,2024,6.114166666666667
+Texas,industrial,2025,6.546666666666667
+Texas,industrial,2026,7.25
+Utah,commercial,2001,5.571666666666666
+Utah,commercial,2002,5.605833333333333
+Utah,commercial,2003,5.604166666666667
+Utah,commercial,2004,5.878333333333334
+Utah,commercial,2005,6.055
+Utah,commercial,2006,6.129166666666666
+Utah,commercial,2007,6.511666666666667
+Utah,commercial,2008,6.641666666666667
+Utah,commercial,2009,6.930833333333333
+Utah,commercial,2010,7.121666666666666
+Utah,commercial,2011,7.338333333333334
+Utah,commercial,2012,8.028333333333334
+Utah,commercial,2013,8.295
+Utah,commercial,2014,8.51
+Utah,commercial,2015,8.591666666666667
+Utah,commercial,2016,8.730833333333333
+Utah,commercial,2017,8.612499999999999
+Utah,commercial,2018,8.213333333333333
+Utah,commercial,2019,8.236666666666666
+Utah,commercial,2020,8.258333333333333
+Utah,commercial,2021,8.108333333333333
+Utah,commercial,2022,8.368333333333334
+Utah,commercial,2023,8.498333333333333
+Utah,commercial,2024,9.351666666666667
+Utah,commercial,2025,10.006666666666666
+Utah,commercial,2026,9.64
+Utah,industrial,2001,3.5425
+Utah,industrial,2002,3.8383333333333334
+Utah,industrial,2003,3.8008333333333333
+Utah,industrial,2004,4.016666666666667
+Utah,industrial,2005,4.245833333333334
+Utah,industrial,2006,4.22
+Utah,industrial,2007,4.53
+Utah,industrial,2008,4.590833333333333
+Utah,industrial,2009,4.815
+Utah,industrial,2010,4.929166666666666
+Utah,industrial,2011,5.096666666666667
+Utah,industrial,2012,5.614166666666667
+Utah,industrial,2013,5.859166666666667
+Utah,industrial,2014,6.0675
+Utah,industrial,2015,6.172499999999999
+Utah,industrial,2016,6.319166666666667
+Utah,industrial,2017,6.114166666666667
+Utah,industrial,2018,5.88
+Utah,industrial,2019,5.968333333333334
+Utah,industrial,2020,5.891666666666667
+Utah,industrial,2021,6.1691666666666665
+Utah,industrial,2022,6.8374999999999995
+Utah,industrial,2023,6.976666666666667
+Utah,industrial,2024,7.845
+Utah,industrial,2025,8.420833333333333
+Utah,industrial,2026,8.35
+Vermont,commercial,2001,11.280833333333334
+Vermont,commercial,2002,11.098333333333334
+Vermont,commercial,2003,11.291666666666666
+Vermont,commercial,2004,11.416666666666666
+Vermont,commercial,2005,11.3375
+Vermont,commercial,2006,11.674166666666666
+Vermont,commercial,2007,12.295833333333334
+Vermont,commercial,2008,12.495833333333332
+Vermont,commercial,2009,12.9375
+Vermont,commercial,2010,13.44
+Vermont,commercial,2011,14.001666666666667
+Vermont,commercial,2012,14.316666666666668
+Vermont,commercial,2013,14.666666666666666
+Vermont,commercial,2014,14.566666666666668
+Vermont,commercial,2015,14.548333333333334
+Vermont,commercial,2016,14.549166666666666
+Vermont,commercial,2017,14.6175
+Vermont,commercial,2018,15.243333333333332
+Vermont,commercial,2019,15.995
+Vermont,commercial,2020,16.4075
+Vermont,commercial,2021,16.599999999999998
+Vermont,commercial,2022,17.298333333333332
+Vermont,commercial,2023,18.0075
+Vermont,commercial,2024,18.915833333333335
+Vermont,commercial,2025,19.944166666666668
+Vermont,commercial,2026,20.64
+Vermont,industrial,2001,7.886666666666667
+Vermont,industrial,2002,7.8950000000000005
+Vermont,industrial,2003,8.0475
+Vermont,industrial,2004,7.960833333333333
+Vermont,industrial,2005,7.774166666666667
+Vermont,industrial,2006,8.330833333333333
+Vermont,industrial,2007,8.920833333333333
+Vermont,industrial,2008,9.193333333333333
+Vermont,industrial,2009,9.205833333333333
+Vermont,industrial,2010,9.530833333333334
+Vermont,industrial,2011,9.828333333333333
+Vermont,industrial,2012,9.973333333333333
+Vermont,industrial,2013,10.838333333333333
+Vermont,industrial,2014,10.231666666666667
+Vermont,industrial,2015,10.27
+Vermont,industrial,2016,10.226666666666667
+Vermont,industrial,2017,10.213333333333333
+Vermont,industrial,2018,10.6525
+Vermont,industrial,2019,11.045833333333334
+Vermont,industrial,2020,11.1975
+Vermont,industrial,2021,11.375
+Vermont,industrial,2022,11.88
+Vermont,industrial,2023,11.258333333333333
+Vermont,industrial,2024,11.579166666666666
+Vermont,industrial,2025,12.380833333333333
+Vermont,industrial,2026,12.57
+Virginia,commercial,2001,5.8475
+Virginia,commercial,2002,5.864999999999999
+Virginia,commercial,2003,5.740833333333334
+Virginia,commercial,2004,5.876666666666666
+Virginia,commercial,2005,6.050833333333333
+Virginia,commercial,2006,6.209166666666667
+Virginia,commercial,2007,6.37
+Virginia,commercial,2008,7.304166666666667
+Virginia,commercial,2009,8.063333333333333
+Virginia,commercial,2010,7.655
+Virginia,commercial,2011,7.944166666666667
+Virginia,commercial,2012,8.084166666666667
+Virginia,commercial,2013,7.996666666666667
+Virginia,commercial,2014,8.145833333333334
+Virginia,commercial,2015,8.209999999999999
+Virginia,commercial,2016,7.94
+Virginia,commercial,2017,8.006666666666666
+Virginia,commercial,2018,8.315
+Virginia,commercial,2019,8.188333333333334
+Virginia,commercial,2020,7.641666666666667
+Virginia,commercial,2021,7.7749999999999995
+Virginia,commercial,2022,9.618333333333334
+Virginia,commercial,2023,8.97
+Virginia,commercial,2024,8.735
+Virginia,commercial,2025,9.544166666666667
+Virginia,commercial,2026,11.43
+Virginia,industrial,2001,4.159166666666667
+Virginia,industrial,2002,4.135833333333333
+Virginia,industrial,2003,4.2299999999999995
+Virginia,industrial,2004,4.2716666666666665
+Virginia,industrial,2005,4.4575000000000005
+Virginia,industrial,2006,4.6883333333333335
+Virginia,industrial,2007,5.065
+Virginia,industrial,2008,5.827500000000001
+Virginia,industrial,2009,6.9175
+Virginia,industrial,2010,6.665833333333333
+Virginia,industrial,2011,6.490833333333334
+Virginia,industrial,2012,6.714166666666667
+Virginia,industrial,2013,6.6241666666666665
+Virginia,industrial,2014,6.885833333333333
+Virginia,industrial,2015,6.9558333333333335
+Virginia,industrial,2016,6.553333333333334
+Virginia,industrial,2017,6.508333333333333
+Virginia,industrial,2018,6.859166666666667
+Virginia,industrial,2019,6.855
+Virginia,industrial,2020,6.28
+Virginia,industrial,2021,6.5075
+Virginia,industrial,2022,7.9816666666666665
+Virginia,industrial,2023,8.914166666666667
+Virginia,industrial,2024,8.993333333333334
+Virginia,industrial,2025,9.449166666666667
+Virginia,industrial,2026,10.59
+Washington,commercial,2001,5.449166666666667
+Washington,commercial,2002,6.108333333333333
+Washington,commercial,2003,6.065833333333334
+Washington,commercial,2004,6.170000000000001
+Washington,commercial,2005,6.324166666666667
+Washington,commercial,2006,6.633333333333333
+Washington,commercial,2007,6.549166666666667
+Washington,commercial,2008,6.7725
+Washington,commercial,2009,6.973333333333334
+Washington,commercial,2010,7.368333333333333
+Washington,commercial,2011,7.489999999999999
+Washington,commercial,2012,7.674166666666667
+Washington,commercial,2013,7.778333333333333
+Washington,commercial,2014,7.968333333333333
+Washington,commercial,2015,8.2175
+Washington,commercial,2016,8.429166666666667
+Washington,commercial,2017,8.569166666666666
+Washington,commercial,2018,8.716666666666667
+Washington,commercial,2019,8.750833333333333
+Washington,commercial,2020,8.926666666666668
+Washington,commercial,2021,9.143333333333333
+Washington,commercial,2022,9.495
+Washington,commercial,2023,9.915833333333333
+Washington,commercial,2024,10.018333333333333
+Washington,commercial,2025,10.959166666666667
+Washington,commercial,2026,11.64
+Washington,industrial,2001,4.8525
+Washington,industrial,2002,4.8966666666666665
+Washington,industrial,2003,4.7749999999999995
+Washington,industrial,2004,4.281666666666667
+Washington,industrial,2005,4.266666666666667
+Washington,industrial,2006,4.515833333333333
+Washington,industrial,2007,4.568333333333333
+Washington,industrial,2008,4.523333333333333
+Washington,industrial,2009,4.401666666666666
+Washington,industrial,2010,4.075833333333333
+Washington,industrial,2011,4.093333333333333
+Washington,industrial,2012,4.13
+Washington,industrial,2013,4.2299999999999995
+Washington,industrial,2014,4.325833333333333
+Washington,industrial,2015,4.350833333333333
+Washington,industrial,2016,4.431666666666667
+Washington,industrial,2017,4.600833333333333
+Washington,industrial,2018,4.711666666666667
+Washington,industrial,2019,4.806666666666667
+Washington,industrial,2020,5.1025
+Washington,industrial,2021,5.803333333333334
+Washington,industrial,2022,6.170833333333333
+Washington,industrial,2023,6.345833333333334
+Washington,industrial,2024,6.607500000000001
+Washington,industrial,2025,6.88
+Washington,industrial,2026,7.05
+West Virginia,commercial,2001,5.445
+West Virginia,commercial,2002,5.415
+West Virginia,commercial,2003,5.458333333333333
+West Virginia,commercial,2004,5.465833333333333
+West Virginia,commercial,2005,5.538333333333334
+West Virginia,commercial,2006,5.599166666666666
+West Virginia,commercial,2007,5.846666666666667
+West Virginia,commercial,2008,6.079999999999999
+West Virginia,commercial,2009,6.783333333333334
+West Virginia,commercial,2010,7.670833333333333
+West Virginia,commercial,2011,8.149166666666668
+West Virginia,commercial,2012,8.431666666666667
+West Virginia,commercial,2013,8.176666666666668
+West Virginia,commercial,2014,8.005
+West Virginia,commercial,2015,8.633333333333333
+West Virginia,commercial,2016,9.366666666666667
+West Virginia,commercial,2017,9.588333333333333
+West Virginia,commercial,2018,9.2575
+West Virginia,commercial,2019,9.189166666666667
+West Virginia,commercial,2020,9.4375
+West Virginia,commercial,2021,9.514166666666666
+West Virginia,commercial,2022,10.436666666666666
+West Virginia,commercial,2023,11.049166666666666
+West Virginia,commercial,2024,11.645000000000001
+West Virginia,commercial,2025,11.775
+West Virginia,commercial,2026,11.6
+West Virginia,industrial,2001,3.7383333333333333
+West Virginia,industrial,2002,3.8066666666666666
+West Virginia,industrial,2003,3.8191666666666664
+West Virginia,industrial,2004,3.829166666666666
+West Virginia,industrial,2005,3.8516666666666666
+West Virginia,industrial,2006,3.7083333333333335
+West Virginia,industrial,2007,3.955
+West Virginia,industrial,2008,4.204166666666667
+West Virginia,industrial,2009,5.255
+West Virginia,industrial,2010,5.859166666666667
+West Virginia,industrial,2011,6.18
+West Virginia,industrial,2012,6.328333333333333
+West Virginia,industrial,2013,6.203333333333333
+West Virginia,industrial,2014,5.8758333333333335
+West Virginia,industrial,2015,6.094166666666666
+West Virginia,industrial,2016,6.5675
+West Virginia,industrial,2017,6.648333333333333
+West Virginia,industrial,2018,6.400833333333334
+West Virginia,industrial,2019,6.0275
+West Virginia,industrial,2020,6.101666666666667
+West Virginia,industrial,2021,6.071666666666666
+West Virginia,industrial,2022,6.738333333333333
+West Virginia,industrial,2023,7.240833333333334
+West Virginia,industrial,2024,7.810833333333334
+West Virginia,industrial,2025,8.112499999999999
+West Virginia,industrial,2026,8.43
+Wisconsin,commercial,2001,6.340833333333333
+Wisconsin,commercial,2002,6.541666666666667
+Wisconsin,commercial,2003,6.965
+Wisconsin,commercial,2004,7.239999999999999
+Wisconsin,commercial,2005,7.6525
+Wisconsin,commercial,2006,8.360833333333334
+Wisconsin,commercial,2007,8.7025
+Wisconsin,commercial,2008,9.268333333333333
+Wisconsin,commercial,2009,9.56
+Wisconsin,commercial,2010,9.974166666666667
+Wisconsin,commercial,2011,10.415833333333333
+Wisconsin,commercial,2012,10.5
+Wisconsin,commercial,2013,10.736666666666666
+Wisconsin,commercial,2014,10.765833333333333
+Wisconsin,commercial,2015,10.884166666666667
+Wisconsin,commercial,2016,10.76
+Wisconsin,commercial,2017,10.871666666666668
+Wisconsin,commercial,2018,10.671666666666667
+Wisconsin,commercial,2019,10.720833333333333
+Wisconsin,commercial,2020,10.7525
+Wisconsin,commercial,2021,10.9425
+Wisconsin,commercial,2022,11.836666666666666
+Wisconsin,commercial,2023,12.75
+Wisconsin,commercial,2024,12.618333333333332
+Wisconsin,commercial,2025,13.050833333333332
+Wisconsin,commercial,2026,13.1
+Wisconsin,industrial,2001,4.361666666666666
+Wisconsin,industrial,2002,4.428333333333334
+Wisconsin,industrial,2003,4.706666666666667
+Wisconsin,industrial,2004,4.925
+Wisconsin,industrial,2005,5.379166666666666
+Wisconsin,industrial,2006,5.8475
+Wisconsin,industrial,2007,6.155
+Wisconsin,industrial,2008,6.503333333333334
+Wisconsin,industrial,2009,6.729166666666667
+Wisconsin,industrial,2010,6.8374999999999995
+Wisconsin,industrial,2011,7.319166666666667
+Wisconsin,industrial,2012,7.335833333333333
+Wisconsin,industrial,2013,7.390000000000001
+Wisconsin,industrial,2014,7.513333333333333
+Wisconsin,industrial,2015,7.565833333333334
+Wisconsin,industrial,2016,7.482500000000001
+Wisconsin,industrial,2017,7.484999999999999
+Wisconsin,industrial,2018,7.325
+Wisconsin,industrial,2019,7.306666666666666
+Wisconsin,industrial,2020,7.275833333333334
+Wisconsin,industrial,2021,7.614166666666667
+Wisconsin,industrial,2022,8.4675
+Wisconsin,industrial,2023,8.659166666666666
+Wisconsin,industrial,2024,8.5175
+Wisconsin,industrial,2025,8.900833333333333
+Wisconsin,industrial,2026,9.46
+Wyoming,commercial,2001,5.435833333333334
+Wyoming,commercial,2002,5.704999999999999
+Wyoming,commercial,2003,5.743333333333333
+Wyoming,commercial,2004,5.991666666666667
+Wyoming,commercial,2005,6.176666666666667
+Wyoming,commercial,2006,6.276666666666666
+Wyoming,commercial,2007,6.25
+Wyoming,commercial,2008,6.716666666666666
+Wyoming,commercial,2009,7.290833333333333
+Wyoming,commercial,2010,7.4191666666666665
+Wyoming,commercial,2011,7.721666666666667
+Wyoming,commercial,2012,8.248333333333333
+Wyoming,commercial,2013,8.583333333333334
+Wyoming,commercial,2014,8.890833333333333
+Wyoming,commercial,2015,9.130833333333333
+Wyoming,commercial,2016,9.413333333333332
+Wyoming,commercial,2017,9.7075
+Wyoming,commercial,2018,9.58
+Wyoming,commercial,2019,9.654166666666667
+Wyoming,commercial,2020,9.681666666666667
+Wyoming,commercial,2021,9.686666666666666
+Wyoming,commercial,2022,9.559166666666666
+Wyoming,commercial,2023,8.954166666666667
+Wyoming,commercial,2024,9.280833333333334
+Wyoming,commercial,2025,9.545833333333333
+Wyoming,commercial,2026,9.63
+Wyoming,industrial,2001,3.435
+Wyoming,industrial,2002,3.5500000000000003
+Wyoming,industrial,2003,3.6591666666666662
+Wyoming,industrial,2004,3.9075
+Wyoming,industrial,2005,3.999166666666667
+Wyoming,industrial,2006,4.04
+Wyoming,industrial,2007,4.1049999999999995
+Wyoming,industrial,2008,4.4624999999999995
+Wyoming,industrial,2009,4.8341666666666665
+Wyoming,industrial,2010,4.979166666666667
+Wyoming,industrial,2011,5.410833333333334
+Wyoming,industrial,2012,6.029166666666666
+Wyoming,industrial,2013,6.423333333333333
+Wyoming,industrial,2014,6.610833333333333
+Wyoming,industrial,2015,6.758333333333333
+Wyoming,industrial,2016,6.925833333333333
+Wyoming,industrial,2017,6.918333333333333
+Wyoming,industrial,2018,6.709166666666667
+Wyoming,industrial,2019,6.728333333333333
+Wyoming,industrial,2020,6.889166666666667
+Wyoming,industrial,2021,6.833333333333333
+Wyoming,industrial,2022,6.888333333333333
+Wyoming,industrial,2023,7.059166666666666
+Wyoming,industrial,2024,7.9575
+Wyoming,industrial,2025,8.661666666666667
+Wyoming,industrial,2026,8.6
